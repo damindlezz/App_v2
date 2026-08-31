@@ -1,0 +1,31 @@
+/* UI performance containment for long, scrollable collections. */
+.library-list>button,
+.quran-study-verse,
+.study-ledger-module,
+.settings-card {
+  content-visibility:auto;
+}
+
+.library-list>button { contain-intrinsic-size:auto 72px; }
+.quran-study-verse { contain-intrinsic-size:auto 130px; }
+.study-ledger-module { contain-intrinsic-size:auto 88px; }
+.settings-card { contain-intrinsic-size:auto 420px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .nur-float-letter,
+  .busy-line,
+  .view-enter {
+    animation:none!important;
+  }
+}
+
+@media (max-width:700px), (update:slow) {
+  .nur-noise { display:none; }
+  .nur-float-letter:nth-of-type(n+5) { display:none; }
+}
+
+/* User-selected reduced motion also removes decorative paint/compositor work. */
+[data-motion="reduced"] .nur-noise,
+[data-motion="reduced"] .nur-float-letter {
+  display:none;
+}

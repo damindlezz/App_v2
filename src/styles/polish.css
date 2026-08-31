@@ -1,0 +1,117 @@
+/* NŪR — v4.4 global polish layer
+   Non-destructive refinements on top of the existing token & component system.
+   Loaded last so it wins the cascade without touching component markup. */
+
+/* ---------- Foundations: focus, selection, scroll ---------- */
+:where(button,a,input,select,textarea,[tabindex]):focus-visible{
+  outline:2px solid var(--accent-2);
+  outline-offset:3px;
+  border-radius:8px;
+  transition:outline-offset .12s ease;
+}
+::selection{background:color-mix(in srgb,var(--accent) 32%,transparent);color:var(--text)}
+*::-webkit-scrollbar-thumb:hover{background:color-mix(in srgb,var(--accent) 30%,var(--panel-3))}
+
+/* ---------- Typography rhythm ---------- */
+.page-title h1,.today-header h1,.study-canvas-hero h1{
+  font-weight:500;
+  background:linear-gradient(115deg,var(--text) 55%,color-mix(in srgb,var(--accent-2) 65%,var(--text)) 130%);
+  -webkit-background-clip:text;background-clip:text;
+}
+.section-heading{font-family:var(--display);font-weight:500;letter-spacing:-.01em;position:relative;padding-left:14px}
+.section-heading:before{content:"";position:absolute;left:0;top:.18em;bottom:.18em;width:3px;border-radius:99px;background:linear-gradient(var(--accent),var(--accent-2))}
+
+/* ---------- Buttons ---------- */
+.button{position:relative;overflow:hidden;letter-spacing:.005em;transition:transform .16s var(--ease),background-color .2s ease,border-color .2s ease,box-shadow .2s ease,color .2s ease}
+.button--primary{background:linear-gradient(155deg,var(--accent-2),var(--accent));color:#231604;box-shadow:0 1px 0 rgba(255,255,255,.25) inset,var(--shadow-sm);border-color:color-mix(in srgb,var(--accent) 60%,transparent)}
+.button--primary:hover{background:linear-gradient(155deg,var(--accent-2),color-mix(in srgb,var(--accent) 85%,var(--accent-2)));box-shadow:0 1px 0 rgba(255,255,255,.3) inset,0 10px 28px -12px color-mix(in srgb,var(--accent) 55%,transparent);transform:translateY(-1px)}
+.button--primary:active{transform:translateY(0) scale(.98)}
+.button--secondary{transition:transform .16s var(--ease),background-color .2s ease,border-color .2s ease,box-shadow .2s ease}
+.button--secondary:hover{transform:translateY(-1px);box-shadow:var(--shadow-sm)}
+.button--ghost{border-radius:10px}
+.button--ghost:hover{background:color-mix(in srgb,var(--text) 6%,transparent);color:var(--text)}
+.button--danger{box-shadow:0 1px 0 rgba(255,255,255,.15) inset,var(--shadow-sm)}
+.button--danger:hover{transform:translateY(-1px);filter:brightness(1.06)}
+.button:disabled:hover{transform:none;box-shadow:none}
+.icon-button{transition:transform .16s var(--ease),background-color .2s ease,border-color .2s ease,color .2s ease}
+.icon-button:hover{transform:translateY(-1px)}
+.icon-button:active{transform:scale(.94)}
+.text-link{border-radius:6px;transition:color .18s ease,gap .18s ease}
+.text-link:hover{gap:9px;color:var(--accent)}
+
+/* ---------- Pills, badges, eyebrows ---------- */
+.pill{border:1px solid color-mix(in srgb,var(--accent) 20%,transparent);box-shadow:0 1px 0 rgba(255,255,255,.05) inset}
+.section-eyebrow,.eyebrow{position:relative}
+
+/* ---------- Surfaces & cards ---------- */
+.surface,.today-focus,.today-secondary>article,.today-secondary>a,.core-goal-grid>a,.settings-card,
+.review-sidebar-card,.metric-card,.study-canvas-intro,.study-step-sequence,.module-study-check,
+.learning-block,.domain-lesson,.practice-featured>button,.practice-catalog>button,.variant-catalog>button{
+  position:relative;
+  background:linear-gradient(160deg,color-mix(in srgb,var(--panel-2) 35%,var(--panel)),var(--panel));
+  box-shadow:var(--shadow-sm);
+}
+.surface:hover,.core-goal-grid>a:hover,.practice-featured>button:hover,.practice-catalog>button:hover,.variant-catalog>button:hover{
+  box-shadow:var(--shadow-glow);
+}
+.choice-grid button,.match-board button,.analysis-task>section>div>button,.speech-rubric button,
+.speaking-target,.question-arabic,.result-grid span,.trace-score,.speech-analysis,.review-kpis article,
+.review-sidebar-stats>div{
+  transition:border-color .2s ease,background-color .2s ease,transform .18s var(--ease),box-shadow .2s ease;
+}
+.choice-grid button:hover:not(:disabled),.match-board button:hover:not(:disabled){
+  border-color:color-mix(in srgb,var(--accent) 45%,var(--line));
+  transform:translateY(-1px);
+}
+.choice-grid button.is-correct{box-shadow:0 0 0 1px color-mix(in srgb,var(--good) 40%,transparent)}
+.choice-grid button.is-wrong{box-shadow:0 0 0 1px color-mix(in srgb,var(--danger) 40%,transparent)}
+
+/* ---------- Inputs ---------- */
+input,select,textarea{transition:border-color .2s ease,box-shadow .2s ease,background-color .2s ease}
+input:hover,select:hover,textarea:hover{border-color:color-mix(in srgb,var(--accent) 30%,var(--line))}
+.search-box{transition:border-color .2s ease,box-shadow .2s ease}
+.search-box:focus-within{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 14%,transparent)}
+
+/* ---------- Progress ---------- */
+.progress-bar,.progress-line,.exercise-runner__progress,.focus-progress{position:relative}
+.progress-bar span,.progress-bar i,.progress-line i,.exercise-runner__progress i{
+  background:linear-gradient(90deg,var(--accent),var(--accent-2));
+}
+
+/* ---------- Top navigation ---------- */
+.nur-topbar{box-shadow:0 1px 0 color-mix(in srgb,var(--accent) 10%,transparent),0 18px 50px -40px rgba(0,0,0,.8)}
+.nur-brand-mark{filter:drop-shadow(0 0 10px color-mix(in srgb,var(--accent) 35%,transparent))}
+.nur-pill{transition:transform .16s var(--ease),background-color .2s ease,border-color .2s ease}
+.nur-pill:hover{transform:translateY(-1px)}
+.nur-main-nav>a,.nur-nav-drop>button{border-radius:8px 8px 0 0}
+.nur-main-nav>a:hover,.nur-nav-drop>button:hover{color:var(--text)}
+.nur-theme-menu,.nur-learn-menu{animation:nurFadeUp .18s var(--ease) both}
+.nur-mobile-nav a,.nur-mobile-nav button{transition:color .18s ease,background-color .18s ease,transform .18s var(--ease)}
+.nur-mobile-nav .is-active{box-shadow:0 1px 0 rgba(255,255,255,.06) inset}
+
+/* ---------- Gate / onboarding ---------- */
+.gate-card,.onboarding-card{box-shadow:var(--shadow-lg)}
+.profile-list>button{transition:transform .16s var(--ease),border-color .2s ease,background-color .2s ease}
+.profile-list>button:hover{transform:translateY(-1px) translateX(2px)}
+.avatar-picker button{transition:transform .16s var(--ease),border-color .2s ease,background-color .2s ease}
+.avatar-picker button:hover{transform:translateY(-1px)}
+
+/* ---------- Empty / result states ---------- */
+.empty-state,.empty-focus,.state-page{opacity:.98}
+.result-mark,.result-orb{box-shadow:var(--shadow-sm)}
+.result-orb.is-good,.result-mark.is-good{box-shadow:0 0 0 1px color-mix(in srgb,var(--good) 35%,transparent),0 14px 34px -18px color-mix(in srgb,var(--good) 45%,transparent)}
+
+/* ---------- Study workspaces: slightly deeper, calmer chrome ---------- */
+.study-workspace,.hifz-study-workspace,.module-study-workspace{box-shadow:var(--shadow-lg)}
+.study-ledger-module,.hifz-ledger-module{border-radius:12px;transition:background-color .2s ease}
+
+/* ---------- Quran reader micro-polish ---------- */
+.quran-study-verse{transition:background-color .2s ease}
+.quran-study-word-line button{transition:background-color .18s ease,box-shadow .18s ease}
+.quran-study-mushaf-line{transition:background-color .18s ease,color .18s ease}
+.quran-study-player .player-button{transition:transform .16s var(--ease),background-color .18s ease}
+.quran-study-player .player-button:hover{transform:scale(1.06);background:var(--accent-soft)}
+
+/* ---------- Reduced motion respect ---------- */
+[data-motion="reduced"] .button,[data-motion="reduced"] .icon-button,[data-motion="reduced"] .surface,
+[data-motion="reduced"] .choice-grid button,[data-motion="reduced"] .profile-list>button{transition:none!important}
