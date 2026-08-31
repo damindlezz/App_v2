@@ -1,0 +1,781 @@
+[
+  {
+    "id": "tpl_script_recognition",
+    "title": "Buchstaben erkennen",
+    "description": "Buchstabe, Name oder Laut auswählen.",
+    "competencyIds": [
+      "script_recognition"
+    ],
+    "contentDomains": [
+      "alphabet"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "A1",
+    "engineType": "alphabet",
+    "engineVariant": "alphabet_recognition",
+    "responseMode": "choice",
+    "feedbackMode": "brief",
+    "cognitiveDemand": "recognition",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_script_forms",
+    "title": "Schreibform bestimmen",
+    "description": "Buchstabenform nach Wortposition bestimmen.",
+    "competencyIds": [
+      "script_forms"
+    ],
+    "contentDomains": [
+      "alphabet"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "A1",
+    "engineType": "alphabet",
+    "engineVariant": "alphabet_positions",
+    "responseMode": "choice",
+    "feedbackMode": "contrast",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_script_trace",
+    "title": "Schrift nachzeichnen",
+    "description": "Grundform kontrolliert nachzeichnen.",
+    "competencyIds": [
+      "script_forms",
+      "writing_control"
+    ],
+    "contentDomains": [
+      "alphabet",
+      "writing"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "A1",
+    "engineType": "writing",
+    "engineVariant": "writing_trace",
+    "responseMode": "trace",
+    "feedbackMode": "brief",
+    "cognitiveDemand": "production",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_vocab_recognition",
+    "title": "Bedeutung erkennen",
+    "description": "Arabisches Wort und Bedeutung zuordnen.",
+    "competencyIds": [
+      "vocabulary_recognition"
+    ],
+    "contentDomains": [
+      "vocabulary"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "vocabulary",
+    "engineVariant": "vocabulary_matching",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "recognition",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_vocab_recall",
+    "title": "Wort aktiv schreiben",
+    "description": "Bedeutung ohne Auswahlhilfe ins Arabische übertragen.",
+    "competencyIds": [
+      "vocabulary_recall",
+      "writing_control"
+    ],
+    "contentDomains": [
+      "vocabulary"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "C2",
+    "engineType": "writing",
+    "engineVariant": "writing_input",
+    "responseMode": "text",
+    "feedbackMode": "contrast",
+    "cognitiveDemand": "recall",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_vocab_context",
+    "title": "Wort im Kontext",
+    "description": "Das passende arabische Wort aus einem echten Beispielsatz erschließen.",
+    "competencyIds": [
+      "vocabulary_recognition",
+      "reading_comprehension"
+    ],
+    "contentDomains": [
+      "vocabulary"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "vocabulary",
+    "engineVariant": "vocabulary_context",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_grammar_rule",
+    "title": "Regel anwenden",
+    "description": "Grammatikregel erkennen und anwenden.",
+    "competencyIds": [
+      "grammar_foundations",
+      "grammar_complex"
+    ],
+    "contentDomains": [
+      "grammar"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "grammar",
+    "engineVariant": "grammar_rules",
+    "responseMode": "choice",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_sentence_order",
+    "title": "Satz rekonstruieren",
+    "description": "Satzteile in eine grammatische Reihenfolge bringen.",
+    "competencyIds": [
+      "grammar_foundations",
+      "grammar_complex"
+    ],
+    "contentDomains": [
+      "grammar"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "C2",
+    "engineType": "sentence",
+    "engineVariant": "sentence_builder",
+    "responseMode": "tokens",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_reading_vocalized",
+    "title": "Vokalisiert lesen",
+    "description": "Vokalisierte Form erkennen und Bedeutung zuordnen.",
+    "competencyIds": [
+      "reading_decoding"
+    ],
+    "contentDomains": [
+      "reading"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "A2",
+    "engineType": "reading",
+    "engineVariant": "reading_vocalized",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "recognition",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_reading_harakat",
+    "title": "Harakat ergänzen",
+    "description": "Passende Vokalisierung für ein Wort oder Muster bestimmen.",
+    "competencyIds": [
+      "reading_decoding",
+      "phonology_vowels"
+    ],
+    "contentDomains": [
+      "reading"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "B1",
+    "engineType": "reading",
+    "engineVariant": "reading_harakat",
+    "responseMode": "choice",
+    "feedbackMode": "contrast",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_reading_comprehension",
+    "title": "Leseverstehen",
+    "description": "Kernaussage und Details eines Textes erfassen.",
+    "competencyIds": [
+      "reading_comprehension"
+    ],
+    "contentDomains": [
+      "reading"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "C2",
+    "engineType": "reading",
+    "engineVariant": "reading_meaning",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_writing_copy",
+    "title": "Kontrolliert schreiben",
+    "description": "Wort oder Satz nach Vorlage schreiben.",
+    "competencyIds": [
+      "writing_control"
+    ],
+    "contentDomains": [
+      "writing"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "A2",
+    "engineType": "writing",
+    "engineVariant": "writing_copy",
+    "responseMode": "text",
+    "feedbackMode": "contrast",
+    "cognitiveDemand": "production",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_writing_production",
+    "title": "Geführte Produktion",
+    "description": "Zielausdruck oder Satz aktiv schreiben.",
+    "competencyIds": [
+      "writing_control",
+      "writing_production"
+    ],
+    "contentDomains": [
+      "writing",
+      "vocabulary"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "C2",
+    "engineType": "writing",
+    "engineVariant": "writing_input",
+    "responseMode": "text",
+    "feedbackMode": "production",
+    "cognitiveDemand": "production",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_quran_signs",
+    "title": "Muṣḥaf-Zeichen",
+    "description": "Zeichen und ihre Lesefunktion identifizieren.",
+    "competencyIds": [
+      "quran_script"
+    ],
+    "contentDomains": [
+      "quran"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "A2",
+    "engineType": "quran",
+    "engineVariant": "quran_signs",
+    "responseMode": "choice",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "recognition",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_quran_vocalized",
+    "title": "Quranisch vokalisiert lesen",
+    "description": "Vollständig vokalisierte technische Quran-Leseausschnitte sicher dekodieren.",
+    "competencyIds": [
+      "quran_script"
+    ],
+    "contentDomains": [
+      "quran"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "B1",
+    "engineType": "quran",
+    "engineVariant": "reading_vocalized",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_quran_tajweed",
+    "title": "Tajwīd-Regel",
+    "description": "Regel anhand eines technischen Beispiels bestimmen.",
+    "competencyIds": [
+      "quran_tajweed"
+    ],
+    "contentDomains": [
+      "quran"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "B1",
+    "engineType": "quran",
+    "engineVariant": "quran_tajweed",
+    "responseMode": "choice",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_quran_pause",
+    "title": "Waqf entscheiden",
+    "description": "Pausen- und Fortsetzungszeichen einordnen.",
+    "competencyIds": [
+      "quran_script",
+      "quran_tajweed"
+    ],
+    "contentDomains": [
+      "quran"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "B1",
+    "engineType": "quran",
+    "engineVariant": "quran_pauses",
+    "responseMode": "choice",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_listening_comprehension",
+    "title": "Hörverstehen",
+    "description": "Audio hören und Bedeutung auswählen.",
+    "competencyIds": [
+      "listening_comprehension"
+    ],
+    "contentDomains": [
+      "vocabulary",
+      "reading"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "reading",
+    "engineVariant": "reading_listening",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "recall",
+    "requiresAudio": true,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_speaking_production",
+    "title": "Sprechproduktion",
+    "description": "Antwort aufnehmen und sprachlich auswerten.",
+    "competencyIds": [
+      "speaking_production",
+      "interaction_dialogue"
+    ],
+    "contentDomains": [
+      "vocabulary",
+      "grammar",
+      "reading",
+      "writing"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "C2",
+    "engineType": "speaking",
+    "engineVariant": "speaking_shadowing",
+    "responseMode": "self_assessment",
+    "feedbackMode": "production",
+    "cognitiveDemand": "production",
+    "requiresAudio": true,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_fiqh_knowledge",
+    "title": "Fiqh-Wissenscheck",
+    "description": "Begriffe, Madhhab-Zuordnung und Fallanalyse aktiv abrufen.",
+    "competencyIds": [
+      "fiqh_structure",
+      "fiqh_madhhab",
+      "fiqh_case_analysis"
+    ],
+    "contentDomains": [
+      "courseModule"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "knowledge",
+    "engineVariant": "knowledge_quiz",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_usul_fiqh_knowledge",
+    "title": "Uṣūl-al-Fiqh-Wissenscheck",
+    "description": "Begriffe, Beleganalyse und methodische Schritte aktiv abrufen.",
+    "competencyIds": [
+      "usul_fiqh_terms",
+      "usul_fiqh_evidence",
+      "usul_fiqh_method"
+    ],
+    "contentDomains": [
+      "courseModule"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "knowledge",
+    "engineVariant": "knowledge_quiz",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_hadith_knowledge",
+    "title": "Ḥadīṯ-Wissenscheck",
+    "description": "Quelle, Thema und Kontext einer Überlieferung methodisch einordnen.",
+    "competencyIds": [
+      "hadith_source",
+      "hadith_theme",
+      "hadith_context"
+    ],
+    "contentDomains": [
+      "courseModule"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "knowledge",
+    "engineVariant": "knowledge_quiz",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_usul_hadith_knowledge",
+    "title": "Uṣūl-al-Ḥadīṯ-Wissenscheck",
+    "description": "Terminologie, Isnād/Matn und Quellenkritik aktiv anwenden.",
+    "competencyIds": [
+      "usul_hadith_terms",
+      "usul_hadith_chain",
+      "usul_hadith_criticism"
+    ],
+    "contentDomains": [
+      "courseModule"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "knowledge",
+    "engineVariant": "knowledge_quiz",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_vocab_listening",
+    "title": "Wort hören",
+    "description": "Arabisches Wort hören und Bedeutung erkennen.",
+    "competencyIds": [
+      "listening_comprehension",
+      "vocabulary_recognition"
+    ],
+    "contentDomains": [
+      "vocabulary"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "vocabulary",
+    "engineVariant": "vocabulary_listening",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "recognition",
+    "requiresAudio": true,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_vocab_dictation",
+    "title": "Hördiktat",
+    "description": "Gehörtes Wort ohne Sichtvorlage auf Arabisch schreiben.",
+    "competencyIds": [
+      "listening_comprehension",
+      "vocabulary_recall",
+      "writing_control"
+    ],
+    "contentDomains": [
+      "vocabulary"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "C2",
+    "engineType": "vocabulary",
+    "engineVariant": "vocabulary_dictation",
+    "responseMode": "text",
+    "feedbackMode": "contrast",
+    "cognitiveDemand": "recall",
+    "requiresAudio": true,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_vocab_speaking",
+    "title": "Nachsprechen",
+    "description": "Wort oder kurzen Ausdruck hören, aufnehmen und selbst bewerten.",
+    "competencyIds": [
+      "speaking_production",
+      "vocabulary_recall"
+    ],
+    "contentDomains": [
+      "vocabulary"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "speaking",
+    "engineVariant": "speaking_shadowing",
+    "responseMode": "self_assessment",
+    "feedbackMode": "production",
+    "cognitiveDemand": "production",
+    "requiresAudio": true,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_morphology_root",
+    "title": "Wurzel erkennen",
+    "description": "Wort und hinterlegte Wurzel sicher zuordnen.",
+    "competencyIds": [
+      "vocabulary_word_family",
+      "morphology_patterns"
+    ],
+    "contentDomains": [
+      "vocabulary"
+    ],
+    "minLevel": "A2",
+    "maxLevel": "C2",
+    "engineType": "vocabulary",
+    "engineVariant": "morphology_root",
+    "responseMode": "choice",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_register_shift",
+    "title": "Register erkennen",
+    "description": "Neutralen, formellen, akademischen oder literarischen Gebrauch unterscheiden.",
+    "competencyIds": [
+      "register_control",
+      "vocabulary_recall"
+    ],
+    "contentDomains": [
+      "vocabulary"
+    ],
+    "minLevel": "B2",
+    "maxLevel": "C2",
+    "engineType": "vocabulary",
+    "engineVariant": "register_shift",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "transfer",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_hadith_analysis",
+    "title": "Hadith-Labor",
+    "description": "Methodische Aussagen zu Quelle, Kette, Text und Bewertungsgrenzen analysieren.",
+    "competencyIds": [
+      "usul_hadith_terms",
+      "usul_hadith_chain",
+      "usul_hadith_criticism"
+    ],
+    "contentDomains": [
+      "courseModule"
+    ],
+    "minLevel": "B1",
+    "maxLevel": "C2",
+    "engineType": "knowledge",
+    "engineVariant": "hadith_analysis",
+    "responseMode": "choice",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "transfer",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_fiqh_compare",
+    "title": "Fiqh-Vergleich",
+    "description": "Schulzuordnung, Gemeinsamkeiten und methodische Unterschiede attribuiert vergleichen.",
+    "competencyIds": [
+      "fiqh_madhhab",
+      "fiqh_case_analysis",
+      "usul_fiqh_method"
+    ],
+    "contentDomains": [
+      "courseModule"
+    ],
+    "minLevel": "B1",
+    "maxLevel": "C2",
+    "engineType": "knowledge",
+    "engineVariant": "fiqh_compare",
+    "responseMode": "choice",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "transfer",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_script_sound",
+    "title": "Laut zuordnen",
+    "description": "Vom gesprochenen oder dargestellten Laut zum passenden arabischen Buchstaben wechseln.",
+    "competencyIds": [
+      "script_recognition"
+    ],
+    "contentDomains": [
+      "alphabet"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "A1",
+    "engineType": "alphabet",
+    "engineVariant": "alphabet_sound",
+    "responseMode": "choice",
+    "feedbackMode": "contrast",
+    "cognitiveDemand": "recall",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_grammar_cloze",
+    "title": "Lückensatz anwenden",
+    "description": "Eine grammatische Form direkt im Satzkontext auswählen.",
+    "competencyIds": [
+      "grammar_foundations",
+      "grammar_complex"
+    ],
+    "contentDomains": [
+      "grammar"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "grammar",
+    "engineVariant": "grammar_cloze",
+    "responseMode": "choice",
+    "feedbackMode": "rule",
+    "cognitiveDemand": "application",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_grammar_error_correction",
+    "title": "Fehler korrigieren",
+    "description": "Typische Fehlannahmen erkennen und durch die fachlich richtige Regel ersetzen.",
+    "competencyIds": [
+      "grammar_foundations",
+      "grammar_complex"
+    ],
+    "contentDomains": [
+      "grammar"
+    ],
+    "minLevel": "A2",
+    "maxLevel": "C2",
+    "engineType": "grammar",
+    "engineVariant": "grammar_error_correction",
+    "responseMode": "choice",
+    "feedbackMode": "contrast",
+    "cognitiveDemand": "transfer",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_quran_language",
+    "title": "Quran-Sprache analysieren",
+    "description": "Wortschatz- und Grammatikstrukturen anhand eines Quran-Beispiels funktional einordnen.",
+    "competencyIds": [
+      "quran_vocabulary",
+      "quran_grammar"
+    ],
+    "contentDomains": [
+      "quran"
+    ],
+    "minLevel": "A1",
+    "maxLevel": "C2",
+    "engineType": "quran",
+    "engineVariant": "quran_language",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "transfer",
+    "requiresAudio": false,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_grammar_listening",
+    "title": "Grammatik hoeren",
+    "description": "Beispielsatz hoeren und Bedeutung oder Struktur erkennen.",
+    "competencyIds": [
+      "listening_comprehension",
+      "grammar_foundations"
+    ],
+    "contentDomains": [
+      "grammar"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "grammar",
+    "engineVariant": "grammar_listening",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "application",
+    "requiresAudio": true,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_reading_listening",
+    "title": "Satz hoeren",
+    "description": "Vokalisierten Satz hoeren und Bedeutung erkennen.",
+    "competencyIds": [
+      "listening_comprehension",
+      "reading_comprehension"
+    ],
+    "contentDomains": [
+      "reading"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "reading",
+    "engineVariant": "reading_listening",
+    "responseMode": "choice",
+    "feedbackMode": "context",
+    "cognitiveDemand": "recall",
+    "requiresAudio": true,
+    "runtimeStatus": "implemented"
+  },
+  {
+    "id": "tpl_writing_dictation",
+    "title": "Diktat",
+    "description": "Arabische Zielform hoeren und korrekt schreiben.",
+    "competencyIds": [
+      "listening_comprehension",
+      "writing_production"
+    ],
+    "contentDomains": [
+      "writing"
+    ],
+    "minLevel": "A0",
+    "maxLevel": "C2",
+    "engineType": "writing",
+    "engineVariant": "writing_dictation",
+    "responseMode": "text",
+    "feedbackMode": "production",
+    "cognitiveDemand": "production",
+    "requiresAudio": true,
+    "runtimeStatus": "implemented"
+  }
+]

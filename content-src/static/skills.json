@@ -1,0 +1,528 @@
+[
+  {
+    "id": "script_recognition",
+    "domain": "script",
+    "title": "Schrift erkennen",
+    "description": "Arabische Buchstaben und Wortbilder sicher erkennen.",
+    "levels": [
+      "A0",
+      "A1"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "latency"
+    ]
+  },
+  {
+    "id": "script_forms",
+    "domain": "script",
+    "title": "Schreibformen",
+    "description": "Isolierte, initiale, mediale und finale Buchstabenformen unterscheiden und bilden.",
+    "levels": [
+      "A0",
+      "A1"
+    ],
+    "parentId": "script_recognition",
+    "measurableBy": [
+      "accuracy",
+      "production"
+    ]
+  },
+  {
+    "id": "phonology_vowels",
+    "domain": "phonology",
+    "title": "Vokale und Silben",
+    "description": "Kurzvokale, lange Vokale, Sukūn und Šadda hören und lesen.",
+    "levels": [
+      "A0",
+      "A1"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "listening"
+    ]
+  },
+  {
+    "id": "vocabulary_recognition",
+    "domain": "vocabulary",
+    "title": "Wortbedeutung erkennen",
+    "description": "Bekannte Wörter im Kontext schnell verstehen.",
+    "levels": [
+      "A0",
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "latency"
+    ]
+  },
+  {
+    "id": "vocabulary_recall",
+    "domain": "vocabulary",
+    "title": "Wort aktiv abrufen",
+    "description": "Bedeutungen ohne Auswahlhilfe aktiv produzieren.",
+    "levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "parentId": "vocabulary_recognition",
+    "measurableBy": [
+      "accuracy",
+      "spelling"
+    ]
+  },
+  {
+    "id": "vocabulary_word_family",
+    "domain": "vocabulary",
+    "title": "Wortfamilien",
+    "description": "Wurzeln, Muster und verwandte Wörter verbinden.",
+    "levels": [
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "transfer"
+    ]
+  },
+  {
+    "id": "grammar_foundations",
+    "domain": "grammar",
+    "title": "Grammatische Grundlagen",
+    "description": "Grundlegende Nominal- und Verbstrukturen sicher anwenden.",
+    "levels": [
+      "A0",
+      "A1",
+      "A2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "application"
+    ]
+  },
+  {
+    "id": "grammar_complex",
+    "domain": "grammar",
+    "title": "Komplexe Syntax",
+    "description": "Nebensätze, Abhängigkeiten und komplexe Satzstrukturen kontrollieren.",
+    "levels": [
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "transfer"
+    ]
+  },
+  {
+    "id": "morphology_patterns",
+    "domain": "morphology",
+    "title": "Morphologische Muster",
+    "description": "Verbformen, Maṣdar, Partizipien und Flexionsmuster erkennen und bilden.",
+    "levels": [
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "production"
+    ]
+  },
+  {
+    "id": "reading_decoding",
+    "domain": "reading",
+    "title": "Dekodieren",
+    "description": "Vokalisierte und unvokalisierte Schrift sicher erschließen.",
+    "levels": [
+      "A0",
+      "A1",
+      "A2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "latency"
+    ]
+  },
+  {
+    "id": "reading_comprehension",
+    "domain": "reading",
+    "title": "Leseverstehen",
+    "description": "Informationen, Beziehungen und Kernaussagen aus Texten entnehmen.",
+    "levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "inference"
+    ]
+  },
+  {
+    "id": "reading_inference",
+    "domain": "reading",
+    "title": "Inferenz und Textstruktur",
+    "description": "Implizite Aussagen, Textfunktion und Argumentationsstruktur erschließen.",
+    "levels": [
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "parentId": "reading_comprehension",
+    "measurableBy": [
+      "inference",
+      "transfer"
+    ]
+  },
+  {
+    "id": "writing_control",
+    "domain": "writing",
+    "title": "Schriftkontrolle",
+    "description": "Arabische Wörter und Sätze orthografisch kontrolliert schreiben.",
+    "levels": [
+      "A0",
+      "A1",
+      "A2"
+    ],
+    "measurableBy": [
+      "spelling",
+      "accuracy"
+    ]
+  },
+  {
+    "id": "writing_production",
+    "domain": "writing",
+    "title": "Freie Schriftproduktion",
+    "description": "Zusammenhängende Texte adressaten- und zielgerecht schreiben.",
+    "levels": [
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "parentId": "writing_control",
+    "measurableBy": [
+      "production",
+      "coherence"
+    ]
+  },
+  {
+    "id": "listening_comprehension",
+    "domain": "listening",
+    "title": "Hörverstehen",
+    "description": "Gesprochene Wörter und Aussagen identifizieren und verstehen.",
+    "levels": [
+      "A0",
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "latency"
+    ]
+  },
+  {
+    "id": "speaking_production",
+    "domain": "speaking",
+    "title": "Sprechen",
+    "description": "Wörter, Sätze und zusammenhängende Beiträge aktiv produzieren.",
+    "levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "production",
+      "fluency"
+    ]
+  },
+  {
+    "id": "interaction_dialogue",
+    "domain": "interaction",
+    "title": "Interaktion",
+    "description": "Situativ angemessen reagieren, nachfragen und Gespräche weiterführen.",
+    "levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "production",
+      "appropriacy"
+    ]
+  },
+  {
+    "id": "discourse_argumentation",
+    "domain": "discourse",
+    "title": "Argumentation und Kohärenz",
+    "description": "Positionen strukturiert begründen, zusammenfassen und verbinden.",
+    "levels": [
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "coherence",
+      "transfer"
+    ]
+  },
+  {
+    "id": "register_control",
+    "domain": "register",
+    "title": "Registerkontrolle",
+    "description": "Formelles, akademisches und stilistisch markiertes Fusha unterscheiden und einsetzen.",
+    "levels": [
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "measurableBy": [
+      "appropriacy",
+      "production"
+    ]
+  },
+  {
+    "id": "quran_script",
+    "domain": "quran",
+    "title": "Muṣḥaf-Schrift",
+    "description": "Besonderheiten der Muṣḥaf-Schrift sicher erkennen.",
+    "levels": [
+      "A0",
+      "A1"
+    ],
+    "measurableBy": [
+      "accuracy"
+    ]
+  },
+  {
+    "id": "quran_tajweed",
+    "domain": "quran",
+    "title": "Tajwīd",
+    "description": "Tajwīd-Regeln erkennen und in der Lesetechnik anwenden.",
+    "levels": [
+      "A1",
+      "A2"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "application"
+    ]
+  },
+  {
+    "id": "quran_vocabulary",
+    "domain": "quran",
+    "title": "Quran-Wortschatz",
+    "description": "Häufige Quranwörter, Funktionswörter und Wortfamilien erschließen.",
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "transfer"
+    ]
+  },
+  {
+    "id": "quran_grammar",
+    "domain": "quran",
+    "title": "Quran-Grammatik",
+    "description": "Wiederkehrende nominale, verbale und referentielle Muster analysieren.",
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "analysis"
+    ]
+  },
+  {
+    "id": "fiqh_structure",
+    "domain": "fiqh",
+    "title": "Fiqh-Systematik",
+    "description": "Fiqh-Kapitel, Voraussetzungen, Kategorien und Fallstruktur systematisch ordnen.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "classification"
+    ]
+  },
+  {
+    "id": "fiqh_madhhab",
+    "domain": "fiqh",
+    "title": "Madhhab-Zuordnung",
+    "description": "Rechtspositionen und Terminologie eindeutig einer Rechtsschule und Quelle zuordnen.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "attribution"
+    ]
+  },
+  {
+    "id": "fiqh_case_analysis",
+    "domain": "fiqh",
+    "title": "Fiqh-Fallanalyse",
+    "description": "Sachverhalt, Regel, Ausnahme und Ergebnis methodisch auseinanderhalten.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "analysis",
+      "transfer"
+    ]
+  },
+  {
+    "id": "usul_fiqh_terms",
+    "domain": "usul_fiqh",
+    "title": "Uṣūl-Begriffe",
+    "description": "Zentrale Begriffe der islamischen Rechtsmethodik sicher unterscheiden.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "classification"
+    ]
+  },
+  {
+    "id": "usul_fiqh_evidence",
+    "domain": "usul_fiqh",
+    "title": "Beleganalyse",
+    "description": "Belegart, Sprachform, Kontext und Ableitungsschritt getrennt analysieren.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "analysis",
+      "accuracy"
+    ]
+  },
+  {
+    "id": "usul_fiqh_method",
+    "domain": "usul_fiqh",
+    "title": "Methodenvergleich",
+    "description": "Methodische Unterschiede zwischen Rechtsschulen sauber attribuieren.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "comparison",
+      "transfer"
+    ]
+  },
+  {
+    "id": "hadith_source",
+    "domain": "hadith",
+    "title": "Quellenbezug",
+    "description": "Hadithe mit Sammlung, Kapitel und stabiler Referenz verknüpfen.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "source_use"
+    ]
+  },
+  {
+    "id": "hadith_theme",
+    "domain": "hadith",
+    "title": "Themenverständnis",
+    "description": "Hadithtexte thematisch erschließen, ohne Text, Kommentar und Rechtsableitung zu vermischen.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "comprehension",
+      "classification"
+    ]
+  },
+  {
+    "id": "hadith_context",
+    "domain": "hadith",
+    "title": "Kontext",
+    "description": "Kontext, Parallelüberlieferungen und Kommentarbezug beim Hadithstudium berücksichtigen.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "analysis",
+      "transfer"
+    ]
+  },
+  {
+    "id": "usul_hadith_terms",
+    "domain": "usul_hadith",
+    "title": "Hadithterminologie",
+    "description": "Grundbegriffe der Hadithwissenschaften präzise unterscheiden.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "accuracy",
+      "classification"
+    ]
+  },
+  {
+    "id": "usul_hadith_chain",
+    "domain": "usul_hadith",
+    "title": "Isnād/Matn-Analyse",
+    "description": "Kettenstruktur und Textkörper als getrennte Analyseebenen verstehen.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "analysis",
+      "accuracy"
+    ]
+  },
+  {
+    "id": "usul_hadith_criticism",
+    "domain": "usul_hadith",
+    "title": "Quellenkritik",
+    "description": "Überlieferungsvarianten, Bewertungen und Grenzen fachgerecht lesen und attribuieren.",
+    "levels": [
+      "A0"
+    ],
+    "measurableBy": [
+      "analysis",
+      "source_use"
+    ]
+  }
+]

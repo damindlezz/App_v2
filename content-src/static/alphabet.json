@@ -1,0 +1,898 @@
+[
+  {
+    "id": "alif",
+    "letter": "ا",
+    "name": "Alif",
+    "sound": "a / ā",
+    "group": "Gruppe 1",
+    "order": 1,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": "Grundsätzlich hell; trägt häufig Hamza oder lange Vokale.",
+    "forms": {
+      "isolated": "ا",
+      "initial": "ا",
+      "medial": "ـا",
+      "final": "ـا"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Alif erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ba",
+    "letter": "ب",
+    "name": "Bā",
+    "sound": "b",
+    "group": "Gruppe 1",
+    "order": 2,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ب",
+      "initial": "بـ",
+      "medial": "ـبـ",
+      "final": "ـب"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Bā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ta",
+    "letter": "ت",
+    "name": "Tā",
+    "sound": "t",
+    "group": "Gruppe 1",
+    "order": 3,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ت",
+      "initial": "تـ",
+      "medial": "ـتـ",
+      "final": "ـت"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Tā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "tha",
+    "letter": "ث",
+    "name": "Thā",
+    "sound": "th",
+    "group": "Gruppe 1",
+    "order": 4,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ث",
+      "initial": "ثـ",
+      "medial": "ـثـ",
+      "final": "ـث"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Thā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "jim",
+    "letter": "ج",
+    "name": "Dschīm",
+    "sound": "dsch",
+    "group": "Gruppe 1",
+    "order": 5,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ج",
+      "initial": "جـ",
+      "medial": "ـجـ",
+      "final": "ـج"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Dschīm erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ha",
+    "letter": "ح",
+    "name": "Ḥā",
+    "sound": "kräftiges h",
+    "group": "Gruppe 1",
+    "order": 6,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": "Kehllaut, aber nicht als dunkler Buchstabe gruppiert.",
+    "forms": {
+      "isolated": "ح",
+      "initial": "حـ",
+      "medial": "ـحـ",
+      "final": "ـح"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Ḥā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "kha",
+    "letter": "خ",
+    "name": "Chā",
+    "sound": "ch",
+    "group": "Gruppe 1",
+    "order": 7,
+    "weight": "dark",
+    "weightLabel": "dunkel",
+    "weightNote": "Buchstabe der erhöhten/dunklen Aussprachegruppe.",
+    "forms": {
+      "isolated": "خ",
+      "initial": "خـ",
+      "medial": "ـخـ",
+      "final": "ـخ"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Chā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "dark",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "dal",
+    "letter": "د",
+    "name": "Dāl",
+    "sound": "d",
+    "group": "Gruppe 2",
+    "order": 8,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": "Verbindet sich nicht mit dem folgenden Buchstaben.",
+    "forms": {
+      "isolated": "د",
+      "initial": "د",
+      "medial": "ـد",
+      "final": "ـد"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Dāl erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "dhal",
+    "letter": "ذ",
+    "name": "Dhāl",
+    "sound": "dh",
+    "group": "Gruppe 2",
+    "order": 9,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": "Verbindet sich nicht mit dem folgenden Buchstaben.",
+    "forms": {
+      "isolated": "ذ",
+      "initial": "ذ",
+      "medial": "ـذ",
+      "final": "ـذ"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Dhāl erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ra",
+    "letter": "ر",
+    "name": "Rā",
+    "sound": "r",
+    "group": "Gruppe 2",
+    "order": 10,
+    "weight": "contextual",
+    "weightLabel": "kontextabhängig",
+    "weightNote": "Kann je nach Vokalisierung und Umgebung hell oder dunkel gesprochen werden.",
+    "forms": {
+      "isolated": "ر",
+      "initial": "ر",
+      "medial": "ـر",
+      "final": "ـر"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Rā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "contextual",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "zay",
+    "letter": "ز",
+    "name": "Zāy",
+    "sound": "z",
+    "group": "Gruppe 2",
+    "order": 11,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": "Verbindet sich nicht mit dem folgenden Buchstaben.",
+    "forms": {
+      "isolated": "ز",
+      "initial": "ز",
+      "medial": "ـز",
+      "final": "ـز"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Zāy erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "sin",
+    "letter": "س",
+    "name": "Sīn",
+    "sound": "s",
+    "group": "Gruppe 2",
+    "order": 12,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "س",
+      "initial": "سـ",
+      "medial": "ـسـ",
+      "final": "ـس"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Sīn erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "shin",
+    "letter": "ش",
+    "name": "Schīn",
+    "sound": "sch",
+    "group": "Gruppe 2",
+    "order": 13,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ش",
+      "initial": "شـ",
+      "medial": "ـشـ",
+      "final": "ـش"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Schīn erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "sad",
+    "letter": "ص",
+    "name": "Ṣād",
+    "sound": "dunkles s",
+    "group": "Gruppe 2",
+    "order": 14,
+    "weight": "dark",
+    "weightLabel": "dunkel",
+    "weightNote": "Buchstabe der erhöhten/dunklen Aussprachegruppe.",
+    "forms": {
+      "isolated": "ص",
+      "initial": "صـ",
+      "medial": "ـصـ",
+      "final": "ـص"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Ṣād erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "dark",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "dad",
+    "letter": "ض",
+    "name": "Ḍād",
+    "sound": "dunkles d",
+    "group": "Gruppe 3",
+    "order": 15,
+    "weight": "dark",
+    "weightLabel": "dunkel",
+    "weightNote": "Buchstabe der erhöhten/dunklen Aussprachegruppe.",
+    "forms": {
+      "isolated": "ض",
+      "initial": "ضـ",
+      "medial": "ـضـ",
+      "final": "ـض"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Ḍād erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "dark",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ta_emphatic",
+    "letter": "ط",
+    "name": "Ṭā",
+    "sound": "dunkles t",
+    "group": "Gruppe 3",
+    "order": 16,
+    "weight": "dark",
+    "weightLabel": "dunkel",
+    "weightNote": "Buchstabe der erhöhten/dunklen Aussprachegruppe.",
+    "forms": {
+      "isolated": "ط",
+      "initial": "طـ",
+      "medial": "ـطـ",
+      "final": "ـط"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Ṭā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "dark",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "za_emphatic",
+    "letter": "ظ",
+    "name": "Ẓā",
+    "sound": "dunkles z",
+    "group": "Gruppe 3",
+    "order": 17,
+    "weight": "dark",
+    "weightLabel": "dunkel",
+    "weightNote": "Buchstabe der erhöhten/dunklen Aussprachegruppe.",
+    "forms": {
+      "isolated": "ظ",
+      "initial": "ظـ",
+      "medial": "ـظـ",
+      "final": "ـظ"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Ẓā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "dark",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ayn",
+    "letter": "ع",
+    "name": "ʿAin",
+    "sound": "Kehllaut",
+    "group": "Gruppe 3",
+    "order": 18,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": "Kehllaut mit eigener Artikulationsstelle.",
+    "forms": {
+      "isolated": "ع",
+      "initial": "عـ",
+      "medial": "ـعـ",
+      "final": "ـع"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben ʿAin erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ghayn",
+    "letter": "غ",
+    "name": "Ghain",
+    "sound": "gh",
+    "group": "Gruppe 3",
+    "order": 19,
+    "weight": "dark",
+    "weightLabel": "dunkel",
+    "weightNote": "Buchstabe der erhöhten/dunklen Aussprachegruppe.",
+    "forms": {
+      "isolated": "غ",
+      "initial": "غـ",
+      "medial": "ـغـ",
+      "final": "ـغ"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Ghain erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "dark",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "fa",
+    "letter": "ف",
+    "name": "Fā",
+    "sound": "f",
+    "group": "Gruppe 3",
+    "order": 20,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ف",
+      "initial": "فـ",
+      "medial": "ـفـ",
+      "final": "ـف"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Fā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "qaf",
+    "letter": "ق",
+    "name": "Qāf",
+    "sound": "q",
+    "group": "Gruppe 3",
+    "order": 21,
+    "weight": "dark",
+    "weightLabel": "dunkel",
+    "weightNote": "Buchstabe der erhöhten/dunklen Aussprachegruppe.",
+    "forms": {
+      "isolated": "ق",
+      "initial": "قـ",
+      "medial": "ـقـ",
+      "final": "ـق"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Qāf erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "dark",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "kaf",
+    "letter": "ك",
+    "name": "Kāf",
+    "sound": "k",
+    "group": "Gruppe 4",
+    "order": 22,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ك",
+      "initial": "كـ",
+      "medial": "ـكـ",
+      "final": "ـك"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Kāf erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "lam",
+    "letter": "ل",
+    "name": "Lām",
+    "sound": "l",
+    "group": "Gruppe 4",
+    "order": 23,
+    "weight": "contextual",
+    "weightLabel": "kontextabhängig",
+    "weightNote": "Im Gottesnamen kann Lām abhängig vom vorausgehenden Vokal dunkel oder hell sein.",
+    "forms": {
+      "isolated": "ل",
+      "initial": "لـ",
+      "medial": "ـلـ",
+      "final": "ـل"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Lām erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "contextual",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "mim",
+    "letter": "م",
+    "name": "Mīm",
+    "sound": "m",
+    "group": "Gruppe 4",
+    "order": 24,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "م",
+      "initial": "مـ",
+      "medial": "ـمـ",
+      "final": "ـم"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Mīm erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "nun",
+    "letter": "ن",
+    "name": "Nūn",
+    "sound": "n",
+    "group": "Gruppe 4",
+    "order": 25,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ن",
+      "initial": "نـ",
+      "medial": "ـنـ",
+      "final": "ـن"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Nūn erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ha_soft",
+    "letter": "ه",
+    "name": "Hā",
+    "sound": "h",
+    "group": "Gruppe 4",
+    "order": 26,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ه",
+      "initial": "هـ",
+      "medial": "ـهـ",
+      "final": "ـه"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Hā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "waw",
+    "letter": "و",
+    "name": "Wāw",
+    "sound": "w / ū",
+    "group": "Gruppe 4",
+    "order": 27,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": "Verbindet sich nicht mit dem folgenden Buchstaben.",
+    "forms": {
+      "isolated": "و",
+      "initial": "و",
+      "medial": "ـو",
+      "final": "ـو"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Wāw erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "ya",
+    "letter": "ي",
+    "name": "Yā",
+    "sound": "y / ī",
+    "group": "Gruppe 4",
+    "order": 28,
+    "weight": "light",
+    "weightLabel": "hell",
+    "weightNote": null,
+    "forms": {
+      "isolated": "ي",
+      "initial": "يـ",
+      "medial": "ـيـ",
+      "final": "ـي"
+    },
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Den Buchstaben Yā erkennen, benennen und seiner Aussprachegruppe zuordnen."
+    ],
+    "reviewTags": [
+      "alphabet",
+      "light",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  }
+]

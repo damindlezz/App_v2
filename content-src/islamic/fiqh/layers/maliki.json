@@ -1,0 +1,3984 @@
+[
+  {
+    "id": "fiqh_maliki_s0",
+    "track": "fiqh_maliki",
+    "description": "Mālikī · Grundlagen: strukturierter, reviewpflichtiger Lernabschnitt.",
+    "levelLabel": "Mālikī · Grundlagen",
+    "units": [
+      {
+        "id": "fiqh_maliki_s0_methodik",
+        "track": "fiqh_maliki",
+        "learningId": "fiqh_maliki_s0_methodik_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s0_methodik_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_methodik_learn_1_section_1",
+                "title": "Kernbegriffe",
+                "description": "Madhhab verstehen: Kernbegriffe aufbauen.",
+                "estimatedMinutes": 8,
+                "contentIds": [],
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_1_block_1",
+                    "type": "definition",
+                    "title": "Madhhab",
+                    "text": "Eine juristische Lehrtradition mit eigener Terminologie, Textüberlieferung und Methode der Rechtsdarstellung."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_1_block_2",
+                    "type": "definition",
+                    "title": "Masʾala",
+                    "text": "Eine klar abgegrenzte Rechtsfrage, die vor der Regelanwendung sachlich beschrieben wird."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_1_block_3",
+                    "type": "definition",
+                    "title": "Attribution",
+                    "text": "Die eindeutige Zuordnung einer Aussage zu Rechtsschule, Werk und gegebenenfalls Autor."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_1_block_4",
+                    "type": "definition",
+                    "title": "Lernziel",
+                    "text": "Aufbau, Terminologie und Lernweise der Rechtsschule unterscheiden, ohne Positionen anderer Schulen abzuwerten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_methodik_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_methodik_learn_2_section_1",
+                "title": "Systematik",
+                "description": "Madhhab verstehen: Systematik ordnen.",
+                "estimatedMinutes": 8,
+                "contentIds": [],
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_2_block_1",
+                    "type": "steps",
+                    "title": "Prüfschritt 1",
+                    "text": "Zuerst die Rechtsfrage beschreiben, dann das Fiqh-Kapitel bestimmen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_2_block_2",
+                    "type": "steps",
+                    "title": "Prüfschritt 2",
+                    "text": "Schulinterne Begriffe und Einstufungen nicht still mit anderen Schulen vermischen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_2_block_3",
+                    "type": "steps",
+                    "title": "Prüfschritt 3",
+                    "text": "Zwischen Lernzusammenfassung, zitierter Schulposition und individueller Rechtsauskunft unterscheiden."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_2_block_4",
+                    "type": "remember",
+                    "title": "Merksatz",
+                    "text": "Madhhab als juristische Lehrtradition einordnen."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_methodik_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_methodik_learn_3_section_1",
+                "title": "Anwendung",
+                "description": "Madhhab verstehen: Fälle anwenden.",
+                "estimatedMinutes": 8,
+                "contentIds": [],
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_3_block_1",
+                    "type": "example",
+                    "title": "Übungsfall 1",
+                    "text": "Eine Regel aus einem Lehrbuch wird ohne Schulangabe zitiert."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_3_block_2",
+                    "type": "example",
+                    "title": "Übungsfall 2",
+                    "text": "Zwei Schulen verwenden unterschiedliche Kategorien für denselben Sachverhalt."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_3_block_3",
+                    "type": "example",
+                    "title": "Übungsfall 3",
+                    "text": "Eine moderne Einzelfrage soll direkt aus einer Kurzregel beantwortet werden."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_3_block_4",
+                    "type": "example",
+                    "title": "Arbeitsauftrag",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_methodik_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_methodik_learn_4_section_1",
+                "title": "Fehlerbilder, Quellen & Grenzen",
+                "description": "Madhhab verstehen: Fehler, Quellen und Grenzen prüfen.",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s0_methodik_learn_4_section_2",
+                "title": "Quellenorientierung",
+                "description": "Madhhab verstehen: Fehler, Quellen und Grenzen prüfen.",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_4_block_4",
+                    "type": "warning",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_4_block_5",
+                    "type": "warning"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_methodik_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s0_methodik_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_methodik_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_methodik_1",
+                  "knowledge_fiqh_maliki_s0_methodik_2",
+                  "knowledge_fiqh_maliki_s0_methodik_3",
+                  "knowledge_fiqh_maliki_s0_methodik_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s0_methodik_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_methodik_5",
+                  "knowledge_fiqh_maliki_s0_methodik_6",
+                  "knowledge_fiqh_maliki_s0_methodik_7",
+                  "knowledge_fiqh_maliki_s0_methodik_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_methodik_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_methodik_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_methodik_9",
+                  "knowledge_fiqh_maliki_s0_methodik_10",
+                  "knowledge_fiqh_maliki_s0_methodik_11",
+                  "knowledge_fiqh_maliki_s0_methodik_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_methodik_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_methodik_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s0_methodik_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_methodik_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s0_taharah",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s0_methodik"
+        ],
+        "learningId": "fiqh_maliki_s0_taharah_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s0_taharah_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_taharah_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_taharah_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_taharah_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_taharah_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_taharah_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_taharah_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_taharah_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s0_taharah_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_taharah_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s0_taharah_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_taharah_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_taharah_1",
+                  "knowledge_fiqh_maliki_s0_taharah_2",
+                  "knowledge_fiqh_maliki_s0_taharah_3",
+                  "knowledge_fiqh_maliki_s0_taharah_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s0_taharah_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_taharah_5",
+                  "knowledge_fiqh_maliki_s0_taharah_6",
+                  "knowledge_fiqh_maliki_s0_taharah_7",
+                  "knowledge_fiqh_maliki_s0_taharah_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_taharah_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_taharah_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_taharah_9",
+                  "knowledge_fiqh_maliki_s0_taharah_10",
+                  "knowledge_fiqh_maliki_s0_taharah_11",
+                  "knowledge_fiqh_maliki_s0_taharah_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_taharah_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_taharah_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s0_taharah_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_taharah_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s0_salah",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s0_taharah"
+        ],
+        "learningId": "fiqh_maliki_s0_salah_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s0_salah_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_salah_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_salah_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_salah_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_salah_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_salah_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_salah_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_salah_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s0_salah_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_salah_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s0_salah_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_salah_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_salah_1",
+                  "knowledge_fiqh_maliki_s0_salah_2",
+                  "knowledge_fiqh_maliki_s0_salah_3",
+                  "knowledge_fiqh_maliki_s0_salah_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s0_salah_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_salah_5",
+                  "knowledge_fiqh_maliki_s0_salah_6",
+                  "knowledge_fiqh_maliki_s0_salah_7",
+                  "knowledge_fiqh_maliki_s0_salah_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_salah_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_salah_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_salah_9",
+                  "knowledge_fiqh_maliki_s0_salah_10",
+                  "knowledge_fiqh_maliki_s0_salah_11",
+                  "knowledge_fiqh_maliki_s0_salah_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_salah_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_salah_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s0_salah_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_salah_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s0_janazah",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s0_salah"
+        ],
+        "learningId": "fiqh_maliki_s0_janazah_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s0_janazah_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_janazah_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_janazah_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_janazah_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_janazah_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_janazah_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_janazah_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s0_janazah_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s0_janazah_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s0_janazah_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s0_janazah_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_janazah_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_janazah_1",
+                  "knowledge_fiqh_maliki_s0_janazah_2",
+                  "knowledge_fiqh_maliki_s0_janazah_3",
+                  "knowledge_fiqh_maliki_s0_janazah_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s0_janazah_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_janazah_5",
+                  "knowledge_fiqh_maliki_s0_janazah_6",
+                  "knowledge_fiqh_maliki_s0_janazah_7",
+                  "knowledge_fiqh_maliki_s0_janazah_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_janazah_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_janazah_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s0_janazah_9",
+                  "knowledge_fiqh_maliki_s0_janazah_10",
+                  "knowledge_fiqh_maliki_s0_janazah_11",
+                  "knowledge_fiqh_maliki_s0_janazah_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s0_janazah_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s0_janazah_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s0_janazah_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s0_janazah_12"
+          }
+        ]
+      }
+    ],
+    "source": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+    "learningObjectives": [
+      "Mālikī · Grundlagen systematisch lernen.",
+      {
+        "$keep": true
+      }
+    ],
+    "exam": {
+      "id": "fiqh_maliki_s0_chapter_exam",
+      "title": "Kapitelprüfung · Mālikī · Grundlagen"
+    }
+  },
+  {
+    "id": "fiqh_maliki_s1",
+    "track": "fiqh_maliki",
+    "description": "Mālikī · Aufbau: strukturierter, reviewpflichtiger Lernabschnitt.",
+    "levelLabel": "Mālikī · Aufbau",
+    "units": [
+      {
+        "id": "fiqh_maliki_s1_zakat",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s0_janazah"
+        ],
+        "learningId": "fiqh_maliki_s1_zakat_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s1_zakat_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_zakat_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_zakat_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_zakat_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_zakat_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_zakat_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_zakat_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_zakat_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s1_zakat_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_zakat_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s1_zakat_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_zakat_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_zakat_1",
+                  "knowledge_fiqh_maliki_s1_zakat_2",
+                  "knowledge_fiqh_maliki_s1_zakat_3",
+                  "knowledge_fiqh_maliki_s1_zakat_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s1_zakat_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_zakat_5",
+                  "knowledge_fiqh_maliki_s1_zakat_6",
+                  "knowledge_fiqh_maliki_s1_zakat_7",
+                  "knowledge_fiqh_maliki_s1_zakat_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_zakat_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_zakat_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_zakat_9",
+                  "knowledge_fiqh_maliki_s1_zakat_10",
+                  "knowledge_fiqh_maliki_s1_zakat_11",
+                  "knowledge_fiqh_maliki_s1_zakat_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_zakat_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_zakat_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s1_zakat_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_zakat_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s1_sawm",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s1_zakat"
+        ],
+        "learningId": "fiqh_maliki_s1_sawm_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s1_sawm_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_sawm_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_sawm_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_sawm_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_sawm_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_sawm_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_sawm_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_sawm_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s1_sawm_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_sawm_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s1_sawm_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_sawm_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_sawm_1",
+                  "knowledge_fiqh_maliki_s1_sawm_2",
+                  "knowledge_fiqh_maliki_s1_sawm_3",
+                  "knowledge_fiqh_maliki_s1_sawm_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s1_sawm_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_sawm_5",
+                  "knowledge_fiqh_maliki_s1_sawm_6",
+                  "knowledge_fiqh_maliki_s1_sawm_7",
+                  "knowledge_fiqh_maliki_s1_sawm_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_sawm_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_sawm_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_sawm_9",
+                  "knowledge_fiqh_maliki_s1_sawm_10",
+                  "knowledge_fiqh_maliki_s1_sawm_11",
+                  "knowledge_fiqh_maliki_s1_sawm_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_sawm_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_sawm_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s1_sawm_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_sawm_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s1_hajj",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s1_sawm"
+        ],
+        "learningId": "fiqh_maliki_s1_hajj_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s1_hajj_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_hajj_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_hajj_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_hajj_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_hajj_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_hajj_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_hajj_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_hajj_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s1_hajj_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_hajj_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s1_hajj_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_hajj_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_hajj_1",
+                  "knowledge_fiqh_maliki_s1_hajj_2",
+                  "knowledge_fiqh_maliki_s1_hajj_3",
+                  "knowledge_fiqh_maliki_s1_hajj_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s1_hajj_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_hajj_5",
+                  "knowledge_fiqh_maliki_s1_hajj_6",
+                  "knowledge_fiqh_maliki_s1_hajj_7",
+                  "knowledge_fiqh_maliki_s1_hajj_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_hajj_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_hajj_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_hajj_9",
+                  "knowledge_fiqh_maliki_s1_hajj_10",
+                  "knowledge_fiqh_maliki_s1_hajj_11",
+                  "knowledge_fiqh_maliki_s1_hajj_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_hajj_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_hajj_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s1_hajj_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_hajj_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s1_compensations",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s1_hajj"
+        ],
+        "learningId": "fiqh_maliki_s1_compensations_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s1_compensations_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_compensations_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_compensations_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_compensations_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_compensations_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_compensations_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_compensations_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s1_compensations_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s1_compensations_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s1_compensations_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s1_compensations_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_compensations_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_compensations_1",
+                  "knowledge_fiqh_maliki_s1_compensations_2",
+                  "knowledge_fiqh_maliki_s1_compensations_3",
+                  "knowledge_fiqh_maliki_s1_compensations_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s1_compensations_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_compensations_5",
+                  "knowledge_fiqh_maliki_s1_compensations_6",
+                  "knowledge_fiqh_maliki_s1_compensations_7",
+                  "knowledge_fiqh_maliki_s1_compensations_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_compensations_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_compensations_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s1_compensations_9",
+                  "knowledge_fiqh_maliki_s1_compensations_10",
+                  "knowledge_fiqh_maliki_s1_compensations_11",
+                  "knowledge_fiqh_maliki_s1_compensations_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s1_compensations_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s1_compensations_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s1_compensations_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s1_compensations_12"
+          }
+        ]
+      }
+    ],
+    "source": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+    "learningObjectives": [
+      "Mālikī · Aufbau systematisch lernen.",
+      {
+        "$keep": true
+      }
+    ],
+    "exam": {
+      "id": "fiqh_maliki_s1_chapter_exam",
+      "title": "Kapitelprüfung · Mālikī · Aufbau"
+    }
+  },
+  {
+    "id": "fiqh_maliki_s2",
+    "track": "fiqh_maliki",
+    "description": "Mālikī · Vertiefung: strukturierter, reviewpflichtiger Lernabschnitt.",
+    "levelLabel": "Mālikī · Vertiefung",
+    "units": [
+      {
+        "id": "fiqh_maliki_s2_buyu",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s1_compensations"
+        ],
+        "learningId": "fiqh_maliki_s2_buyu_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s2_buyu_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_buyu_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_buyu_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_buyu_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_buyu_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_buyu_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_buyu_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_buyu_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s2_buyu_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_buyu_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s2_buyu_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_buyu_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_buyu_1",
+                  "knowledge_fiqh_maliki_s2_buyu_2",
+                  "knowledge_fiqh_maliki_s2_buyu_3",
+                  "knowledge_fiqh_maliki_s2_buyu_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s2_buyu_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_buyu_5",
+                  "knowledge_fiqh_maliki_s2_buyu_6",
+                  "knowledge_fiqh_maliki_s2_buyu_7",
+                  "knowledge_fiqh_maliki_s2_buyu_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_buyu_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_buyu_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_buyu_9",
+                  "knowledge_fiqh_maliki_s2_buyu_10",
+                  "knowledge_fiqh_maliki_s2_buyu_11",
+                  "knowledge_fiqh_maliki_s2_buyu_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_buyu_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_buyu_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s2_buyu_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_buyu_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s2_family",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s2_buyu"
+        ],
+        "learningId": "fiqh_maliki_s2_family_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s2_family_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_family_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_family_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_family_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_family_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_family_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_family_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_family_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s2_family_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_family_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s2_family_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_family_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_family_1",
+                  "knowledge_fiqh_maliki_s2_family_2",
+                  "knowledge_fiqh_maliki_s2_family_3",
+                  "knowledge_fiqh_maliki_s2_family_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s2_family_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_family_5",
+                  "knowledge_fiqh_maliki_s2_family_6",
+                  "knowledge_fiqh_maliki_s2_family_7",
+                  "knowledge_fiqh_maliki_s2_family_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_family_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_family_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_family_9",
+                  "knowledge_fiqh_maliki_s2_family_10",
+                  "knowledge_fiqh_maliki_s2_family_11",
+                  "knowledge_fiqh_maliki_s2_family_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_family_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_family_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s2_family_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_family_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s2_food_oaths",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s2_family"
+        ],
+        "learningId": "fiqh_maliki_s2_food_oaths_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s2_food_oaths_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_food_oaths_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_food_oaths_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_food_oaths_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_food_oaths_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_food_oaths_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_food_oaths_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_food_oaths_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s2_food_oaths_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_food_oaths_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s2_food_oaths_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_food_oaths_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_food_oaths_1",
+                  "knowledge_fiqh_maliki_s2_food_oaths_2",
+                  "knowledge_fiqh_maliki_s2_food_oaths_3",
+                  "knowledge_fiqh_maliki_s2_food_oaths_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s2_food_oaths_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_food_oaths_5",
+                  "knowledge_fiqh_maliki_s2_food_oaths_6",
+                  "knowledge_fiqh_maliki_s2_food_oaths_7",
+                  "knowledge_fiqh_maliki_s2_food_oaths_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_food_oaths_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_food_oaths_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_food_oaths_9",
+                  "knowledge_fiqh_maliki_s2_food_oaths_10",
+                  "knowledge_fiqh_maliki_s2_food_oaths_11",
+                  "knowledge_fiqh_maliki_s2_food_oaths_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_food_oaths_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_food_oaths_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s2_food_oaths_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_food_oaths_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s2_inheritance",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s2_food_oaths"
+        ],
+        "learningId": "fiqh_maliki_s2_inheritance_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s2_inheritance_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_inheritance_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_inheritance_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_inheritance_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_inheritance_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_inheritance_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_inheritance_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s2_inheritance_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s2_inheritance_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s2_inheritance_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s2_inheritance_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_inheritance_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_inheritance_1",
+                  "knowledge_fiqh_maliki_s2_inheritance_2",
+                  "knowledge_fiqh_maliki_s2_inheritance_3",
+                  "knowledge_fiqh_maliki_s2_inheritance_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s2_inheritance_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_inheritance_5",
+                  "knowledge_fiqh_maliki_s2_inheritance_6",
+                  "knowledge_fiqh_maliki_s2_inheritance_7",
+                  "knowledge_fiqh_maliki_s2_inheritance_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_inheritance_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_inheritance_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s2_inheritance_9",
+                  "knowledge_fiqh_maliki_s2_inheritance_10",
+                  "knowledge_fiqh_maliki_s2_inheritance_11",
+                  "knowledge_fiqh_maliki_s2_inheritance_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s2_inheritance_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s2_inheritance_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s2_inheritance_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s2_inheritance_12"
+          }
+        ]
+      }
+    ],
+    "source": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+    "learningObjectives": [
+      "Mālikī · Vertiefung systematisch lernen.",
+      {
+        "$keep": true
+      }
+    ],
+    "exam": {
+      "id": "fiqh_maliki_s2_chapter_exam",
+      "title": "Kapitelprüfung · Mālikī · Vertiefung"
+    }
+  },
+  {
+    "id": "fiqh_maliki_s3",
+    "track": "fiqh_maliki",
+    "description": "Mālikī · Anwendung: strukturierter, reviewpflichtiger Lernabschnitt.",
+    "levelLabel": "Mālikī · Anwendung",
+    "units": [
+      {
+        "id": "fiqh_maliki_s3_judiciary",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s2_inheritance"
+        ],
+        "learningId": "fiqh_maliki_s3_judiciary_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s3_judiciary_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_judiciary_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_judiciary_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_judiciary_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_judiciary_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_judiciary_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_judiciary_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_judiciary_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s3_judiciary_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_judiciary_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s3_judiciary_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_judiciary_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_judiciary_1",
+                  "knowledge_fiqh_maliki_s3_judiciary_2",
+                  "knowledge_fiqh_maliki_s3_judiciary_3",
+                  "knowledge_fiqh_maliki_s3_judiciary_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s3_judiciary_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_judiciary_5",
+                  "knowledge_fiqh_maliki_s3_judiciary_6",
+                  "knowledge_fiqh_maliki_s3_judiciary_7",
+                  "knowledge_fiqh_maliki_s3_judiciary_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_judiciary_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_judiciary_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_judiciary_9",
+                  "knowledge_fiqh_maliki_s3_judiciary_10",
+                  "knowledge_fiqh_maliki_s3_judiciary_11",
+                  "knowledge_fiqh_maliki_s3_judiciary_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_judiciary_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_judiciary_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s3_judiciary_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_judiciary_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s3_cases",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s3_judiciary"
+        ],
+        "learningId": "fiqh_maliki_s3_cases_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s3_cases_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_cases_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_cases_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_cases_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_cases_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_cases_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_cases_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_cases_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s3_cases_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_cases_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s3_cases_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_cases_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_cases_1",
+                  "knowledge_fiqh_maliki_s3_cases_2",
+                  "knowledge_fiqh_maliki_s3_cases_3",
+                  "knowledge_fiqh_maliki_s3_cases_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s3_cases_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_cases_5",
+                  "knowledge_fiqh_maliki_s3_cases_6",
+                  "knowledge_fiqh_maliki_s3_cases_7",
+                  "knowledge_fiqh_maliki_s3_cases_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_cases_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_cases_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_cases_9",
+                  "knowledge_fiqh_maliki_s3_cases_10",
+                  "knowledge_fiqh_maliki_s3_cases_11",
+                  "knowledge_fiqh_maliki_s3_cases_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_cases_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_cases_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s3_cases_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_cases_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s3_comparison",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s3_cases"
+        ],
+        "learningId": "fiqh_maliki_s3_comparison_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s3_comparison_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_comparison_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_comparison_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_comparison_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_comparison_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_comparison_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_comparison_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_comparison_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s3_comparison_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_comparison_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s3_comparison_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_comparison_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_comparison_1",
+                  "knowledge_fiqh_maliki_s3_comparison_2",
+                  "knowledge_fiqh_maliki_s3_comparison_3",
+                  "knowledge_fiqh_maliki_s3_comparison_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s3_comparison_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_comparison_5",
+                  "knowledge_fiqh_maliki_s3_comparison_6",
+                  "knowledge_fiqh_maliki_s3_comparison_7",
+                  "knowledge_fiqh_maliki_s3_comparison_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_comparison_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_comparison_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_comparison_9",
+                  "knowledge_fiqh_maliki_s3_comparison_10",
+                  "knowledge_fiqh_maliki_s3_comparison_11",
+                  "knowledge_fiqh_maliki_s3_comparison_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_comparison_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_comparison_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s3_comparison_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_comparison_12"
+          }
+        ]
+      },
+      {
+        "id": "fiqh_maliki_s3_waqf_wasiyyah",
+        "track": "fiqh_maliki",
+        "prerequisiteIds": [
+          "fiqh_maliki_s3_comparison"
+        ],
+        "learningId": "fiqh_maliki_s3_waqf_wasiyyah_learning",
+        "learningSteps": [
+          {
+            "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_1",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_1_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_1_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_1_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_1_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_1_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_2",
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_2_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_2_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_2_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_2_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_2_block_4"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_3",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_3_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_3_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_3_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_3_block_3"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_3_block_4",
+                    "text": "Ordne den Fall zuerst fachlich ein und begründe anschließend den nächsten Prüfschritt innerhalb der Mālikī-Rechtsschule. Eine konkrete Rechtsfolge wird nur mit freigegebener Schul-/Quellenreferenz festgehalten."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4",
+            "knowledge": [
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              },
+              {
+                "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+              },
+              {
+                "$keep": true
+              },
+              {
+                "$keep": true
+              }
+            ],
+            "sections": [
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4_section_1",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4_block_1"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4_block_2"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4_block_3"
+                  }
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4_section_2",
+                "blocks": [
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4_block_4",
+                    "text": "Orientierungsquellen: ar-Risāla (Ibn Abī Zayd) und al-Mudawwana al-Kubrā (Saḥnūn). Die deutschen Lehrtexte sind eigenständig formulierte Zusammenfassungen; keine moderne Übersetzung oder Edition wurde kopiert. Konkrete Madhhab-/Hadith-Aussagen bleiben bis zur Fundstellenprüfung redaktionell offen."
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4_block_5"
+                  },
+                  {
+                    "id": "fiqh_maliki_s3_waqf_wasiyyah_learn_4_block_6"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "phases": [
+          {
+            "id": "fiqh_maliki_s3_waqf_wasiyyah_practice",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_practice_1",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_1",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_2",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_3",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_4"
+                ]
+              },
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_practice_2",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_5",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_6",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_7",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_8"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_waqf_wasiyyah_deepen",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_deepen_transfer",
+                "contentIds": [
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_9",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_10",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_11",
+                  "knowledge_fiqh_maliki_s3_waqf_wasiyyah_12"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "fiqh_maliki_s3_waqf_wasiyyah_exam",
+            "activities": [
+              {
+                "id": "fiqh_maliki_s3_waqf_wasiyyah_exam_1"
+              }
+            ]
+          }
+        ],
+        "exam": {
+          "activityId": "fiqh_maliki_s3_waqf_wasiyyah_exam_1"
+        },
+        "knowledgeQuestions": [
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_1"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_2"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_3"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_4"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_5"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_6"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_7"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_8"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_9"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_10"
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_11",
+            "options": [
+              "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Muḫtaṣar al-Qudūrī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: Minhāǧ aṭ-Ṭālibīn von an-Nawawī; schulinterne Fachprüfung erforderlich.",
+              "Orientierungsquellen: ʿUmdat al-Fiqh von Ibn Qudāma; schulinterne Fachprüfung erforderlich."
+            ],
+            "correctAnswer": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+            "explanation": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich."
+          },
+          {
+            "id": "knowledge_fiqh_maliki_s3_waqf_wasiyyah_12"
+          }
+        ]
+      }
+    ],
+    "source": "Orientierungsquellen: ar-Risāla von Ibn Abī Zayd al-Qayrawānī; schulinterne Fachprüfung erforderlich.",
+    "learningObjectives": [
+      "Mālikī · Anwendung systematisch lernen.",
+      {
+        "$keep": true
+      }
+    ],
+    "exam": {
+      "id": "fiqh_maliki_s3_chapter_exam",
+      "title": "Kapitelprüfung · Mālikī · Anwendung"
+    }
+  }
+]

@@ -1,0 +1,4580 @@
+[
+  {
+    "id": "personal_pronouns",
+    "title": "Personalpronomen",
+    "description": "Ich, du, er und sie als Grundlage für erste Sätze.",
+    "level": 1,
+    "order": 1,
+    "category": "Allgemein",
+    "general": [
+      "Personalpronomen können allein stehen oder ein Nomen ersetzen.",
+      "Im Präsens wird „sein“ im einfachen Nominalsatz meist nicht sichtbar geschrieben."
+    ],
+    "rules": [
+      "أَنَا = ich",
+      "أَنْتَ / أَنْتِ = du (m./w.)",
+      "هُوَ / هِيَ = er / sie"
+    ],
+    "exceptions": [
+      "Die Plural- und Dualformen werden in einer späteren Stufe ergänzt."
+    ],
+    "important": [
+      "Das Geschlecht der angesprochenen Person beeinflusst die Form von „du“."
+    ],
+    "examples": [
+      {
+        "id": "pronoun_student",
+        "title": "Ich bin Schüler",
+        "translation": "Ich bin Schüler.",
+        "blocks": [
+          {
+            "type": "pronoun",
+            "label": "Pronomen",
+            "arabicVocalized": "أَنَا",
+            "arabicUnvocalized": "أنا",
+            "german": "ich"
+          },
+          {
+            "type": "noun",
+            "label": "Nomen",
+            "arabicVocalized": "طَالِبٌ",
+            "arabicUnvocalized": "طالب",
+            "german": "Schüler"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Ich, du, er und sie als Grundlage für erste Sätze.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Allgemein",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "pronoun_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche arabische Form bedeutet „ich“?",
+        "options": [
+          "أَنَا",
+          "أَنْتَ",
+          "هُوَ",
+          "هِيَ"
+        ],
+        "correctAnswer": "أَنَا",
+        "explanation": "أَنَا bedeutet „ich“."
+      },
+      {
+        "id": "pronoun_q2",
+        "type": "cloze",
+        "prompt": "Ergänze den Satz „Ich bin Schüler“.",
+        "arabicPrompt": "___ طَالِبٌ",
+        "options": [
+          "أَنَا",
+          "هُوَ",
+          "هِيَ",
+          "أَنْتِ"
+        ],
+        "correctAnswer": "أَنَا",
+        "explanation": "Im Nominalsatz steht das Pronomen أَنَا vor dem Prädikatsnomen."
+      },
+      {
+        "id": "pronoun_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „sie“ (Singular)?",
+        "options": [
+          "هِيَ",
+          "هُوَ",
+          "أَنْتَ",
+          "أَنَا"
+        ],
+        "correctAnswer": "هِيَ",
+        "explanation": "هِيَ ist das Personalpronomen für „sie“."
+      }
+    ],
+    "prerequisiteLessonIds": [],
+    "cefrLevel": "A0",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "greeting_dialogue",
+    "title": "Begrüßungsdialoge",
+    "description": "Begrüßung und passende Antwort in einer kurzen Dialogfolge anordnen.",
+    "level": 1,
+    "order": 2,
+    "category": "Kommunikation",
+    "general": [
+      "Begrüßung und Antwort bilden feste, sinnvolle Dialogpaare.",
+      "Die Antwort folgt auf die jeweilige Begrüßung."
+    ],
+    "rules": [
+      "اَلسَّلَامُ عَلَيْكُمْ → وَعَلَيْكُمُ السَّلَامُ",
+      "صَبَاحُ الْخَيْرِ → صَبَاحُ النُّورِ"
+    ],
+    "exceptions": [
+      "Höfliche Formeln können je nach Situation erweitert werden."
+    ],
+    "important": [
+      "Die Reihenfolge der Gesprächsbeiträge verändert den Dialogsinn."
+    ],
+    "examples": [
+      {
+        "id": "greeting_dialogue_peace",
+        "title": "Friedensgruß",
+        "translation": "Begrüßung und Antwort mit dem Friedensgruß.",
+        "blocks": [
+          {
+            "type": "phrase",
+            "label": "Begrüßung",
+            "arabicVocalized": "اَلسَّلَامُ عَلَيْكُمْ",
+            "arabicUnvocalized": "السلام عليكم",
+            "german": "Friede sei mit euch"
+          },
+          {
+            "type": "phrase",
+            "label": "Antwort",
+            "arabicVocalized": "وَعَلَيْكُمُ السَّلَامُ",
+            "arabicUnvocalized": "وعليكم السلام",
+            "german": "Und mit euch sei Frieden"
+          }
+        ]
+      },
+      {
+        "id": "greeting_dialogue_morning",
+        "title": "Morgengruß",
+        "translation": "Begrüßung und Antwort am Morgen.",
+        "blocks": [
+          {
+            "type": "phrase",
+            "label": "Begrüßung",
+            "arabicVocalized": "صَبَاحُ الْخَيْرِ",
+            "arabicUnvocalized": "صباح الخير",
+            "german": "Guten Morgen"
+          },
+          {
+            "type": "phrase",
+            "label": "Antwort",
+            "arabicVocalized": "صَبَاحُ النُّورِ",
+            "arabicUnvocalized": "صباح النور",
+            "german": "Guten Morgen (Antwort)"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Begrüßung und passende Antwort in einer kurzen Dialogfolge anordnen.",
+      "Die Reihenfolge zweier Gesprächsbeiträge sicher erkennen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "communication",
+      "dialogue",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "greeting_dialogue_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Antwort folgt auf „اَلسَّلَامُ عَلَيْكُمْ“?",
+        "options": [
+          "وَعَلَيْكُمُ السَّلَامُ",
+          "صَبَاحُ الْخَيْرِ",
+          "شُكْرًا",
+          "مِنْ فَضْلِكَ"
+        ],
+        "correctAnswer": "وَعَلَيْكُمُ السَّلَامُ",
+        "explanation": "Auf den Friedensgruß folgt وَعَلَيْكُمُ السَّلَامُ."
+      },
+      {
+        "id": "greeting_dialogue_q2",
+        "type": "multiple_choice",
+        "prompt": "Welche Antwort passt zu „صَبَاحُ الْخَيْرِ“?",
+        "options": [
+          "صَبَاحُ النُّورِ",
+          "مَعَ السَّلَامَةِ",
+          "شُكْرًا",
+          "عَفْوًا"
+        ],
+        "correctAnswer": "صَبَاحُ النُّورِ",
+        "explanation": "صَبَاحُ النُّورِ ist die passende Antwort auf den Morgengruß."
+      },
+      {
+        "id": "greeting_dialogue_q3",
+        "type": "multiple_choice",
+        "prompt": "Was ist bei einem Minidialog besonders wichtig?",
+        "options": [
+          "Die Reihenfolge der Beiträge",
+          "Nur die Wortlänge",
+          "Nur die Harakat",
+          "Die Schriftfarbe"
+        ],
+        "correctAnswer": "Die Reihenfolge der Beiträge",
+        "explanation": "Ein Dialog wird durch die sinnvolle Folge von Begrüßung und Antwort verständlich."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "personal_pronouns"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "definite_article",
+    "title": "Bestimmter Artikel",
+    "description": "Der Artikel الـ vor Substantiven.",
+    "level": 1,
+    "order": 2,
+    "category": "Allgemein",
+    "general": [
+      "Der bestimmte Artikel wird direkt an das Nomen geschrieben."
+    ],
+    "rules": [
+      "الـ + كِتَابٌ → اَلْكِتَابُ",
+      "Der Artikel verändert sich nicht nach Geschlecht oder Zahl."
+    ],
+    "exceptions": [
+      "Bei Sonnenbuchstaben wird das Lām in der Aussprache angeglichen."
+    ],
+    "important": [
+      "Schriftbild und Aussprache können bei Sonnenbuchstaben voneinander abweichen."
+    ],
+    "examples": [
+      {
+        "id": "article_book",
+        "title": "Das Buch",
+        "translation": "das Buch",
+        "blocks": [
+          {
+            "type": "article",
+            "label": "Artikel",
+            "arabicVocalized": "اَلْ",
+            "arabicUnvocalized": "ال",
+            "german": "der/die/das"
+          },
+          {
+            "type": "noun",
+            "label": "Nomen",
+            "arabicVocalized": "كِتَابُ",
+            "arabicUnvocalized": "كتاب",
+            "german": "Buch"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Der Artikel الـ vor Substantiven.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Allgemein",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "article_q1",
+        "type": "multiple_choice",
+        "prompt": "Welcher Baustein ist der bestimmte Artikel?",
+        "options": [
+          "اَلْ",
+          "فِي",
+          "مِنْ",
+          "هَلْ"
+        ],
+        "correctAnswer": "اَلْ",
+        "explanation": "Der bestimmte Artikel wird als الـ direkt an das Nomen geschrieben."
+      },
+      {
+        "id": "article_q2",
+        "type": "cloze",
+        "prompt": "Bilde „das Buch“.",
+        "arabicPrompt": "___ كِتَابُ",
+        "options": [
+          "اَلْ",
+          "مِنْ",
+          "إِلَى",
+          "هُوَ"
+        ],
+        "correctAnswer": "اَلْ",
+        "explanation": "Artikel und Nomen werden zusammengeschrieben: اَلْكِتَابُ."
+      },
+      {
+        "id": "article_q3",
+        "type": "multiple_choice",
+        "prompt": "Was passiert beim Artikel vor Sonnenbuchstaben?",
+        "options": [
+          "Das Lām wird in der Aussprache angeglichen.",
+          "Der Artikel verschwindet im Schriftbild.",
+          "Das Nomen wird immer weiblich.",
+          "Der Artikel steht hinter dem Nomen."
+        ],
+        "correctAnswer": "Das Lām wird in der Aussprache angeglichen.",
+        "explanation": "Im Schriftbild bleibt ال erhalten; die Aussprache passt sich bei Sonnenbuchstaben an."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "personal_pronouns"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "gender",
+    "title": "Männlich und weiblich",
+    "description": "Grundlagen des grammatischen Geschlechts.",
+    "level": 1,
+    "order": 3,
+    "category": "Allgemein",
+    "general": [
+      "Viele weibliche Nomen enden auf ة, aber nicht alle."
+    ],
+    "rules": [
+      "مُعَلِّمٌ = Lehrer",
+      "مُعَلِّمَةٌ = Lehrerin"
+    ],
+    "exceptions": [
+      "Einige Wörter sind weiblich ohne ة, zum Beispiel أُمّ."
+    ],
+    "important": [
+      "Adjektive und Demonstrativa richten sich nach dem Geschlecht des Nomens."
+    ],
+    "examples": [
+      {
+        "id": "female_teacher",
+        "title": "Die Lehrerin",
+        "translation": "die Lehrerin",
+        "blocks": [
+          {
+            "type": "article",
+            "label": "Artikel",
+            "arabicVocalized": "اَلْ",
+            "arabicUnvocalized": "ال",
+            "german": "die"
+          },
+          {
+            "type": "noun",
+            "label": "Nomen feminin",
+            "arabicVocalized": "مُعَلِّمَةُ",
+            "arabicUnvocalized": "معلمة",
+            "german": "Lehrerin"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Grundlagen des grammatischen Geschlechts.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Allgemein",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "gender_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Endung kennzeichnet viele feminine Nomen und Adjektive?",
+        "options": [
+          "ة",
+          "ون",
+          "ات",
+          "ال"
+        ],
+        "correctAnswer": "ة",
+        "explanation": "Die Tāʾ marbūṭa ة ist ein häufiges Kennzeichen femininer Formen."
+      },
+      {
+        "id": "gender_q2",
+        "type": "cloze",
+        "prompt": "Ergänze „die Lehrerin“.",
+        "arabicPrompt": "اَلْمُعَلِّمَ___",
+        "options": [
+          "ةُ",
+          "و",
+          "ي",
+          "ن"
+        ],
+        "correctAnswer": "ةُ",
+        "explanation": "مُعَلِّمَةٌ ist die feminine Form von مُعَلِّمٌ."
+      },
+      {
+        "id": "gender_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „Lehrerin“?",
+        "options": [
+          "مُعَلِّمَةٌ",
+          "مُعَلِّمٌ",
+          "طَالِبٌ",
+          "كِتَابٌ"
+        ],
+        "correctAnswer": "مُعَلِّمَةٌ",
+        "explanation": "Die feminine Form erhält hier die Endung ة."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "definite_article"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "nominal_sentence",
+    "title": "Nominalsatz",
+    "description": "Aussagen ohne sichtbares Verb „sein“.",
+    "level": 1,
+    "order": 4,
+    "category": "Satzbau",
+    "general": [
+      "Ein Nominalsatz beginnt häufig mit einem Nomen oder Pronomen."
+    ],
+    "rules": [
+      "Subjekt + Prädikatsnomen/Adjektiv",
+      "Im Präsens steht kein sichtbares „ist“."
+    ],
+    "exceptions": [
+      "Für Vergangenheit und Zukunft werden Verbformen benötigt."
+    ],
+    "important": [
+      "Die Bestimmtheit der Satzteile beeinflusst die Bedeutung."
+    ],
+    "examples": [
+      {
+        "id": "house_big",
+        "title": "Das Haus ist groß",
+        "translation": "Das Haus ist groß.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Subjekt",
+            "arabicVocalized": "اَلْبَيْتُ",
+            "arabicUnvocalized": "البيت",
+            "german": "das Haus"
+          },
+          {
+            "type": "adjective",
+            "label": "Prädikat",
+            "arabicVocalized": "كَبِيرٌ",
+            "arabicUnvocalized": "كبير",
+            "german": "groß"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Aussagen ohne sichtbares Verb „sein“.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Satzbau",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "nominal_q1",
+        "type": "multiple_choice",
+        "prompt": "Was ist im einfachen arabischen Nominalsatz im Präsens typisch?",
+        "options": [
+          "Das Verb „sein“ wird meist nicht sichtbar geschrieben.",
+          "Das Adjektiv steht immer zuerst.",
+          "Jeder Satz braucht هَلْ.",
+          "Das Subjekt wird ausgelassen."
+        ],
+        "correctAnswer": "Das Verb „sein“ wird meist nicht sichtbar geschrieben.",
+        "explanation": "„Das Haus ist groß“ besteht sichtbar aus Subjekt und Prädikat: اَلْبَيْتُ كَبِيرٌ."
+      },
+      {
+        "id": "nominal_q2",
+        "type": "cloze",
+        "prompt": "Ergänze „Das Haus ist groß“.",
+        "arabicPrompt": "اَلْبَيْتُ ___",
+        "options": [
+          "كَبِيرٌ",
+          "فِي",
+          "كِتَابٌ",
+          "هَلْ"
+        ],
+        "correctAnswer": "كَبِيرٌ",
+        "explanation": "Das Prädikatsadjektiv folgt dem Subjekt."
+      },
+      {
+        "id": "nominal_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Reihenfolge passt zum einfachen Nominalsatz?",
+        "options": [
+          "Subjekt + Prädikat",
+          "Präposition + Verb",
+          "Artikel + Fragewort",
+          "Objekt + Artikel"
+        ],
+        "correctAnswer": "Subjekt + Prädikat",
+        "explanation": "Die Grundstruktur lautet Subjekt + Prädikatsnomen oder -adjektiv."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "gender"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "adjective_agreement",
+    "title": "Adjektive",
+    "description": "Adjektive nach dem Nomen und ihre Anpassung.",
+    "level": 2,
+    "order": 5,
+    "category": "Satzbau",
+    "general": [
+      "Das Adjektiv folgt normalerweise dem Nomen."
+    ],
+    "rules": [
+      "Nomen + Adjektiv",
+      "Adjektiv stimmt in Geschlecht und Bestimmtheit überein."
+    ],
+    "exceptions": [
+      "Nichtmenschliche Plurale werden später gesondert behandelt."
+    ],
+    "important": [
+      "الْبَيْتُ الْكَبِيرُ = das große Haus; الْبَيْتُ كَبِيرٌ = das Haus ist groß."
+    ],
+    "examples": [
+      {
+        "id": "big_house_phrase",
+        "title": "Das große Haus",
+        "translation": "das große Haus",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Nomen",
+            "arabicVocalized": "اَلْبَيْتُ",
+            "arabicUnvocalized": "البيت",
+            "german": "das Haus"
+          },
+          {
+            "type": "adjective",
+            "label": "Adjektiv",
+            "arabicVocalized": "اَلْكَبِيرُ",
+            "arabicUnvocalized": "الكبير",
+            "german": "das große"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Adjektive nach dem Nomen und ihre Anpassung.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Satzbau",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "adjective_q1",
+        "type": "multiple_choice",
+        "prompt": "Wo steht das Adjektiv in einer einfachen Nominalgruppe?",
+        "options": [
+          "Nach dem Nomen",
+          "Vor dem Artikel",
+          "Immer am Satzanfang",
+          "Zwischen Artikel und Nomen"
+        ],
+        "correctAnswer": "Nach dem Nomen",
+        "explanation": "Die Grundfolge lautet Nomen + Adjektiv."
+      },
+      {
+        "id": "adjective_q2",
+        "type": "multiple_choice",
+        "prompt": "Worin stimmt das Adjektiv mit dem Nomen überein?",
+        "options": [
+          "Unter anderem in Geschlecht und Bestimmtheit",
+          "Nur in der Wortlänge",
+          "Nur im Anfangsbuchstaben",
+          "Gar nicht"
+        ],
+        "correctAnswer": "Unter anderem in Geschlecht und Bestimmtheit",
+        "explanation": "Das Adjektiv übernimmt wichtige grammatische Merkmale des Nomens."
+      },
+      {
+        "id": "adjective_q3",
+        "type": "cloze",
+        "prompt": "Ergänze „das große Haus“.",
+        "arabicPrompt": "اَلْبَيْتُ ___",
+        "options": [
+          "اَلْكَبِيرُ",
+          "كَبِيرٌ",
+          "فِي",
+          "هُوَ"
+        ],
+        "correctAnswer": "اَلْكَبِيرُ",
+        "explanation": "Bei der bestimmten Nominalgruppe sind Nomen und Adjektiv bestimmt."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "nominal_sentence"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "questions",
+    "title": "Fragesätze",
+    "description": "Einfache Fragen mit Fragepartikeln und Fragewörtern.",
+    "level": 2,
+    "order": 6,
+    "category": "Satzbau",
+    "general": [
+      "Fragewörter stehen häufig am Satzanfang."
+    ],
+    "rules": [
+      "مَا = was",
+      "مَنْ = wer",
+      "أَيْنَ = wo",
+      "هَلْ = Entscheidungsfrage"
+    ],
+    "exceptions": [
+      "Umgangssprachliche Varianten unterscheiden sich nach Region."
+    ],
+    "important": [
+      "Die Standardsprache bleibt hier die Grundlage."
+    ],
+    "examples": [
+      {
+        "id": "where_book",
+        "title": "Wo ist das Buch?",
+        "translation": "Wo ist das Buch?",
+        "blocks": [
+          {
+            "type": "particle",
+            "label": "Fragewort",
+            "arabicVocalized": "أَيْنَ",
+            "arabicUnvocalized": "أين",
+            "german": "wo"
+          },
+          {
+            "type": "noun",
+            "label": "Nomen",
+            "arabicVocalized": "اَلْكِتَابُ؟",
+            "arabicUnvocalized": "الكتاب؟",
+            "german": "das Buch"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Einfache Fragen mit Fragepartikeln und Fragewörtern.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Satzbau",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "questions_q1",
+        "type": "multiple_choice",
+        "prompt": "Welches Fragewort bedeutet „wo“?",
+        "options": [
+          "أَيْنَ",
+          "مَنْ",
+          "مَا",
+          "هَلْ"
+        ],
+        "correctAnswer": "أَيْنَ",
+        "explanation": "أَيْنَ fragt nach einem Ort."
+      },
+      {
+        "id": "questions_q2",
+        "type": "multiple_choice",
+        "prompt": "Womit beginnt häufig eine Ja-/Nein-Frage?",
+        "options": [
+          "هَلْ",
+          "فِي",
+          "مِنْ",
+          "أَنَا"
+        ],
+        "correctAnswer": "هَلْ",
+        "explanation": "هَلْ leitet häufig eine Entscheidungsfrage ein."
+      },
+      {
+        "id": "questions_q3",
+        "type": "cloze",
+        "prompt": "Ergänze „Wo ist das Buch?“.",
+        "arabicPrompt": "___ اَلْكِتَابُ؟",
+        "options": [
+          "أَيْنَ",
+          "مَنْ",
+          "مَا",
+          "إِلَى"
+        ],
+        "correctAnswer": "أَيْنَ",
+        "explanation": "Für eine Ortsfrage steht أَيْنَ am Anfang."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "adjective_agreement"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "prepositions",
+    "title": "Präpositionen",
+    "description": "In, auf, zu und von in kurzen Wendungen.",
+    "level": 2,
+    "order": 7,
+    "category": "Satzbau",
+    "general": [
+      "Präpositionen stehen vor dem Nomen."
+    ],
+    "rules": [
+      "فِي = in",
+      "عَلَى = auf",
+      "إِلَى = zu/nach",
+      "مِنْ = von/aus"
+    ],
+    "exceptions": [
+      "Nach Präpositionen folgt der Genitiv; die Endung wird später vertieft."
+    ],
+    "important": [
+      "Kurze Präpositionen verbinden sich in der Schrift teilweise eng mit dem Folgewort."
+    ],
+    "examples": [
+      {
+        "id": "in_house",
+        "title": "Im Haus",
+        "translation": "im Haus",
+        "blocks": [
+          {
+            "type": "preposition",
+            "label": "Präposition",
+            "arabicVocalized": "فِي",
+            "arabicUnvocalized": "في",
+            "german": "in"
+          },
+          {
+            "type": "noun",
+            "label": "Nomen",
+            "arabicVocalized": "اَلْبَيْتِ",
+            "arabicUnvocalized": "البيت",
+            "german": "dem Haus"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "In, auf, zu und von in kurzen Wendungen.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Satzbau",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "prepositions_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Präposition bedeutet „in“?",
+        "options": [
+          "فِي",
+          "عَلَى",
+          "مِنْ",
+          "إِلَى"
+        ],
+        "correctAnswer": "فِي",
+        "explanation": "فِي bedeutet „in“ oder „im“."
+      },
+      {
+        "id": "prepositions_q2",
+        "type": "cloze",
+        "prompt": "Ergänze „im Haus“.",
+        "arabicPrompt": "___ اَلْبَيْتِ",
+        "options": [
+          "فِي",
+          "عَلَى",
+          "مَنْ",
+          "هَلْ"
+        ],
+        "correctAnswer": "فِي",
+        "explanation": "فِي + اَلْبَيْتِ ergibt „im Haus“."
+      },
+      {
+        "id": "prepositions_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Präposition bedeutet „von/aus“?",
+        "options": [
+          "مِنْ",
+          "إِلَى",
+          "عَلَى",
+          "فِي"
+        ],
+        "correctAnswer": "مِنْ",
+        "explanation": "مِنْ bedeutet „von“ oder „aus“."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "questions"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "past_tense",
+    "title": "Vergangenheit",
+    "description": "Grundmuster der vollendeten Verbform.",
+    "level": 3,
+    "order": 8,
+    "category": "Verben",
+    "general": [
+      "Die Vergangenheitsform wird durch Endungen an den Verbstamm angepasst."
+    ],
+    "rules": [
+      "كَتَبَ = er schrieb",
+      "كَتَبْتُ = ich schrieb"
+    ],
+    "exceptions": [
+      "Schwache Verben besitzen besondere Muster."
+    ],
+    "important": [
+      "Zuerst werden regelmäßige dreiradikalige Verben gelernt."
+    ],
+    "examples": [
+      {
+        "id": "student_wrote",
+        "title": "Der Schüler schrieb",
+        "translation": "Der Schüler schrieb.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Subjekt",
+            "arabicVocalized": "اَلطَّالِبُ",
+            "arabicUnvocalized": "الطالب",
+            "german": "der Schüler"
+          },
+          {
+            "type": "verb",
+            "label": "Verb",
+            "arabicVocalized": "كَتَبَ",
+            "arabicUnvocalized": "كتب",
+            "german": "schrieb"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Grundmuster der vollendeten Verbform.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Verben",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "past_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „er schrieb“?",
+        "options": [
+          "كَتَبَ",
+          "كَتَبْتُ",
+          "أَكْتُبُ",
+          "يَكْتُبُ"
+        ],
+        "correctAnswer": "كَتَبَ",
+        "explanation": "كَتَبَ ist die 3. Person Singular maskulin im Perfekt."
+      },
+      {
+        "id": "past_q2",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „ich schrieb“?",
+        "options": [
+          "كَتَبْتُ",
+          "كَتَبَ",
+          "يَكْتُبُ",
+          "هُوَ"
+        ],
+        "correctAnswer": "كَتَبْتُ",
+        "explanation": "Die Endung ـتُ kennzeichnet hier „ich“."
+      },
+      {
+        "id": "past_q3",
+        "type": "cloze",
+        "prompt": "Ergänze „Der Schüler schrieb“.",
+        "arabicPrompt": "اَلطَّالِبُ ___",
+        "options": [
+          "كَتَبَ",
+          "يَكْتُبُ",
+          "كَبِيرٌ",
+          "فِي"
+        ],
+        "correctAnswer": "كَتَبَ",
+        "explanation": "Das Verb im Perfekt beschreibt die abgeschlossene Handlung."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "prepositions"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "present_tense",
+    "title": "Gegenwart",
+    "description": "Präfixe und Endungen der unvollendeten Verbform.",
+    "level": 3,
+    "order": 9,
+    "category": "Verben",
+    "general": [
+      "Die Gegenwartsform trägt meist ein Personenpräfix."
+    ],
+    "rules": [
+      "أَكْتُبُ = ich schreibe",
+      "يَكْتُبُ = er schreibt"
+    ],
+    "exceptions": [
+      "Vokalwechsel und schwache Verben werden später vertieft."
+    ],
+    "important": [
+      "Das Wörterbuch nennt Verben meist in der 3. Person Singular Vergangenheit."
+    ],
+    "examples": [
+      {
+        "id": "i_read",
+        "title": "Ich lese",
+        "translation": "Ich lese.",
+        "blocks": [
+          {
+            "type": "pronoun",
+            "label": "Pronomen",
+            "arabicVocalized": "أَنَا",
+            "arabicUnvocalized": "أنا",
+            "german": "ich"
+          },
+          {
+            "type": "verb",
+            "label": "Verb",
+            "arabicVocalized": "أَقْرَأُ",
+            "arabicUnvocalized": "أقرأ",
+            "german": "lese"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Präfixe und Endungen der unvollendeten Verbform.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Verben",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "present_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „ich schreibe“?",
+        "options": [
+          "أَكْتُبُ",
+          "يَكْتُبُ",
+          "كَتَبَ",
+          "كَتَبْتُ"
+        ],
+        "correctAnswer": "أَكْتُبُ",
+        "explanation": "Das Präfix أَ- kennzeichnet in diesem Muster die 1. Person Singular."
+      },
+      {
+        "id": "present_q2",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „er schreibt“?",
+        "options": [
+          "يَكْتُبُ",
+          "أَكْتُبُ",
+          "كَتَبَ",
+          "نَكْتُبُ"
+        ],
+        "correctAnswer": "يَكْتُبُ",
+        "explanation": "Das Präfix يَ- kennzeichnet hier die 3. Person Singular maskulin."
+      },
+      {
+        "id": "present_q3",
+        "type": "cloze",
+        "prompt": "Ergänze „Ich lese“.",
+        "arabicPrompt": "أَنَا ___",
+        "options": [
+          "أَقْرَأُ",
+          "يَقْرَأُ",
+          "كَتَبَ",
+          "كِتَابٌ"
+        ],
+        "correctAnswer": "أَقْرَأُ",
+        "explanation": "Mit أَنَا wird hier die Form أَقْرَأُ verwendet."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "past_tense"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "idafa",
+    "title": "Genitivverbindung (Iḍāfa)",
+    "description": "Zwei Nomen verbinden, um Zugehörigkeit auszudrücken.",
+    "level": 3,
+    "order": 10,
+    "category": "Sonderfälle",
+    "general": [
+      "Die Iḍāfa verbindet zwei Nomen ohne Präposition."
+    ],
+    "rules": [
+      "Nomen 1 + Nomen 2 im Genitiv",
+      "Das erste Nomen erhält keinen bestimmten Artikel."
+    ],
+    "exceptions": [
+      "Pronomenanhänge bilden eine verwandte Besitzkonstruktion."
+    ],
+    "important": [
+      "Die Bestimmtheit der gesamten Verbindung richtet sich nach dem zweiten Bestandteil."
+    ],
+    "examples": [
+      {
+        "id": "student_book",
+        "title": "Das Buch des Schülers",
+        "translation": "das Buch des Schülers",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Besitz",
+            "arabicVocalized": "كِتَابُ",
+            "arabicUnvocalized": "كتاب",
+            "german": "Buch"
+          },
+          {
+            "type": "noun",
+            "label": "Besitzer",
+            "arabicVocalized": "اَلطَّالِبِ",
+            "arabicUnvocalized": "الطالب",
+            "german": "des Schülers"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Zwei Nomen verbinden, um Zugehörigkeit auszudrücken.",
+      "Die Lektion durch ein Quiz mit mindestens 70 Prozent festigen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "Sonderfälle",
+      "quiz"
+    ],
+    "quizPassScore": 70,
+    "quiz": [
+      {
+        "id": "idafa_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Grundfolge hat eine Iḍāfa?",
+        "options": [
+          "Nomen 1 + Nomen 2",
+          "Artikel + Verb",
+          "Adjektiv + Fragewort",
+          "Präposition + Pronomen"
+        ],
+        "correctAnswer": "Nomen 1 + Nomen 2",
+        "explanation": "Die Genitivverbindung besteht aus zwei direkt aufeinanderfolgenden Nomen."
+      },
+      {
+        "id": "idafa_q2",
+        "type": "multiple_choice",
+        "prompt": "Was gilt für das erste Nomen der Iḍāfa?",
+        "options": [
+          "Es erhält keinen bestimmten Artikel.",
+          "Es steht immer im Plural.",
+          "Es muss feminin sein.",
+          "Es wird ausgelassen."
+        ],
+        "correctAnswer": "Es erhält keinen bestimmten Artikel.",
+        "explanation": "Die Bestimmtheit ergibt sich aus dem zweiten Glied."
+      },
+      {
+        "id": "idafa_q3",
+        "type": "cloze",
+        "prompt": "Ergänze „das Buch des Schülers“.",
+        "arabicPrompt": "___ اَلطَّالِبِ",
+        "options": [
+          "كِتَابُ",
+          "اَلْكِتَابُ",
+          "فِي",
+          "كَبِيرٌ"
+        ],
+        "correctAnswer": "كِتَابُ",
+        "explanation": "Das erste Nomen steht ohne Artikel: كِتَابُ اَلطَّالِبِ."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "present_tense"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "fusha",
+    "commonMistakes": [],
+    "quizQuestionCount": 3
+  },
+  {
+    "id": "demonstratives",
+    "title": "Demonstrativpronomen",
+    "description": "هذا، هذه، ذلك und تلك sicher verwenden.",
+    "level": 2,
+    "order": 11,
+    "category": "Nominalgrammatik",
+    "general": [
+      "Demonstrativpronomen richten sich nach Genus und Numerus des Bezugsworts."
+    ],
+    "rules": [
+      "هٰذَا für maskulin Singular",
+      "هٰذِهِ für feminin Singular",
+      "ذٰلِكَ / تِلْكَ für Entferntes"
+    ],
+    "exceptions": [],
+    "important": [
+      "Im bestimmten Ausdruck folgt häufig ein Nomen mit Artikel."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "demonstratives_example_1",
+        "title": "Dieses Buch",
+        "translation": "Dieses Buch ist neu.",
+        "blocks": [
+          {
+            "type": "pronoun",
+            "label": "Demonstrativ",
+            "arabicVocalized": "هٰذَا",
+            "arabicUnvocalized": "هذا",
+            "german": "dieses"
+          },
+          {
+            "type": "noun",
+            "label": "Nomen",
+            "arabicVocalized": "الْكِتَابُ",
+            "arabicUnvocalized": "الكتاب",
+            "german": "Buch"
+          },
+          {
+            "type": "adjective",
+            "label": "Prädikat",
+            "arabicVocalized": "جَدِيدٌ",
+            "arabicUnvocalized": "جديد",
+            "german": "neu"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "هذا، هذه، ذلك und تلك sicher verwenden.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "a1",
+      "nominalgrammatik"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "dem_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „diese“ bei einem femininen Singular?",
+        "options": [
+          "هٰذِهِ",
+          "هٰذَا",
+          "ذٰلِكَ",
+          "هُمْ"
+        ],
+        "correctAnswer": "هٰذِهِ",
+        "explanation": "هٰذِهِ ist feminin Singular."
+      },
+      {
+        "id": "dem_q2",
+        "type": "multiple_choice",
+        "prompt": "Welche Form verweist auf etwas entferntes Maskulines?",
+        "options": [
+          "ذٰلِكَ",
+          "هٰذَا",
+          "تِلْكَ",
+          "هِيَ"
+        ],
+        "correctAnswer": "ذٰلِكَ",
+        "explanation": "ذٰلِكَ bedeutet „jener“."
+      },
+      {
+        "id": "dem_q3",
+        "type": "cloze",
+        "prompt": "Ergänze: ___ الْمَدْرَسَةُ كَبِيرَةٌ.",
+        "options": [
+          "هٰذِهِ",
+          "هٰذَا",
+          "ذٰلِكَ",
+          "هُوَ"
+        ],
+        "correctAnswer": "هٰذِهِ",
+        "explanation": "مَدْرَسَةٌ ist feminin.",
+        "arabicPrompt": "___ الْمَدْرَسَةُ كَبِيرَةٌ"
+      },
+      {
+        "id": "dem_q4",
+        "type": "multiple_choice",
+        "prompt": "Welche Verbindung bedeutet „dieses Haus“?",
+        "options": [
+          "هٰذَا الْبَيْتُ",
+          "هٰذِهِ الْبَيْتُ",
+          "ذٰلِكَ الْبِنْتُ",
+          "هُوَ بَيْتٌ"
+        ],
+        "correctAnswer": "هٰذَا الْبَيْتُ",
+        "explanation": "بَيْتٌ ist maskulin."
+      },
+      {
+        "id": "dem_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „jene“ (f.)?",
+        "options": [
+          "تِلْكَ",
+          "ذٰلِكَ",
+          "هٰذِهِ",
+          "أَنْتِ"
+        ],
+        "correctAnswer": "تِلْكَ",
+        "explanation": "تِلْكَ ist die entfernte feminine Form."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "adjective_agreement"
+    ]
+  },
+  {
+    "id": "possessive_suffixes",
+    "title": "Possessivsuffixe",
+    "description": "Besitz mit angehängten Pronomen ausdrücken.",
+    "level": 2,
+    "order": 12,
+    "category": "Nominalgrammatik",
+    "general": [
+      "Possessivsuffixe werden direkt an Nomen, Präpositionen und Verben angehängt."
+    ],
+    "rules": [
+      "ـي = mein",
+      "ـكَ / ـكِ = dein",
+      "ـهُ / ـهَا = sein / ihr"
+    ],
+    "exceptions": [],
+    "important": [
+      "Ein Nomen mit Possessivsuffix ist bereits bestimmt."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "possessive_suffixes_example_1",
+        "title": "Mein Buch",
+        "translation": "Das ist mein Buch.",
+        "blocks": [
+          {
+            "type": "pronoun",
+            "label": "Demonstrativ",
+            "arabicVocalized": "هٰذَا",
+            "arabicUnvocalized": "هذا",
+            "german": "das"
+          },
+          {
+            "type": "noun",
+            "label": "Besitz",
+            "arabicVocalized": "كِتَابِي",
+            "arabicUnvocalized": "كتابي",
+            "german": "mein Buch"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Besitz mit angehängten Pronomen ausdrücken.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "a1",
+      "nominalgrammatik"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "poss_q1",
+        "type": "multiple_choice",
+        "prompt": "Welches Suffix bedeutet „mein“?",
+        "options": [
+          "ـي",
+          "ـهُ",
+          "ـهَا",
+          "ـنَا"
+        ],
+        "correctAnswer": "ـي",
+        "explanation": "ـي kennzeichnet die erste Person Singular."
+      },
+      {
+        "id": "poss_q2",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet كِتَابُهُ?",
+        "options": [
+          "sein Buch",
+          "mein Buch",
+          "ihr Buch",
+          "unser Buch"
+        ],
+        "correctAnswer": "sein Buch",
+        "explanation": "ـهُ bedeutet „sein“."
+      },
+      {
+        "id": "poss_q3",
+        "type": "cloze",
+        "prompt": "Ergänze „unser Haus“: بَيْتُ___",
+        "options": [
+          "نَا",
+          "ي",
+          "هَا",
+          "كَ"
+        ],
+        "correctAnswer": "نَا",
+        "explanation": "ـنَا bedeutet „unser“.",
+        "arabicPrompt": "بَيْتُ___"
+      },
+      {
+        "id": "poss_q4",
+        "type": "multiple_choice",
+        "prompt": "Warum steht kein Artikel vor كِتَابِي?",
+        "options": [
+          "Das Suffix macht das Nomen bestimmt.",
+          "Das Wort ist immer unbestimmt.",
+          "Artikel sind im Fusha verboten.",
+          "Es ist ein Verb."
+        ],
+        "correctAnswer": "Das Suffix macht das Nomen bestimmt.",
+        "explanation": "Possessivsuffixe bestimmen das Nomen."
+      },
+      {
+        "id": "poss_q5",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet مَدْرَسَتُهَا?",
+        "options": [
+          "ihre Schule",
+          "seine Schule",
+          "meine Schule",
+          "deine Schule (m.)"
+        ],
+        "correctAnswer": "ihre Schule",
+        "explanation": "ـهَا bedeutet „ihr“."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "demonstratives"
+    ]
+  },
+  {
+    "id": "negation",
+    "title": "Negation",
+    "description": "Nominal- und Verbalsätze verneinen.",
+    "level": 3,
+    "order": 13,
+    "category": "Satzbau",
+    "general": [
+      "Die Negationspartikel hängt von Zeitform und Satztyp ab."
+    ],
+    "rules": [
+      "لَا für allgemeines Präsens",
+      "لَمْ + Jussiv für Vergangenheit",
+      "لَنْ + Subjunktiv für Zukunft"
+    ],
+    "exceptions": [],
+    "important": [
+      "مَا wird häufig mit dem Perfekt verwendet."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "negation_example_1",
+        "title": "Er schrieb nicht",
+        "translation": "Er schrieb nicht den Brief.",
+        "blocks": [
+          {
+            "type": "particle",
+            "label": "Negation",
+            "arabicVocalized": "مَا",
+            "arabicUnvocalized": "ما",
+            "german": "nicht"
+          },
+          {
+            "type": "verb",
+            "label": "Verb",
+            "arabicVocalized": "كَتَبَ",
+            "arabicUnvocalized": "كتب",
+            "german": "schrieb"
+          },
+          {
+            "type": "object",
+            "label": "Objekt",
+            "arabicVocalized": "الرِّسَالَةَ",
+            "arabicUnvocalized": "الرسالة",
+            "german": "den Brief"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nominal- und Verbalsätze verneinen.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "a2",
+      "satzbau"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "neg_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Partikel verneint häufig das Perfekt?",
+        "options": [
+          "مَا",
+          "لَنْ",
+          "سَوْفَ",
+          "إِنَّ"
+        ],
+        "correctAnswer": "مَا",
+        "explanation": "مَا + Perfekt ist eine verbreitete Vergangenheitsnegation."
+      },
+      {
+        "id": "neg_q2",
+        "type": "multiple_choice",
+        "prompt": "Welche Verbindung verneint die Zukunft?",
+        "options": [
+          "لَنْ + Subjunktiv",
+          "لَمْ + Jussiv",
+          "لَا + Nominativ",
+          "قَدْ + Perfekt"
+        ],
+        "correctAnswer": "لَنْ + Subjunktiv",
+        "explanation": "لَنْ richtet sich auf Zukünftiges."
+      },
+      {
+        "id": "neg_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Partikel steht bei لَمْ يَكْتُبْ?",
+        "options": [
+          "لَمْ",
+          "لَنْ",
+          "مَا",
+          "لَيْسَ"
+        ],
+        "correctAnswer": "لَمْ",
+        "explanation": "لَمْ verlangt den Jussiv."
+      },
+      {
+        "id": "neg_q4",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet لَا أَفْهَمُ?",
+        "options": [
+          "Ich verstehe nicht.",
+          "Ich verstand nicht.",
+          "Ich werde verstehen.",
+          "Verstehst du?"
+        ],
+        "correctAnswer": "Ich verstehe nicht.",
+        "explanation": "لَا verneint hier das Präsens."
+      },
+      {
+        "id": "neg_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Form verneint einen einfachen Nominalsatz?",
+        "options": [
+          "لَيْسَ",
+          "سَوْفَ",
+          "قَدْ",
+          "هَلْ"
+        ],
+        "correctAnswer": "لَيْسَ",
+        "explanation": "لَيْسَ verneint Nominalsätze."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "present_tense"
+    ]
+  },
+  {
+    "id": "dual_plural",
+    "title": "Dual und Plural",
+    "description": "Zweiheit und Mehrzahl im Fusha unterscheiden.",
+    "level": 3,
+    "order": 14,
+    "category": "Nominalgrammatik",
+    "general": [
+      "Der Dual besitzt eigene Endungen; Plurale können regelmäßig oder gebrochen sein."
+    ],
+    "rules": [
+      "ـانِ im Nominativ des Duals",
+      "ـيْنِ im Akkusativ/Genitiv",
+      "Regelmäßiger maskuliner Plural: ـونَ / ـينَ"
+    ],
+    "exceptions": [],
+    "important": [
+      "Gebrochene Plurale müssen oft mit dem Wort gelernt werden."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "dual_plural_example_1",
+        "title": "Zwei Studenten",
+        "translation": "Zwei Studenten sind hier.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Dual",
+            "arabicVocalized": "طَالِبَانِ",
+            "arabicUnvocalized": "طالبان",
+            "german": "zwei Studenten"
+          },
+          {
+            "type": "adverb",
+            "label": "Ort",
+            "arabicVocalized": "هُنَا",
+            "arabicUnvocalized": "هنا",
+            "german": "hier"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Zweiheit und Mehrzahl im Fusha unterscheiden.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "a2",
+      "nominalgrammatik"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "dual_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „zwei Studenten“ im Nominativ?",
+        "options": [
+          "طَالِبَانِ",
+          "طَالِبُونَ",
+          "طَالِبَيْنِ",
+          "طَالِبَاتٌ"
+        ],
+        "correctAnswer": "طَالِبَانِ",
+        "explanation": "ـانِ markiert den Dual im Nominativ."
+      },
+      {
+        "id": "dual_q2",
+        "type": "multiple_choice",
+        "prompt": "Welche Endung gehört zum regelmäßigen maskulinen Plural im Nominativ?",
+        "options": [
+          "ـونَ",
+          "ـانِ",
+          "ـاتٌ",
+          "ـةٌ"
+        ],
+        "correctAnswer": "ـونَ",
+        "explanation": "ـونَ ist die Nominativendung."
+      },
+      {
+        "id": "dual_q3",
+        "type": "multiple_choice",
+        "prompt": "Was ist كُتُبٌ?",
+        "options": [
+          "gebrochener Plural von كِتَابٌ",
+          "Dual von كِتَابٌ",
+          "femininer Singular",
+          "Verbform"
+        ],
+        "correctAnswer": "gebrochener Plural von كِتَابٌ",
+        "explanation": "كُتُبٌ ist ein gebrochener Plural."
+      },
+      {
+        "id": "dual_q4",
+        "type": "multiple_choice",
+        "prompt": "Welche Form ist ein regelmäßiger femininer Plural?",
+        "options": [
+          "طَالِبَاتٌ",
+          "طَالِبُونَ",
+          "طَالِبَانِ",
+          "طُلَّابٌ"
+        ],
+        "correctAnswer": "طَالِبَاتٌ",
+        "explanation": "ـاتٌ kennzeichnet häufig den femininen Plural."
+      },
+      {
+        "id": "dual_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Dualendung erscheint oft nach Präpositionen?",
+        "options": [
+          "ـيْنِ",
+          "ـانِ",
+          "ـونَ",
+          "ـاتٌ"
+        ],
+        "correctAnswer": "ـيْنِ",
+        "explanation": "Nach Präpositionen steht der Genitiv."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "idafa"
+    ]
+  },
+  {
+    "id": "object_pronouns",
+    "title": "Objektpronomen",
+    "description": "Direkte Objekte als Suffixe an Verben anhängen.",
+    "level": 3,
+    "order": 15,
+    "category": "Verbgrammatik",
+    "general": [
+      "Objektpronomen werden an das Verb angehängt."
+    ],
+    "rules": [
+      "ـنِي = mich",
+      "ـكَ / ـكِ = dich",
+      "ـهُ / ـهَا = ihn / sie"
+    ],
+    "exceptions": [],
+    "important": [
+      "Formveränderungen können zur leichteren Aussprache auftreten."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "object_pronouns_example_1",
+        "title": "Er sah ihn",
+        "translation": "Der Student sah ihn.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Subjekt",
+            "arabicVocalized": "الطَّالِبُ",
+            "arabicUnvocalized": "الطالب",
+            "german": "der Student"
+          },
+          {
+            "type": "verb",
+            "label": "Verb + Objekt",
+            "arabicVocalized": "رَآهُ",
+            "arabicUnvocalized": "رآه",
+            "german": "sah ihn"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Direkte Objekte als Suffixe an Verben anhängen.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "a2",
+      "verbgrammatik"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "obj_q1",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet رَآهُ?",
+        "options": [
+          "er sah ihn",
+          "er sah sie",
+          "ich sah ihn",
+          "er sieht ihn"
+        ],
+        "correctAnswer": "er sah ihn",
+        "explanation": "ـهُ ist das Objektpronomen „ihn“."
+      },
+      {
+        "id": "obj_q2",
+        "type": "multiple_choice",
+        "prompt": "Welches Suffix bedeutet „mich“?",
+        "options": [
+          "ـنِي",
+          "ـهُ",
+          "ـهَا",
+          "ـكُمْ"
+        ],
+        "correctAnswer": "ـنِي",
+        "explanation": "ـنِي bezeichnet die erste Person Singular als Objekt."
+      },
+      {
+        "id": "obj_q3",
+        "type": "cloze",
+        "prompt": "Ergänze „Er kennt sie“: يَعْرِفُ___",
+        "options": [
+          "هَا",
+          "هُ",
+          "نِي",
+          "نَا"
+        ],
+        "correctAnswer": "هَا",
+        "explanation": "ـهَا bedeutet „sie“.",
+        "arabicPrompt": "يَعْرِفُ___"
+      },
+      {
+        "id": "obj_q4",
+        "type": "multiple_choice",
+        "prompt": "Wo steht ein angehängtes Objektpronomen?",
+        "options": [
+          "direkt am Verb",
+          "immer vor dem Verb",
+          "nur am Satzende getrennt",
+          "nur am Nomen"
+        ],
+        "correctAnswer": "direkt am Verb",
+        "explanation": "Es bildet mit dem Verb eine orthografische Einheit."
+      },
+      {
+        "id": "obj_q5",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet كَتَبْتُهَا?",
+        "options": [
+          "ich schrieb sie/es",
+          "sie schrieb mich",
+          "er schrieb sie",
+          "wir schrieben ihn"
+        ],
+        "correctAnswer": "ich schrieb sie/es",
+        "explanation": "ـتُ = ich; ـهَا = sie/es."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "negation"
+    ]
+  },
+  {
+    "id": "relative_clauses",
+    "title": "Relativsätze",
+    "description": "Nomen mit الذي und seinen Formen näher bestimmen.",
+    "level": 4,
+    "order": 16,
+    "category": "Satzbau",
+    "general": [
+      "Das Relativpronomen stimmt mit dem Bezugswort überein."
+    ],
+    "rules": [
+      "الَّذِي maskulin Singular",
+      "الَّتِي feminin Singular",
+      "الَّذِينَ maskuliner Plural"
+    ],
+    "exceptions": [],
+    "important": [
+      "Im Relativsatz kann ein rückverweisendes Pronomen nötig sein."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "relative_clauses_example_1",
+        "title": "Der Student, der liest",
+        "translation": "Der Student, der liest, ist fleißig.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Bezugswort",
+            "arabicVocalized": "الطَّالِبُ",
+            "arabicUnvocalized": "الطالب",
+            "german": "der Student"
+          },
+          {
+            "type": "pronoun",
+            "label": "Relativpronomen",
+            "arabicVocalized": "الَّذِي",
+            "arabicUnvocalized": "الذي",
+            "german": "der"
+          },
+          {
+            "type": "verb",
+            "label": "Relativsatz",
+            "arabicVocalized": "يَقْرَأُ",
+            "arabicUnvocalized": "يقرأ",
+            "german": "liest"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nomen mit الذي und seinen Formen näher bestimmen.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b1",
+      "satzbau"
+    ],
+    "cefrLevel": "B1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "rel_q1",
+        "type": "multiple_choice",
+        "prompt": "Welches Relativpronomen passt zu einem femininen Singular?",
+        "options": [
+          "الَّتِي",
+          "الَّذِي",
+          "الَّذِينَ",
+          "هٰذِهِ"
+        ],
+        "correctAnswer": "الَّتِي",
+        "explanation": "الَّتِي ist feminin Singular."
+      },
+      {
+        "id": "rel_q2",
+        "type": "multiple_choice",
+        "prompt": "Welches Relativpronomen passt zu einem maskulinen Singular?",
+        "options": [
+          "الَّذِي",
+          "الَّتِي",
+          "اللَّاتِي",
+          "مَنْ"
+        ],
+        "correctAnswer": "الَّذِي",
+        "explanation": "الَّذِي ist maskulin Singular."
+      },
+      {
+        "id": "rel_q3",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet الْكِتَابُ الَّذِي قَرَأْتُهُ?",
+        "options": [
+          "das Buch, das ich gelesen habe",
+          "der Student, der liest",
+          "das neue Buch",
+          "ich las ein Buch"
+        ],
+        "correctAnswer": "das Buch, das ich gelesen habe",
+        "explanation": "ـهُ verweist auf das Bezugswort zurück."
+      },
+      {
+        "id": "rel_q4",
+        "type": "multiple_choice",
+        "prompt": "Womit stimmt das Relativpronomen überein?",
+        "options": [
+          "mit dem Bezugswort",
+          "nur mit dem Verb",
+          "nur mit dem Sprecher",
+          "mit der Satzlänge"
+        ],
+        "correctAnswer": "mit dem Bezugswort",
+        "explanation": "Genus und Numerus richten sich nach dem Bezugswort."
+      },
+      {
+        "id": "rel_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Form gehört zum maskulinen Plural?",
+        "options": [
+          "الَّذِينَ",
+          "الَّذِي",
+          "الَّتِي",
+          "ذٰلِكَ"
+        ],
+        "correctAnswer": "الَّذِينَ",
+        "explanation": "الَّذِينَ wird für den maskulinen Personenplural gebraucht."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "object_pronouns"
+    ]
+  },
+  {
+    "id": "conditional_sentences",
+    "title": "Bedingungssätze",
+    "description": "Reale und hypothetische Bedingungen ausdrücken.",
+    "level": 4,
+    "order": 17,
+    "category": "Satzbau",
+    "general": [
+      "Bedingung und Folge werden durch passende Partikeln verbunden."
+    ],
+    "rules": [
+      "إِنْ für mögliche Bedingungen",
+      "إِذَا häufig für erwartbare Zukunft",
+      "لَوْ für irreale oder kontrafaktische Bedingungen"
+    ],
+    "exceptions": [],
+    "important": [
+      "Die Verbformen hängen von der Partikel und Bedeutung ab."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "conditional_sentences_example_1",
+        "title": "Wenn du lernst",
+        "translation": "Wenn du lernst, bestehst du.",
+        "blocks": [
+          {
+            "type": "particle",
+            "label": "Bedingung",
+            "arabicVocalized": "إِنْ",
+            "arabicUnvocalized": "إن",
+            "german": "wenn"
+          },
+          {
+            "type": "verb",
+            "label": "Bedingung",
+            "arabicVocalized": "تَدْرُسْ",
+            "arabicUnvocalized": "تدرس",
+            "german": "du lernst"
+          },
+          {
+            "type": "verb",
+            "label": "Folge",
+            "arabicVocalized": "تَنْجَحْ",
+            "arabicUnvocalized": "تنجح",
+            "german": "du bestehst"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Reale und hypothetische Bedingungen ausdrücken.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b1",
+      "satzbau"
+    ],
+    "cefrLevel": "B1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "cond_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Partikel drückt eine mögliche Bedingung aus?",
+        "options": [
+          "إِنْ",
+          "لَكِنَّ",
+          "حَتَّى",
+          "قَدْ"
+        ],
+        "correctAnswer": "إِنْ",
+        "explanation": "إِنْ leitet reale/mögliche Bedingungen ein."
+      },
+      {
+        "id": "cond_q2",
+        "type": "multiple_choice",
+        "prompt": "Welche Partikel steht oft bei irreale Bedingungen?",
+        "options": [
+          "لَوْ",
+          "إِذَا",
+          "مَنْ",
+          "هَلْ"
+        ],
+        "correctAnswer": "لَوْ",
+        "explanation": "لَوْ kennzeichnet häufig Irreales."
+      },
+      {
+        "id": "cond_q3",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet إِذَا دَرَسْتَ نَجَحْتَ?",
+        "options": [
+          "Wenn du lernst, bestehst du.",
+          "Obwohl du lernst, bestehst du nicht.",
+          "Du hast gelernt.",
+          "Lerne jetzt!"
+        ],
+        "correctAnswer": "Wenn du lernst, bestehst du.",
+        "explanation": "إِذَا verbindet erwartbare Bedingung und Folge."
+      },
+      {
+        "id": "cond_q4",
+        "type": "multiple_choice",
+        "prompt": "Aus welchen zwei Teilen besteht ein Bedingungssatz?",
+        "options": [
+          "Bedingung und Folge",
+          "Subjekt und Artikel",
+          "Dual und Plural",
+          "Frage und Antwortwort"
+        ],
+        "correctAnswer": "Bedingung und Folge",
+        "explanation": "Beide Teile bilden das Konditionalgefüge."
+      },
+      {
+        "id": "cond_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Form steht oft nach إِنْ?",
+        "options": [
+          "Jussiv",
+          "Nominativ eines Nomens",
+          "Imperativsuffix",
+          "Dualendung"
+        ],
+        "correctAnswer": "Jussiv",
+        "explanation": "إِنْ kann den Jussiv auslösen."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "relative_clauses"
+    ]
+  },
+  {
+    "id": "passive_voice",
+    "title": "Passiv",
+    "description": "Handlungen ohne ausdrücklich genannten Handelnden formulieren.",
+    "level": 4,
+    "order": 18,
+    "category": "Verbgrammatik",
+    "general": [
+      "Im inneren Passiv ändern sich die Kurzvokale des Verbs."
+    ],
+    "rules": [
+      "كُتِبَ = wurde geschrieben",
+      "يُكْتَبُ = wird geschrieben",
+      "Das frühere Objekt steht als نائب الفاعل im Nominativ."
+    ],
+    "exceptions": [],
+    "important": [
+      "Das Passiv ist in formellen Fusha-Texten häufig."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "passive_voice_example_1",
+        "title": "Der Bericht wurde geschrieben",
+        "translation": "Der Bericht wurde geschrieben.",
+        "blocks": [
+          {
+            "type": "verb",
+            "label": "Passivverb",
+            "arabicVocalized": "كُتِبَ",
+            "arabicUnvocalized": "كتب",
+            "german": "wurde geschrieben"
+          },
+          {
+            "type": "noun",
+            "label": "Stellvertreter des Subjekts",
+            "arabicVocalized": "التَّقْرِيرُ",
+            "arabicUnvocalized": "التقرير",
+            "german": "der Bericht"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Handlungen ohne ausdrücklich genannten Handelnden formulieren.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b1",
+      "verbgrammatik"
+    ],
+    "cefrLevel": "B1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "pass_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Form ist Passiv Perfekt von كَتَبَ?",
+        "options": [
+          "كُتِبَ",
+          "كَتَبَ",
+          "يَكْتُبُ",
+          "اُكْتُبْ"
+        ],
+        "correctAnswer": "كُتِبَ",
+        "explanation": "Das Vokalmuster u-i kennzeichnet hier das innere Passiv."
+      },
+      {
+        "id": "pass_q2",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet يُقْرَأُ?",
+        "options": [
+          "es wird gelesen",
+          "er liest",
+          "lies!",
+          "er wurde gelesen"
+        ],
+        "correctAnswer": "es wird gelesen",
+        "explanation": "يُقْرَأُ ist Präsens Passiv."
+      },
+      {
+        "id": "pass_q3",
+        "type": "multiple_choice",
+        "prompt": "Wie heißt das nominativische Satzglied nach dem Passivverb?",
+        "options": [
+          "نَائِبُ الْفَاعِلِ",
+          "مَفْعُولٌ بِهِ",
+          "مُبْتَدَأٌ",
+          "حَالٌ"
+        ],
+        "correctAnswer": "نَائِبُ الْفَاعِلِ",
+        "explanation": "Es vertritt das ausgelassene Subjekt."
+      },
+      {
+        "id": "pass_q4",
+        "type": "multiple_choice",
+        "prompt": "Warum nutzt man das Passiv?",
+        "options": [
+          "Der Handelnde ist unbekannt oder unwichtig.",
+          "Um eine Frage zu bilden.",
+          "Um den Dual zu markieren.",
+          "Nur für Befehle."
+        ],
+        "correctAnswer": "Der Handelnde ist unbekannt oder unwichtig.",
+        "explanation": "Das Passiv rückt Handlung/Ergebnis in den Vordergrund."
+      },
+      {
+        "id": "pass_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „wurde geöffnet“?",
+        "options": [
+          "فُتِحَ",
+          "فَتَحَ",
+          "يَفْتَحُ",
+          "مَفْتُوحٌ"
+        ],
+        "correctAnswer": "فُتِحَ",
+        "explanation": "فُتِحَ ist Perfekt Passiv."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "conditional_sentences"
+    ]
+  },
+  {
+    "id": "verbal_nouns",
+    "title": "Verbalnomen (Maṣdar)",
+    "description": "Handlungen als Nomen ausdrücken.",
+    "level": 4,
+    "order": 19,
+    "category": "Wortbildung",
+    "general": [
+      "Das Maṣdar bezeichnet die Handlung oder den Vorgang eines Verbs."
+    ],
+    "rules": [
+      "قِرَاءَةٌ zu قَرَأَ",
+      "تَعَلُّمٌ zu تَعَلَّمَ",
+      "تَطْوِيرٌ zu طَوَّرَ"
+    ],
+    "exceptions": [],
+    "important": [
+      "Bei Form I ist das Muster oft lexikalisch zu lernen."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "verbal_nouns_example_1",
+        "title": "Lesen ist wichtig",
+        "translation": "Lesen ist wichtig.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Maṣdar",
+            "arabicVocalized": "الْقِرَاءَةُ",
+            "arabicUnvocalized": "القراءة",
+            "german": "das Lesen"
+          },
+          {
+            "type": "adjective",
+            "label": "Prädikat",
+            "arabicVocalized": "مُهِمَّةٌ",
+            "arabicUnvocalized": "مهمة",
+            "german": "wichtig"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Handlungen als Nomen ausdrücken.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b1",
+      "wortbildung"
+    ],
+    "cefrLevel": "B1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "masdar_q1",
+        "type": "multiple_choice",
+        "prompt": "Was ist ein Maṣdar?",
+        "options": [
+          "ein Verbalnomen",
+          "ein Relativpronomen",
+          "eine Dualendung",
+          "ein Fragesatz"
+        ],
+        "correctAnswer": "ein Verbalnomen",
+        "explanation": "Es nominalisiert eine Handlung."
+      },
+      {
+        "id": "masdar_q2",
+        "type": "multiple_choice",
+        "prompt": "Welches Maṣdar gehört zu قَرَأَ?",
+        "options": [
+          "قِرَاءَةٌ",
+          "كِتَابَةٌ",
+          "تَعَلُّمٌ",
+          "ذَهَابٌ"
+        ],
+        "correctAnswer": "قِرَاءَةٌ",
+        "explanation": "قِرَاءَةٌ bedeutet „Lesen“."
+      },
+      {
+        "id": "masdar_q3",
+        "type": "multiple_choice",
+        "prompt": "Welches Maṣdar gehört zu تَعَلَّمَ?",
+        "options": [
+          "تَعَلُّمٌ",
+          "عِلْمٌ",
+          "تَعْلِيمٌ",
+          "مَعْلُومٌ"
+        ],
+        "correctAnswer": "تَعَلُّمٌ",
+        "explanation": "Form V bildet hier تَفَعُّل."
+      },
+      {
+        "id": "masdar_q4",
+        "type": "multiple_choice",
+        "prompt": "Wie wird ein Maṣdar grammatisch behandelt?",
+        "options": [
+          "als Nomen",
+          "als finite Verbform",
+          "als Partikel",
+          "als Pronomen"
+        ],
+        "correctAnswer": "als Nomen",
+        "explanation": "Es kann Artikel, Kasus und Genitivverbindungen tragen."
+      },
+      {
+        "id": "masdar_q5",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet كِتَابَةُ الرِّسَالَةِ?",
+        "options": [
+          "das Schreiben des Briefes",
+          "der geschriebene Brief",
+          "er schrieb den Brief",
+          "schreibe den Brief"
+        ],
+        "correctAnswer": "das Schreiben des Briefes",
+        "explanation": "Das Maṣdar bildet hier eine Iḍāfa."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "passive_voice"
+    ]
+  },
+  {
+    "id": "number_agreement",
+    "title": "Zahlen und gezählte Nomen",
+    "description": "Zahlen mit Genus, Numerus und Kasus verbinden.",
+    "level": 4,
+    "order": 20,
+    "category": "Nominalgrammatik",
+    "general": [
+      "Die Kongruenzregeln ändern sich je nach Zahlenbereich."
+    ],
+    "rules": [
+      "3–10 zeigen häufig Genuspolarität",
+      "Das gezählte Nomen steht bei 3–10 im Plural Genitiv",
+      "11–99 besitzen eigene Muster"
+    ],
+    "exceptions": [],
+    "important": [
+      "Zahlen gehören zu den anspruchsvollsten Bereichen der Fusha-Grammatik."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "number_agreement_example_1",
+        "title": "Drei Bücher",
+        "translation": "Ich habe drei Bücher.",
+        "blocks": [
+          {
+            "type": "preposition",
+            "label": "Prädikat",
+            "arabicVocalized": "عِنْدِي",
+            "arabicUnvocalized": "عندي",
+            "german": "ich habe"
+          },
+          {
+            "type": "number",
+            "label": "Zahl",
+            "arabicVocalized": "ثَلَاثَةُ",
+            "arabicUnvocalized": "ثلاثة",
+            "german": "drei"
+          },
+          {
+            "type": "noun",
+            "label": "Gezähltes Nomen",
+            "arabicVocalized": "كُتُبٍ",
+            "arabicUnvocalized": "كتب",
+            "german": "Bücher"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Zahlen mit Genus, Numerus und Kasus verbinden.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b1",
+      "nominalgrammatik"
+    ],
+    "cefrLevel": "B1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "num_q1",
+        "type": "multiple_choice",
+        "prompt": "Wie steht das gezählte Nomen nach 3–10?",
+        "options": [
+          "Plural Genitiv",
+          "Singular Nominativ",
+          "Dual Akkusativ",
+          "immer ohne Kasus"
+        ],
+        "correctAnswer": "Plural Genitiv",
+        "explanation": "Bei 3–10 folgt üblicherweise der Plural im Genitiv."
+      },
+      {
+        "id": "num_q2",
+        "type": "multiple_choice",
+        "prompt": "Was bedeutet Genuspolarität bei 3–10?",
+        "options": [
+          "Die Zahl hat meist das entgegengesetzte grammatische Geschlecht.",
+          "Zahl und Nomen sind immer gleich.",
+          "Nur der Plural zählt.",
+          "Die Zahl bleibt unverändert."
+        ],
+        "correctAnswer": "Die Zahl hat meist das entgegengesetzte grammatische Geschlecht.",
+        "explanation": "Die Zahl kontrastiert häufig mit dem Genus des Nomens."
+      },
+      {
+        "id": "num_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Form bedeutet „drei Bücher“?",
+        "options": [
+          "ثَلَاثَةُ كُتُبٍ",
+          "ثَلَاثُ كِتَابٌ",
+          "ثَلَاثَةٌ كِتَابَانِ",
+          "ثَلَاثُونَ كِتَابٌ"
+        ],
+        "correctAnswer": "ثَلَاثَةُ كُتُبٍ",
+        "explanation": "كِتَابٌ ist maskulin; der Plural steht im Genitiv."
+      },
+      {
+        "id": "num_q4",
+        "type": "multiple_choice",
+        "prompt": "Wie steht das Nomen nach 11–99 häufig?",
+        "options": [
+          "Singular Akkusativ",
+          "Plural Genitiv",
+          "Dual Nominativ",
+          "immer bestimmt"
+        ],
+        "correctAnswer": "Singular Akkusativ",
+        "explanation": "Es fungiert als tamyīz."
+      },
+      {
+        "id": "num_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Zahlengruppe ist für Genuspolarität bekannt?",
+        "options": [
+          "3–10",
+          "1 allein",
+          "1000",
+          "Ordnungszahlen nur"
+        ],
+        "correctAnswer": "3–10",
+        "explanation": "Die Polarität ist ein Kernmerkmal dieses Bereichs."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "verbal_nouns"
+    ]
+  },
+  {
+    "id": "derived_verb_forms",
+    "title": "Abgeleitete Verbstämme",
+    "description": "Formen II–X nach Bedeutung und Muster unterscheiden.",
+    "level": 5,
+    "order": 21,
+    "category": "Wortbildung",
+    "general": [
+      "Abgeleitete Stämme verändern Bedeutung und Valenz einer Wurzel."
+    ],
+    "rules": [
+      "Form II oft intensiv/kausativ",
+      "Form V häufig reflexiv zu Form II",
+      "Form X häufig „suchen/erbitten“ oder bewerten"
+    ],
+    "exceptions": [],
+    "important": [
+      "Die konkrete Bedeutung bleibt lexikalisch und muss im Kontext gelernt werden."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "derived_verb_forms_example_1",
+        "title": "Er lernte",
+        "translation": "Er lernte Arabisch.",
+        "blocks": [
+          {
+            "type": "verb",
+            "label": "Form V",
+            "arabicVocalized": "تَعَلَّمَ",
+            "arabicUnvocalized": "تعلم",
+            "german": "lernte"
+          },
+          {
+            "type": "object",
+            "label": "Objekt",
+            "arabicVocalized": "الْعَرَبِيَّةَ",
+            "arabicUnvocalized": "العربية",
+            "german": "Arabisch"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Formen II–X nach Bedeutung und Muster unterscheiden.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b2",
+      "wortbildung"
+    ],
+    "cefrLevel": "B2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "forms_q1",
+        "type": "multiple_choice",
+        "prompt": "Zu welcher Form gehört تَعَلَّمَ?",
+        "options": [
+          "Form V",
+          "Form I",
+          "Form II",
+          "Form X"
+        ],
+        "correctAnswer": "Form V",
+        "explanation": "Das Muster تَفَعَّلَ kennzeichnet Form V."
+      },
+      {
+        "id": "forms_q2",
+        "type": "multiple_choice",
+        "prompt": "Welche Form zeigt häufig Verdopplung des zweiten Wurzelkonsonanten?",
+        "options": [
+          "Form II",
+          "Form IV",
+          "Form VII",
+          "Form X"
+        ],
+        "correctAnswer": "Form II",
+        "explanation": "فَعَّلَ ist das Grundmuster der Form II."
+      },
+      {
+        "id": "forms_q3",
+        "type": "multiple_choice",
+        "prompt": "Welches Muster gehört zu Form X?",
+        "options": [
+          "اِسْتَفْعَلَ",
+          "أَفْعَلَ",
+          "اِنْفَعَلَ",
+          "تَفَاعَلَ"
+        ],
+        "correctAnswer": "اِسْتَفْعَلَ",
+        "explanation": "Das Präfix اِسْتَـ kennzeichnet Form X."
+      },
+      {
+        "id": "forms_q4",
+        "type": "multiple_choice",
+        "prompt": "Was bleibt trotz Musterwissen nötig?",
+        "options": [
+          "die lexikalische Bedeutung im Kontext",
+          "kein Wörterbuchwissen",
+          "nur die Kasusendung",
+          "die deutsche Wortstellung"
+        ],
+        "correctAnswer": "die lexikalische Bedeutung im Kontext",
+        "explanation": "Muster geben Tendenzen, aber keine vollständige Übersetzung."
+      },
+      {
+        "id": "forms_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Form ist häufig reflexiv zur Form II?",
+        "options": [
+          "Form V",
+          "Form III",
+          "Form IV",
+          "Form IX"
+        ],
+        "correctAnswer": "Form V",
+        "explanation": "تَفَعَّلَ korrespondiert häufig mit فَعَّلَ."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "number_agreement"
+    ]
+  },
+  {
+    "id": "subjunctive_jussive",
+    "title": "Subjunktiv und Jussiv",
+    "description": "Modusendungen im Imperfekt nach Partikeln erkennen.",
+    "level": 5,
+    "order": 22,
+    "category": "Verbgrammatik",
+    "general": [
+      "Partikeln bestimmen den Modus des Imperfekts."
+    ],
+    "rules": [
+      "لَنْ + Subjunktiv",
+      "لَمْ + Jussiv",
+      "أَنْ + Subjunktiv"
+    ],
+    "exceptions": [],
+    "important": [
+      "Bei den fünf Verben fällt im Subjunktiv/Jussiv das ن weg."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "subjunctive_jussive_example_1",
+        "title": "Ich möchte lernen",
+        "translation": "Ich möchte Arabisch lernen.",
+        "blocks": [
+          {
+            "type": "verb",
+            "label": "Modaler Ausdruck",
+            "arabicVocalized": "أُرِيدُ",
+            "arabicUnvocalized": "أريد",
+            "german": "ich möchte"
+          },
+          {
+            "type": "particle",
+            "label": "Subjunktivpartikel",
+            "arabicVocalized": "أَنْ",
+            "arabicUnvocalized": "أن",
+            "german": "zu"
+          },
+          {
+            "type": "verb",
+            "label": "Subjunktiv",
+            "arabicVocalized": "أَتَعَلَّمَ",
+            "arabicUnvocalized": "أتعلم",
+            "german": "lernen"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Modusendungen im Imperfekt nach Partikeln erkennen.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b2",
+      "verbgrammatik"
+    ],
+    "cefrLevel": "B2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "mood_q1",
+        "type": "multiple_choice",
+        "prompt": "Welcher Modus steht nach لَنْ?",
+        "options": [
+          "Subjunktiv",
+          "Jussiv",
+          "Indikativ",
+          "Imperativ"
+        ],
+        "correctAnswer": "Subjunktiv",
+        "explanation": "لَنْ regiert den Subjunktiv."
+      },
+      {
+        "id": "mood_q2",
+        "type": "multiple_choice",
+        "prompt": "Welcher Modus steht nach لَمْ?",
+        "options": [
+          "Jussiv",
+          "Subjunktiv",
+          "Indikativ",
+          "Nominativ"
+        ],
+        "correctAnswer": "Jussiv",
+        "explanation": "لَمْ regiert den Jussiv."
+      },
+      {
+        "id": "mood_q3",
+        "type": "multiple_choice",
+        "prompt": "Ergänze: أُرِيدُ أَنْ أَتَعَلَّمَ ___.",
+        "options": [
+          "الْعَرَبِيَّةَ",
+          "الْعَرَبِيَّةُ",
+          "الْعَرَبِيَّةِ",
+          "عَرَبِيَّةٌ"
+        ],
+        "correctAnswer": "الْعَرَبِيَّةَ",
+        "explanation": "Das direkte Objekt steht im Akkusativ."
+      },
+      {
+        "id": "mood_q4",
+        "type": "multiple_choice",
+        "prompt": "Was geschieht bei den fünf Verben oft im Subjunktiv?",
+        "options": [
+          "Das ن fällt weg.",
+          "Ein Artikel wird ergänzt.",
+          "Das Verb wird zum Perfekt.",
+          "Der erste Buchstabe fällt weg."
+        ],
+        "correctAnswer": "Das ن fällt weg.",
+        "explanation": "Dies ist das Zeichen des Naṣb bei الأفعال الخمسة."
+      },
+      {
+        "id": "mood_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Partikel kann den Subjunktiv auslösen?",
+        "options": [
+          "أَنْ",
+          "هَلْ",
+          "قَدْ",
+          "مَنْ"
+        ],
+        "correctAnswer": "أَنْ",
+        "explanation": "أَنْ + Imperfekt bildet oft einen Infinitivsatz."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "derived_verb_forms"
+    ]
+  },
+  {
+    "id": "kana_sisters",
+    "title": "Kāna und ihre Schwestern",
+    "description": "Nominalsätze zeitlich und aspektuell erweitern.",
+    "level": 5,
+    "order": 23,
+    "category": "Satzbau",
+    "general": [
+      "كان وأخواتها treten in den Nominalsatz ein."
+    ],
+    "rules": [
+      "Das Subjekt von كان bleibt im Nominativ",
+      "Das Prädikat von كان steht im Akkusativ",
+      "أَصْبَحَ, ظَلَّ, صَارَ besitzen verwandte Funktionen"
+    ],
+    "exceptions": [],
+    "important": [
+      "Die deutsche Übersetzung hängt von Zeit und Verb ab."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "kana_sisters_example_1",
+        "title": "Der Student war fleißig",
+        "translation": "Der Student war fleißig.",
+        "blocks": [
+          {
+            "type": "verb",
+            "label": "Kāna",
+            "arabicVocalized": "كَانَ",
+            "arabicUnvocalized": "كان",
+            "german": "war"
+          },
+          {
+            "type": "noun",
+            "label": "Subjekt",
+            "arabicVocalized": "الطَّالِبُ",
+            "arabicUnvocalized": "الطالب",
+            "german": "der Student"
+          },
+          {
+            "type": "adjective",
+            "label": "Prädikat",
+            "arabicVocalized": "مُجْتَهِدًا",
+            "arabicUnvocalized": "مجتهدا",
+            "german": "fleißig"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nominalsätze zeitlich und aspektuell erweitern.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b2",
+      "satzbau"
+    ],
+    "cefrLevel": "B2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "kana_q1",
+        "type": "multiple_choice",
+        "prompt": "Welchen Kasus hat das Prädikat von كان?",
+        "options": [
+          "Akkusativ",
+          "Nominativ",
+          "Genitiv",
+          "kein Kasus"
+        ],
+        "correctAnswer": "Akkusativ",
+        "explanation": "خبر كان steht im Akkusativ."
+      },
+      {
+        "id": "kana_q2",
+        "type": "multiple_choice",
+        "prompt": "Welchen Kasus hat das Subjekt von كان?",
+        "options": [
+          "Nominativ",
+          "Akkusativ",
+          "Genitiv",
+          "Jussiv"
+        ],
+        "correctAnswer": "Nominativ",
+        "explanation": "اسم كان steht im Nominativ."
+      },
+      {
+        "id": "kana_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Form ist korrekt?",
+        "options": [
+          "كَانَ الطَّالِبُ مُجْتَهِدًا",
+          "كَانَ الطَّالِبَ مُجْتَهِدٌ",
+          "كَانَ الطَّالِبِ مُجْتَهِدًا",
+          "كَانَ الطَّالِبُ مُجْتَهِدٌ"
+        ],
+        "correctAnswer": "كَانَ الطَّالِبُ مُجْتَهِدًا",
+        "explanation": "Subjekt Nominativ, Prädikat Akkusativ."
+      },
+      {
+        "id": "kana_q4",
+        "type": "multiple_choice",
+        "prompt": "Was fügt كان dem Nominalsatz häufig hinzu?",
+        "options": [
+          "Vergangenheitsbezug",
+          "Fragebedeutung",
+          "Dualbedeutung",
+          "Negation allein"
+        ],
+        "correctAnswer": "Vergangenheitsbezug",
+        "explanation": "كان setzt den Zustand häufig in die Vergangenheit."
+      },
+      {
+        "id": "kana_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Form gehört zu أخوات كان?",
+        "options": [
+          "أَصْبَحَ",
+          "إِنَّ",
+          "لَيْتَ",
+          "هَلْ"
+        ],
+        "correctAnswer": "أَصْبَحَ",
+        "explanation": "أَصْبَحَ funktioniert in diesem Muster ähnlich."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "subjunctive_jussive"
+    ]
+  },
+  {
+    "id": "inna_sisters",
+    "title": "Inna und ihre Schwestern",
+    "description": "Nominalsätze mit Nachdruck, Wunsch oder Hoffnung markieren.",
+    "level": 5,
+    "order": 24,
+    "category": "Satzbau",
+    "general": [
+      "إن وأخواتها verändern die Kasusverteilung des Nominalsatzes."
+    ],
+    "rules": [
+      "اسم إن steht im Akkusativ",
+      "خبر إن steht im Nominativ",
+      "لَكِنَّ, لَيْتَ, لَعَلَّ gehören zur Gruppe"
+    ],
+    "exceptions": [],
+    "important": [
+      "Die Partikeln tragen unterschiedliche Bedeutungsnuancen."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "inna_sisters_example_1",
+        "title": "Der Student ist fleißig",
+        "translation": "Gewiss, der Student ist fleißig.",
+        "blocks": [
+          {
+            "type": "particle",
+            "label": "Partikel",
+            "arabicVocalized": "إِنَّ",
+            "arabicUnvocalized": "إن",
+            "german": "gewiss"
+          },
+          {
+            "type": "noun",
+            "label": "Subjekt",
+            "arabicVocalized": "الطَّالِبَ",
+            "arabicUnvocalized": "الطالب",
+            "german": "der Student"
+          },
+          {
+            "type": "adjective",
+            "label": "Prädikat",
+            "arabicVocalized": "مُجْتَهِدٌ",
+            "arabicUnvocalized": "مجتهد",
+            "german": "fleißig"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nominalsätze mit Nachdruck, Wunsch oder Hoffnung markieren.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "b2",
+      "satzbau"
+    ],
+    "cefrLevel": "B2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "inna_q1",
+        "type": "multiple_choice",
+        "prompt": "Welchen Kasus hat اسم إن?",
+        "options": [
+          "Akkusativ",
+          "Nominativ",
+          "Genitiv",
+          "Jussiv"
+        ],
+        "correctAnswer": "Akkusativ",
+        "explanation": "Das Nomen nach إِنَّ steht im Akkusativ."
+      },
+      {
+        "id": "inna_q2",
+        "type": "multiple_choice",
+        "prompt": "Welchen Kasus hat خبر إن?",
+        "options": [
+          "Nominativ",
+          "Akkusativ",
+          "Genitiv",
+          "Subjunktiv"
+        ],
+        "correctAnswer": "Nominativ",
+        "explanation": "Das Prädikat bleibt im Nominativ."
+      },
+      {
+        "id": "inna_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Form ist korrekt?",
+        "options": [
+          "إِنَّ الطَّالِبَ مُجْتَهِدٌ",
+          "إِنَّ الطَّالِبُ مُجْتَهِدًا",
+          "إِنَّ الطَّالِبِ مُجْتَهِدٌ",
+          "إِنَّ الطَّالِبَ مُجْتَهِدًا"
+        ],
+        "correctAnswer": "إِنَّ الطَّالِبَ مُجْتَهِدٌ",
+        "explanation": "اسم إن Akkusativ, خبر إن Nominativ."
+      },
+      {
+        "id": "inna_q4",
+        "type": "multiple_choice",
+        "prompt": "Welche Partikel drückt einen Wunsch aus?",
+        "options": [
+          "لَيْتَ",
+          "لَكِنَّ",
+          "إِنَّ",
+          "كَأَنَّ"
+        ],
+        "correctAnswer": "لَيْتَ",
+        "explanation": "لَيْتَ bedeutet ungefähr „wenn doch“."
+      },
+      {
+        "id": "inna_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Partikel drückt Hoffnung/Vermutung aus?",
+        "options": [
+          "لَعَلَّ",
+          "لَيْتَ",
+          "هَلْ",
+          "لَمْ"
+        ],
+        "correctAnswer": "لَعَلَّ",
+        "explanation": "لَعَلَّ bedeutet häufig „vielleicht/hoffentlich“."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "kana_sisters"
+    ]
+  },
+  {
+    "id": "case_endings",
+    "title": "Kasusendungen (Iʿrāb)",
+    "description": "Nominativ, Akkusativ und Genitiv systematisch deuten.",
+    "level": 6,
+    "order": 25,
+    "category": "Syntax",
+    "general": [
+      "Iʿrāb markiert syntaktische Funktionen durch Endungen."
+    ],
+    "rules": [
+      "ـُ/ـٌ häufig Nominativ",
+      "ـَ/ـً häufig Akkusativ",
+      "ـِ/ـٍ häufig Genitiv"
+    ],
+    "exceptions": [],
+    "important": [
+      "Diptota und unregelmäßige Deklinationen weichen ab."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "case_endings_example_1",
+        "title": "Der Student las das Buch",
+        "translation": "Der Student las das Buch in der Bibliothek.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Subjekt/Nominativ",
+            "arabicVocalized": "الطَّالِبُ",
+            "arabicUnvocalized": "الطالب",
+            "german": "der Student"
+          },
+          {
+            "type": "verb",
+            "label": "Verb",
+            "arabicVocalized": "قَرَأَ",
+            "arabicUnvocalized": "قرأ",
+            "german": "las"
+          },
+          {
+            "type": "object",
+            "label": "Objekt/Akkusativ",
+            "arabicVocalized": "الْكِتَابَ",
+            "arabicUnvocalized": "الكتاب",
+            "german": "das Buch"
+          },
+          {
+            "type": "preposition",
+            "label": "Präposition",
+            "arabicVocalized": "فِي",
+            "arabicUnvocalized": "في",
+            "german": "in"
+          },
+          {
+            "type": "noun",
+            "label": "Genitiv",
+            "arabicVocalized": "الْمَكْتَبَةِ",
+            "arabicUnvocalized": "المكتبة",
+            "german": "der Bibliothek"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nominativ, Akkusativ und Genitiv systematisch deuten.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "c1",
+      "syntax"
+    ],
+    "cefrLevel": "C1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "case_q1",
+        "type": "multiple_choice",
+        "prompt": "Welcher Kasus folgt gewöhnlich auf eine Präposition?",
+        "options": [
+          "Genitiv",
+          "Nominativ",
+          "Akkusativ",
+          "Jussiv"
+        ],
+        "correctAnswer": "Genitiv",
+        "explanation": "حروف الجر regieren den Genitiv."
+      },
+      {
+        "id": "case_q2",
+        "type": "multiple_choice",
+        "prompt": "Welcher Kasus markiert häufig das direkte Objekt?",
+        "options": [
+          "Akkusativ",
+          "Nominativ",
+          "Genitiv",
+          "Subjunktiv"
+        ],
+        "correctAnswer": "Akkusativ",
+        "explanation": "المفعول به steht im Akkusativ."
+      },
+      {
+        "id": "case_q3",
+        "type": "multiple_choice",
+        "prompt": "Welcher Kasus markiert häufig das Subjekt?",
+        "options": [
+          "Nominativ",
+          "Akkusativ",
+          "Genitiv",
+          "Jussiv"
+        ],
+        "correctAnswer": "Nominativ",
+        "explanation": "الفاعل steht im Nominativ."
+      },
+      {
+        "id": "case_q4",
+        "type": "multiple_choice",
+        "prompt": "Welche Endung ist typisch für den bestimmten Genitiv Singular?",
+        "options": [
+          "ـِ",
+          "ـُ",
+          "ـَ",
+          "ـْ"
+        ],
+        "correctAnswer": "ـِ",
+        "explanation": "Kasra markiert häufig den Genitiv."
+      },
+      {
+        "id": "case_q5",
+        "type": "multiple_choice",
+        "prompt": "Was bezeichnet Iʿrāb?",
+        "options": [
+          "syntaktisch bedingte Flexionsendungen",
+          "nur Wortwurzeln",
+          "Schreibrichtung",
+          "Dialektvokabular"
+        ],
+        "correctAnswer": "syntaktisch bedingte Flexionsendungen",
+        "explanation": "Iʿrāb macht syntaktische Rollen sichtbar."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "inna_sisters"
+    ]
+  },
+  {
+    "id": "advanced_idafa",
+    "title": "Komplexe Iḍāfa-Ketten",
+    "description": "Mehrgliedrige Genitivverbindungen präzise analysieren.",
+    "level": 6,
+    "order": 26,
+    "category": "Syntax",
+    "general": [
+      "Eine Iḍāfa kann aus mehr als zwei Gliedern bestehen."
+    ],
+    "rules": [
+      "Nur das letzte Glied kann den bestimmten Artikel tragen",
+      "Alle nichtletzten Glieder stehen im Status constructus",
+      "Kasus des ersten Glieds richtet sich nach seiner Satzfunktion"
+    ],
+    "exceptions": [],
+    "important": [
+      "Adjektive können sich auf unterschiedliche Glieder beziehen und müssen eindeutig zugeordnet werden."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "advanced_idafa_example_1",
+        "title": "Direktor der Universität",
+        "translation": "Das Büro des Direktors der neuen Universität.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Erstes Glied",
+            "arabicVocalized": "مَكْتَبُ",
+            "arabicUnvocalized": "مكتب",
+            "german": "Büro"
+          },
+          {
+            "type": "noun",
+            "label": "Zweites Glied",
+            "arabicVocalized": "مُدِيرِ",
+            "arabicUnvocalized": "مدير",
+            "german": "Direktor"
+          },
+          {
+            "type": "noun",
+            "label": "Letztes Glied",
+            "arabicVocalized": "الْجَامِعَةِ",
+            "arabicUnvocalized": "الجامعة",
+            "german": "Universität"
+          },
+          {
+            "type": "adjective",
+            "label": "Attribut",
+            "arabicVocalized": "الْجَدِيدَةِ",
+            "arabicUnvocalized": "الجديدة",
+            "german": "neuen"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Mehrgliedrige Genitivverbindungen präzise analysieren.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "c1",
+      "syntax"
+    ],
+    "cefrLevel": "C1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "aidafa_q1",
+        "type": "multiple_choice",
+        "prompt": "Welches Glied trägt in einer bestimmten Iḍāfa den Artikel?",
+        "options": [
+          "das letzte Glied",
+          "jedes Glied",
+          "nur das erste Glied",
+          "kein Glied"
+        ],
+        "correctAnswer": "das letzte Glied",
+        "explanation": "Die Bestimmtheit wird vom letzten Glied auf die Kette übertragen."
+      },
+      {
+        "id": "aidafa_q2",
+        "type": "multiple_choice",
+        "prompt": "Welchen Kasus haben nachfolgende Glieder?",
+        "options": [
+          "Genitiv",
+          "Nominativ",
+          "Akkusativ",
+          "Jussiv"
+        ],
+        "correctAnswer": "Genitiv",
+        "explanation": "المضاف إليه steht im Genitiv."
+      },
+      {
+        "id": "aidafa_q3",
+        "type": "multiple_choice",
+        "prompt": "Was bestimmt den Kasus des ersten Glieds?",
+        "options": [
+          "seine Funktion im Gesamtsatz",
+          "immer die Präposition",
+          "immer der Artikel",
+          "die Länge der Kette"
+        ],
+        "correctAnswer": "seine Funktion im Gesamtsatz",
+        "explanation": "Das erste Glied kann Subjekt, Objekt usw. sein."
+      },
+      {
+        "id": "aidafa_q4",
+        "type": "multiple_choice",
+        "prompt": "Welche Form ist korrekt?",
+        "options": [
+          "مَكْتَبُ مُدِيرِ الْجَامِعَةِ",
+          "الْمَكْتَبُ الْمُدِيرِ الْجَامِعَةِ",
+          "مَكْتَبُ الْمُدِيرُ جَامِعَةٍ",
+          "مَكْتَبٌ مُدِيرٌ الْجَامِعَةُ"
+        ],
+        "correctAnswer": "مَكْتَبُ مُدِيرِ الْجَامِعَةِ",
+        "explanation": "Die Kette folgt den Regeln des Status constructus."
+      },
+      {
+        "id": "aidafa_q5",
+        "type": "multiple_choice",
+        "prompt": "Worauf kann ein Adjektiv in einer langen Iḍāfa verweisen?",
+        "options": [
+          "auf unterschiedliche passende Glieder",
+          "nur auf das Verb",
+          "nur auf das erste Wort",
+          "niemals auf ein Nomen"
+        ],
+        "correctAnswer": "auf unterschiedliche passende Glieder",
+        "explanation": "Kasus, Genus, Numerus und Bestimmtheit zeigen die Zuordnung."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "case_endings"
+    ]
+  },
+  {
+    "id": "textual_cohesion",
+    "title": "Textkohäsion und Konnektoren",
+    "description": "Argumente über Satzgrenzen hinweg verknüpfen.",
+    "level": 6,
+    "order": 27,
+    "category": "Textgrammatik",
+    "general": [
+      "Konnektoren signalisieren Ursache, Gegensatz, Folge und Einschränkung."
+    ],
+    "rules": [
+      "لِذٰلِكَ = deshalb",
+      "مَعَ ذٰلِكَ = dennoch",
+      "بِالإِضَافَةِ إِلَى ذٰلِكَ = außerdem"
+    ],
+    "exceptions": [],
+    "important": [
+      "Die Wahl des Konnektors bestimmt die logische Beziehung."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "textual_cohesion_example_1",
+        "title": "Deshalb",
+        "translation": "Die Daten sind begrenzt; deshalb bleibt das Ergebnis vorläufig.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Aussage",
+            "arabicVocalized": "الْبَيَانَاتُ مَحْدُودَةٌ",
+            "arabicUnvocalized": "البيانات محدودة",
+            "german": "die Daten sind begrenzt"
+          },
+          {
+            "type": "particle",
+            "label": "Konnektor",
+            "arabicVocalized": "لِذٰلِكَ",
+            "arabicUnvocalized": "لذلك",
+            "german": "deshalb"
+          },
+          {
+            "type": "noun",
+            "label": "Folge",
+            "arabicVocalized": "النَّتِيجَةُ أَوَّلِيَّةٌ",
+            "arabicUnvocalized": "النتيجة أولية",
+            "german": "das Ergebnis ist vorläufig"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Argumente über Satzgrenzen hinweg verknüpfen.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "c1",
+      "textgrammatik"
+    ],
+    "cefrLevel": "C1",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "coh_q1",
+        "type": "multiple_choice",
+        "prompt": "Welcher Konnektor bedeutet „deshalb“?",
+        "options": [
+          "لِذٰلِكَ",
+          "مَعَ ذٰلِكَ",
+          "مِنْ جِهَةٍ",
+          "بِالرَّغْمِ مِنْ"
+        ],
+        "correctAnswer": "لِذٰلِكَ",
+        "explanation": "لِذٰلِكَ leitet eine Folge ein."
+      },
+      {
+        "id": "coh_q2",
+        "type": "multiple_choice",
+        "prompt": "Welcher Konnektor markiert einen Gegensatz?",
+        "options": [
+          "مَعَ ذٰلِكَ",
+          "لِذٰلِكَ",
+          "نَتِيجَةً لِذٰلِكَ",
+          "أَوَّلًا"
+        ],
+        "correctAnswer": "مَعَ ذٰلِكَ",
+        "explanation": "Er entspricht „dennoch“."
+      },
+      {
+        "id": "coh_q3",
+        "type": "multiple_choice",
+        "prompt": "Welcher Ausdruck bedeutet „außerdem“?",
+        "options": [
+          "بِالإِضَافَةِ إِلَى ذٰلِكَ",
+          "عَلَى الرَّغْمِ مِنْ ذٰلِكَ",
+          "بِسَبَبِ ذٰلِكَ",
+          "مِنْ ثَمَّ"
+        ],
+        "correctAnswer": "بِالإِضَافَةِ إِلَى ذٰلِكَ",
+        "explanation": "Er fügt ein weiteres Argument hinzu."
+      },
+      {
+        "id": "coh_q4",
+        "type": "multiple_choice",
+        "prompt": "Was leisten Konnektoren?",
+        "options": [
+          "Sie markieren logische Beziehungen.",
+          "Sie ersetzen alle Verben.",
+          "Sie bestimmen nur das Genus.",
+          "Sie sind immer optional ohne Bedeutungswirkung."
+        ],
+        "correctAnswer": "Sie markieren logische Beziehungen.",
+        "explanation": "Sie steuern die Textkohärenz."
+      },
+      {
+        "id": "coh_q5",
+        "type": "multiple_choice",
+        "prompt": "Welcher Ausdruck leitet eine Einschränkung ein?",
+        "options": [
+          "مِنْ نَاحِيَةٍ أُخْرَى",
+          "لِذٰلِكَ",
+          "أَخِيرًا",
+          "بِالتَّالِي"
+        ],
+        "correctAnswer": "مِنْ نَاحِيَةٍ أُخْرَى",
+        "explanation": "Er eröffnet eine andere Seite des Arguments."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "advanced_idafa"
+    ]
+  },
+  {
+    "id": "stylistic_register",
+    "title": "Stilregister im Fusha",
+    "description": "Formelle, akademische und literarische Ausdrucksweisen unterscheiden.",
+    "level": 7,
+    "order": 28,
+    "category": "Stilistik",
+    "general": [
+      "Fusha umfasst mehrere Register von neutral bis hochliterarisch."
+    ],
+    "rules": [
+      "Wortwahl und Satzlänge prägen das Register",
+      "Nominalisierungen verdichten akademische Texte",
+      "Rhetorische Figuren verstärken literarische Wirkung"
+    ],
+    "exceptions": [],
+    "important": [
+      "Registerwahl hängt von Medium, Publikum und Zweck ab."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "stylistic_register_example_1",
+        "title": "Formelle Feststellung",
+        "translation": "Es lässt sich feststellen, dass die Ergebnisse bedeutsam sind.",
+        "blocks": [
+          {
+            "type": "verb",
+            "label": "Unpersönliche Formel",
+            "arabicVocalized": "يُمْكِنُ الْقَوْلُ",
+            "arabicUnvocalized": "يمكن القول",
+            "german": "man kann sagen"
+          },
+          {
+            "type": "particle",
+            "label": "Einleitung",
+            "arabicVocalized": "إِنَّ",
+            "arabicUnvocalized": "إن",
+            "german": "dass"
+          },
+          {
+            "type": "noun",
+            "label": "Aussage",
+            "arabicVocalized": "النَّتَائِجَ ذَاتُ أَهَمِّيَّةٍ",
+            "arabicUnvocalized": "النتائج ذات أهمية",
+            "german": "die Ergebnisse bedeutsam sind"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Formelle, akademische und literarische Ausdrucksweisen unterscheiden.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "c2",
+      "stilistik"
+    ],
+    "cefrLevel": "C2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "style_q1",
+        "type": "multiple_choice",
+        "prompt": "Was prägt ein Register besonders?",
+        "options": [
+          "Wortwahl, Syntax und Kommunikationszweck",
+          "nur die Schriftgröße",
+          "nur der Artikel",
+          "nur der Sprechername"
+        ],
+        "correctAnswer": "Wortwahl, Syntax und Kommunikationszweck",
+        "explanation": "Register ist eine Kombination sprachlicher Entscheidungen."
+      },
+      {
+        "id": "style_q2",
+        "type": "multiple_choice",
+        "prompt": "Was ist für akademisches Fusha typisch?",
+        "options": [
+          "Nominalisierungen und explizite Verknüpfungen",
+          "ausschließlich Umgangssprache",
+          "keine Konnektoren",
+          "nur kurze Ausrufe"
+        ],
+        "correctAnswer": "Nominalisierungen und explizite Verknüpfungen",
+        "explanation": "Sie verdichten und strukturieren Argumentation."
+      },
+      {
+        "id": "style_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Formel wirkt formell?",
+        "options": [
+          "يُمْكِنُ الْقَوْلُ إِنَّ",
+          "شُو هَادَا",
+          "يَلَّا",
+          "مِش عَارِف"
+        ],
+        "correctAnswer": "يُمْكِنُ الْقَوْلُ إِنَّ",
+        "explanation": "Die anderen Formen sind umgangssprachlich oder nicht Fusha."
+      },
+      {
+        "id": "style_q4",
+        "type": "multiple_choice",
+        "prompt": "Wovon hängt die Registerwahl ab?",
+        "options": [
+          "Publikum, Medium und Zweck",
+          "nur vom Kasus",
+          "nur vom Wortstamm",
+          "nur von der Satzlänge"
+        ],
+        "correctAnswer": "Publikum, Medium und Zweck",
+        "explanation": "Angemessenheit ist kontextabhängig."
+      },
+      {
+        "id": "style_q5",
+        "type": "multiple_choice",
+        "prompt": "Welche Aussage ist richtig?",
+        "options": [
+          "Fusha besitzt unterschiedliche funktionale Register.",
+          "Fusha ist stilistisch immer identisch.",
+          "Literarisches Fusha verwendet keine Metaphern.",
+          "Akademisches Fusha vermeidet Nomen."
+        ],
+        "correctAnswer": "Fusha besitzt unterschiedliche funktionale Register.",
+        "explanation": "Standardsprache ist intern stilistisch differenziert."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "textual_cohesion"
+    ]
+  },
+  {
+    "id": "ellipsis_emphasis",
+    "title": "Ellipse und Hervorhebung",
+    "description": "Auslassung, Voranstellung und Wiederaufnahme stilistisch deuten.",
+    "level": 7,
+    "order": 29,
+    "category": "Stilistik",
+    "general": [
+      "Fortgeschrittene Texte lassen erschließbare Elemente aus oder stellen sie voran."
+    ],
+    "rules": [
+      "Voranstellung kann Fokus erzeugen",
+      "Wiederholung kann Nachdruck oder Rhythmus schaffen",
+      "Ellipse setzt gemeinsames Kontextwissen voraus"
+    ],
+    "exceptions": [],
+    "important": [
+      "Nicht jede Abweichung von der neutralen Wortstellung ist ein Fehler."
+    ],
+    "commonMistakes": [],
+    "examples": [
+      {
+        "id": "ellipsis_emphasis_example_1",
+        "title": "Nur das Wissen",
+        "translation": "Das Wissen – nur es eröffnet den Weg.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Voranstellung",
+            "arabicVocalized": "الْعِلْمُ",
+            "arabicUnvocalized": "العلم",
+            "german": "das Wissen"
+          },
+          {
+            "type": "particle",
+            "label": "Einschränkung",
+            "arabicVocalized": "وَحْدَهُ",
+            "arabicUnvocalized": "وحده",
+            "german": "allein"
+          },
+          {
+            "type": "verb",
+            "label": "Aussage",
+            "arabicVocalized": "يَفْتَحُ الطَّرِيقَ",
+            "arabicUnvocalized": "يفتح الطريق",
+            "german": "öffnet den Weg"
+          }
+        ]
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Auslassung, Voranstellung und Wiederaufnahme stilistisch deuten.",
+      "Die Regel in standardsprachlichen Fusha-Sätzen erkennen und anwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "fusha",
+      "c2",
+      "stilistik"
+    ],
+    "cefrLevel": "C2",
+    "arabicVariety": "fusha",
+    "quizPassScore": 70,
+    "quizQuestionCount": 5,
+    "quiz": [
+      {
+        "id": "ell_q1",
+        "type": "multiple_choice",
+        "prompt": "Was kann Voranstellung bewirken?",
+        "options": [
+          "Fokus oder Kontrast",
+          "nur Genitiv",
+          "immer eine Frage",
+          "Aufhebung des Satzes"
+        ],
+        "correctAnswer": "Fokus oder Kontrast",
+        "explanation": "Informationsstruktur wird gezielt verändert."
+      },
+      {
+        "id": "ell_q2",
+        "type": "multiple_choice",
+        "prompt": "Was ist eine Ellipse?",
+        "options": [
+          "Auslassung eines erschließbaren Elements",
+          "eine Kasusendung",
+          "ein gebrochener Plural",
+          "eine Lautassimilation"
+        ],
+        "correctAnswer": "Auslassung eines erschließbaren Elements",
+        "explanation": "Der Kontext liefert das Fehlende."
+      },
+      {
+        "id": "ell_q3",
+        "type": "multiple_choice",
+        "prompt": "Welche Funktion kann Wiederholung haben?",
+        "options": [
+          "Nachdruck und Rhythmus",
+          "nur Zeitformwechsel",
+          "nur Numerusmarkierung",
+          "keine stilistische Funktion"
+        ],
+        "correctAnswer": "Nachdruck und Rhythmus",
+        "explanation": "Wiederaufnahme kann rhetorisch motiviert sein."
+      },
+      {
+        "id": "ell_q4",
+        "type": "multiple_choice",
+        "prompt": "Wann ist Ellipse verständlich?",
+        "options": [
+          "Wenn der Kontext das Ausgelassene eindeutig macht.",
+          "Nur ohne Kontext.",
+          "Nur bei Zahlen.",
+          "Nur in Überschriften auf Deutsch."
+        ],
+        "correctAnswer": "Wenn der Kontext das Ausgelassene eindeutig macht.",
+        "explanation": "Kontextuelle Rekonstruktion ist entscheidend."
+      },
+      {
+        "id": "ell_q5",
+        "type": "multiple_choice",
+        "prompt": "Ist jede nichtneutrale Wortstellung falsch?",
+        "options": [
+          "Nein, sie kann stilistisch oder informationsstrukturell motiviert sein.",
+          "Ja, immer.",
+          "Nur im Dialekt nicht.",
+          "Nur bei Verben."
+        ],
+        "correctAnswer": "Nein, sie kann stilistisch oder informationsstrukturell motiviert sein.",
+        "explanation": "Fusha erlaubt markierte Strukturen für Fokus und Stil."
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "stylistic_register"
+    ]
+  },
+  {
+    "id": "future_and_intention",
+    "title": "Zukunft und Absicht",
+    "description": "Zukünftige Handlungen mit سـ / سوف und Absichten im Kontext ausdrücken.",
+    "level": 3,
+    "order": 920,
+    "category": "Verb",
+    "general": [
+      "Zukünftige Handlungen mit سـ / سوف und Absichten im Kontext ausdrücken.",
+      "Die Struktur wird zunächst erkannt und danach produktiv angewendet."
+    ],
+    "rules": [
+      "سـ wird direkt mit dem Präsens verbunden.",
+      "سوف steht getrennt vor dem Präsens.",
+      "Zeitangaben klären die Zukunft zusätzlich."
+    ],
+    "exceptions": [
+      "Kontext und Verbklasse können die konkrete Form beeinflussen."
+    ],
+    "important": [
+      "Form, Funktion und Satzkontext gemeinsam prüfen."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Form ohne Kontext wählen",
+        "correct": "Form aus Funktion und Kontext ableiten",
+        "explanation": "Die gleiche Oberfläche kann je nach Satzfunktion anders bewertet werden."
+      }
+    ],
+    "examples": [
+      {
+        "id": "future_and_intention_example_1",
+        "title": "Modellbeispiel",
+        "translation": "Ich werde morgen schreiben.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Beispiel",
+            "arabicVocalized": "سَأَكْتُبُ غَدًا",
+            "arabicUnvocalized": "سأكتب غدًا",
+            "german": "Ich werde morgen schreiben."
+          }
+        ]
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "present_tense"
+    ],
+    "quizPassScore": 75,
+    "quizQuestionCount": 3,
+    "quiz": [
+      {
+        "id": "future_and_intention_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Aussage passt zu „Zukunft und Absicht“?",
+        "options": [
+          "سـ wird direkt mit dem Präsens verbunden.",
+          "سوف steht getrennt vor dem Präsens.",
+          "Zukünftige Handlungen mit سـ / سوف und Absichten im Kontext ausdrücken.",
+          "Keine der Aussagen"
+        ],
+        "correctAnswer": "سـ wird direkt mit dem Präsens verbunden.",
+        "explanation": "سـ wird direkt mit dem Präsens verbunden."
+      },
+      {
+        "id": "future_and_intention_q2",
+        "type": "cloze",
+        "prompt": "Wähle die passende Regel für das Modellbeispiel.",
+        "arabicPrompt": "سَأَكْتُبُ غَدًا",
+        "options": [
+          "سـ wird direkt mit dem Präsens verbunden.",
+          "سوف steht getrennt vor dem Präsens.",
+          "Zeitangaben klären die Zukunft zusätzlich.",
+          "Zukünftige Handlungen mit سـ / سوف und Absichten im Kontext ausdrücken."
+        ],
+        "correctAnswer": "سـ wird direkt mit dem Präsens verbunden.",
+        "explanation": "سـ wird direkt mit dem Präsens verbunden."
+      },
+      {
+        "id": "future_and_intention_q3",
+        "type": "multiple_choice",
+        "prompt": "Was sollte bei der Anwendung zuerst geprüft werden?",
+        "options": [
+          "Satzfunktion und Kontext",
+          "Nur die Wortlänge",
+          "Nur die Übersetzung",
+          "Nur die Schriftfarbe"
+        ],
+        "correctAnswer": "Satzfunktion und Kontext",
+        "explanation": "Grammatische Formen werden über Funktion und Kontext interpretiert."
+      }
+    ],
+    "cefrLevel": "A2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Zukünftige Handlungen mit سـ / سوف und Absichten im Kontext ausdrücken."
+    ],
+    "reviewTags": [
+      "grammar",
+      "a2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "imperative_forms",
+    "title": "Imperativ und Aufforderung",
+    "description": "Häufige regelmäßige Imperativformen und höfliche Aufforderungen bilden.",
+    "level": 3,
+    "order": 916,
+    "category": "Verb",
+    "general": [
+      "Häufige regelmäßige Imperativformen und höfliche Aufforderungen bilden.",
+      "Die Struktur wird zunächst erkannt und danach produktiv angewendet."
+    ],
+    "rules": [
+      "Der Imperativ richtet sich nach Person und Verbform.",
+      "Höfliche Bitten können mit من فضلك abgeschwächt werden.",
+      "Negativer Imperativ verwendet لا mit Jussiv."
+    ],
+    "exceptions": [
+      "Kontext und Verbklasse können die konkrete Form beeinflussen."
+    ],
+    "important": [
+      "Form, Funktion und Satzkontext gemeinsam prüfen."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Form ohne Kontext wählen",
+        "correct": "Form aus Funktion und Kontext ableiten",
+        "explanation": "Die gleiche Oberfläche kann je nach Satzfunktion anders bewertet werden."
+      }
+    ],
+    "examples": [
+      {
+        "id": "imperative_forms_example_1",
+        "title": "Modellbeispiel",
+        "translation": "Schreibe hier.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Beispiel",
+            "arabicVocalized": "اُكْتُبْ هُنَا",
+            "arabicUnvocalized": "اكتب هنا",
+            "german": "Schreibe hier."
+          }
+        ]
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "present_tense"
+    ],
+    "quizPassScore": 75,
+    "quizQuestionCount": 3,
+    "quiz": [
+      {
+        "id": "imperative_forms_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Aussage passt zu „Imperativ und Aufforderung“?",
+        "options": [
+          "Der Imperativ richtet sich nach Person und Verbform.",
+          "Höfliche Bitten können mit من فضلك abgeschwächt werden.",
+          "Häufige regelmäßige Imperativformen und höfliche Aufforderungen bilden.",
+          "Keine der Aussagen"
+        ],
+        "correctAnswer": "Der Imperativ richtet sich nach Person und Verbform.",
+        "explanation": "Der Imperativ richtet sich nach Person und Verbform."
+      },
+      {
+        "id": "imperative_forms_q2",
+        "type": "cloze",
+        "prompt": "Wähle die passende Regel für das Modellbeispiel.",
+        "arabicPrompt": "اُكْتُبْ هُنَا",
+        "options": [
+          "Der Imperativ richtet sich nach Person und Verbform.",
+          "Höfliche Bitten können mit من فضلك abgeschwächt werden.",
+          "Negativer Imperativ verwendet لا mit Jussiv.",
+          "Häufige regelmäßige Imperativformen und höfliche Aufforderungen bilden."
+        ],
+        "correctAnswer": "Der Imperativ richtet sich nach Person und Verbform.",
+        "explanation": "Der Imperativ richtet sich nach Person und Verbform."
+      },
+      {
+        "id": "imperative_forms_q3",
+        "type": "multiple_choice",
+        "prompt": "Was sollte bei der Anwendung zuerst geprüft werden?",
+        "options": [
+          "Satzfunktion und Kontext",
+          "Nur die Wortlänge",
+          "Nur die Übersetzung",
+          "Nur die Schriftfarbe"
+        ],
+        "correctAnswer": "Satzfunktion und Kontext",
+        "explanation": "Grammatische Formen werden über Funktion und Kontext interpretiert."
+      }
+    ],
+    "cefrLevel": "A2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Häufige regelmäßige Imperativformen und höfliche Aufforderungen bilden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "a2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "weak_verbs",
+    "title": "Schwache Verben",
+    "description": "Häufige schwache Verben in Vergangenheit und Gegenwart sicher erkennen.",
+    "level": 3,
+    "order": 910,
+    "category": "Verb",
+    "general": [
+      "Häufige schwache Verben in Vergangenheit und Gegenwart sicher erkennen.",
+      "Die Struktur wird zunächst erkannt und danach produktiv angewendet."
+    ],
+    "rules": [
+      "Schwache Wurzellaute können in der Oberfläche ausfallen oder wechseln.",
+      "Die Grundbedeutung bleibt über die Wurzel erkennbar.",
+      "Paradigmen statt Einzelwortformen lernen."
+    ],
+    "exceptions": [
+      "Kontext und Verbklasse können die konkrete Form beeinflussen."
+    ],
+    "important": [
+      "Form, Funktion und Satzkontext gemeinsam prüfen."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Form ohne Kontext wählen",
+        "correct": "Form aus Funktion und Kontext ableiten",
+        "explanation": "Die gleiche Oberfläche kann je nach Satzfunktion anders bewertet werden."
+      }
+    ],
+    "examples": [
+      {
+        "id": "weak_verbs_example_1",
+        "title": "Modellbeispiel",
+        "translation": "Der Schüler sagte.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Beispiel",
+            "arabicVocalized": "قَالَ الطَّالِبُ",
+            "arabicUnvocalized": "قال الطالب",
+            "german": "Der Schüler sagte."
+          }
+        ]
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "past_tense",
+      "present_tense"
+    ],
+    "quizPassScore": 75,
+    "quizQuestionCount": 3,
+    "quiz": [
+      {
+        "id": "weak_verbs_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Aussage passt zu „Schwache Verben“?",
+        "options": [
+          "Schwache Wurzellaute können in der Oberfläche ausfallen oder wechseln.",
+          "Die Grundbedeutung bleibt über die Wurzel erkennbar.",
+          "Häufige schwache Verben in Vergangenheit und Gegenwart sicher erkennen.",
+          "Keine der Aussagen"
+        ],
+        "correctAnswer": "Schwache Wurzellaute können in der Oberfläche ausfallen oder wechseln.",
+        "explanation": "Schwache Wurzellaute können in der Oberfläche ausfallen oder wechseln."
+      },
+      {
+        "id": "weak_verbs_q2",
+        "type": "cloze",
+        "prompt": "Wähle die passende Regel für das Modellbeispiel.",
+        "arabicPrompt": "قَالَ الطَّالِبُ",
+        "options": [
+          "Schwache Wurzellaute können in der Oberfläche ausfallen oder wechseln.",
+          "Die Grundbedeutung bleibt über die Wurzel erkennbar.",
+          "Paradigmen statt Einzelwortformen lernen.",
+          "Häufige schwache Verben in Vergangenheit und Gegenwart sicher erkennen."
+        ],
+        "correctAnswer": "Schwache Wurzellaute können in der Oberfläche ausfallen oder wechseln.",
+        "explanation": "Schwache Wurzellaute können in der Oberfläche ausfallen oder wechseln."
+      },
+      {
+        "id": "weak_verbs_q3",
+        "type": "multiple_choice",
+        "prompt": "Was sollte bei der Anwendung zuerst geprüft werden?",
+        "options": [
+          "Satzfunktion und Kontext",
+          "Nur die Wortlänge",
+          "Nur die Übersetzung",
+          "Nur die Schriftfarbe"
+        ],
+        "correctAnswer": "Satzfunktion und Kontext",
+        "explanation": "Grammatische Formen werden über Funktion und Kontext interpretiert."
+      }
+    ],
+    "cefrLevel": "A2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Häufige schwache Verben in Vergangenheit und Gegenwart sicher erkennen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "a2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "reported_speech",
+    "title": "Indirekte Rede",
+    "description": "Aussagen anderer Personen mit passenden Einleitungsstrukturen wiedergeben.",
+    "level": 4,
+    "order": 915,
+    "category": "Syntax",
+    "general": [
+      "Aussagen anderer Personen mit passenden Einleitungsstrukturen wiedergeben.",
+      "Die Struktur wird zunächst erkannt und danach produktiv angewendet."
+    ],
+    "rules": [
+      "Einleitungsverben markieren die Quelle einer Aussage.",
+      "Pronomen und Zeitbezug können angepasst werden.",
+      "إنّ kann nach Verben des Sagens eine eingebettete Aussage einleiten."
+    ],
+    "exceptions": [
+      "Kontext und Verbklasse können die konkrete Form beeinflussen."
+    ],
+    "important": [
+      "Form, Funktion und Satzkontext gemeinsam prüfen."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Form ohne Kontext wählen",
+        "correct": "Form aus Funktion und Kontext ableiten",
+        "explanation": "Die gleiche Oberfläche kann je nach Satzfunktion anders bewertet werden."
+      }
+    ],
+    "examples": [
+      {
+        "id": "reported_speech_example_1",
+        "title": "Modellbeispiel",
+        "translation": "Er sagte, dass er bereit sei.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Beispiel",
+            "arabicVocalized": "قَالَ إِنَّهُ مُسْتَعِدٌّ",
+            "arabicUnvocalized": "قال إنه مستعدٌ",
+            "german": "Er sagte, dass er bereit sei."
+          }
+        ]
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "relative_clauses"
+    ],
+    "quizPassScore": 75,
+    "quizQuestionCount": 3,
+    "quiz": [
+      {
+        "id": "reported_speech_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Aussage passt zu „Indirekte Rede“?",
+        "options": [
+          "Einleitungsverben markieren die Quelle einer Aussage.",
+          "Pronomen und Zeitbezug können angepasst werden.",
+          "Aussagen anderer Personen mit passenden Einleitungsstrukturen wiedergeben.",
+          "Keine der Aussagen"
+        ],
+        "correctAnswer": "Einleitungsverben markieren die Quelle einer Aussage.",
+        "explanation": "Einleitungsverben markieren die Quelle einer Aussage."
+      },
+      {
+        "id": "reported_speech_q2",
+        "type": "cloze",
+        "prompt": "Wähle die passende Regel für das Modellbeispiel.",
+        "arabicPrompt": "قَالَ إِنَّهُ مُسْتَعِدٌّ",
+        "options": [
+          "Einleitungsverben markieren die Quelle einer Aussage.",
+          "Pronomen und Zeitbezug können angepasst werden.",
+          "إنّ kann nach Verben des Sagens eine eingebettete Aussage einleiten.",
+          "Aussagen anderer Personen mit passenden Einleitungsstrukturen wiedergeben."
+        ],
+        "correctAnswer": "Einleitungsverben markieren die Quelle einer Aussage.",
+        "explanation": "Einleitungsverben markieren die Quelle einer Aussage."
+      },
+      {
+        "id": "reported_speech_q3",
+        "type": "multiple_choice",
+        "prompt": "Was sollte bei der Anwendung zuerst geprüft werden?",
+        "options": [
+          "Satzfunktion und Kontext",
+          "Nur die Wortlänge",
+          "Nur die Übersetzung",
+          "Nur die Schriftfarbe"
+        ],
+        "correctAnswer": "Satzfunktion und Kontext",
+        "explanation": "Grammatische Formen werden über Funktion und Kontext interpretiert."
+      }
+    ],
+    "cefrLevel": "B1",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Aussagen anderer Personen mit passenden Einleitungsstrukturen wiedergeben."
+    ],
+    "reviewTags": [
+      "grammar",
+      "b1",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "active_passive_participles",
+    "title": "Aktiv- und Passivpartizip",
+    "description": "Partizipien als Adjektive, Zustandsbeschreibungen und nominale Formen verwenden.",
+    "level": 5,
+    "order": 926,
+    "category": "Morphologie",
+    "general": [
+      "Partizipien als Adjektive, Zustandsbeschreibungen und nominale Formen verwenden.",
+      "Die Struktur wird zunächst erkannt und danach produktiv angewendet."
+    ],
+    "rules": [
+      "Aktivpartizipien benennen oft Handelnde oder Zustände.",
+      "Passivpartizipien benennen häufig Betroffene oder Ergebnisse.",
+      "Die genaue Form hängt vom Verbstamm ab."
+    ],
+    "exceptions": [
+      "Kontext und Verbklasse können die konkrete Form beeinflussen."
+    ],
+    "important": [
+      "Form, Funktion und Satzkontext gemeinsam prüfen."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Form ohne Kontext wählen",
+        "correct": "Form aus Funktion und Kontext ableiten",
+        "explanation": "Die gleiche Oberfläche kann je nach Satzfunktion anders bewertet werden."
+      }
+    ],
+    "examples": [
+      {
+        "id": "active_passive_participles_example_1",
+        "title": "Modellbeispiel",
+        "translation": "Dieses Buch ist klar geschrieben.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Beispiel",
+            "arabicVocalized": "هٰذَا كِتَابٌ مَكْتُوبٌ بِوُضُوحٍ",
+            "arabicUnvocalized": "هٰذا كتابٌ مكتوبٌ بوضوحٍ",
+            "german": "Dieses Buch ist klar geschrieben."
+          }
+        ]
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "derived_verb_forms"
+    ],
+    "quizPassScore": 75,
+    "quizQuestionCount": 3,
+    "quiz": [
+      {
+        "id": "active_passive_participles_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Aussage passt zu „Aktiv- und Passivpartizip“?",
+        "options": [
+          "Aktivpartizipien benennen oft Handelnde oder Zustände.",
+          "Passivpartizipien benennen häufig Betroffene oder Ergebnisse.",
+          "Partizipien als Adjektive, Zustandsbeschreibungen und nominale Formen verwenden.",
+          "Keine der Aussagen"
+        ],
+        "correctAnswer": "Aktivpartizipien benennen oft Handelnde oder Zustände.",
+        "explanation": "Aktivpartizipien benennen oft Handelnde oder Zustände."
+      },
+      {
+        "id": "active_passive_participles_q2",
+        "type": "cloze",
+        "prompt": "Wähle die passende Regel für das Modellbeispiel.",
+        "arabicPrompt": "هٰذَا كِتَابٌ مَكْتُوبٌ بِوُضُوحٍ",
+        "options": [
+          "Aktivpartizipien benennen oft Handelnde oder Zustände.",
+          "Passivpartizipien benennen häufig Betroffene oder Ergebnisse.",
+          "Die genaue Form hängt vom Verbstamm ab.",
+          "Partizipien als Adjektive, Zustandsbeschreibungen und nominale Formen verwenden."
+        ],
+        "correctAnswer": "Aktivpartizipien benennen oft Handelnde oder Zustände.",
+        "explanation": "Aktivpartizipien benennen oft Handelnde oder Zustände."
+      },
+      {
+        "id": "active_passive_participles_q3",
+        "type": "multiple_choice",
+        "prompt": "Was sollte bei der Anwendung zuerst geprüft werden?",
+        "options": [
+          "Satzfunktion und Kontext",
+          "Nur die Wortlänge",
+          "Nur die Übersetzung",
+          "Nur die Schriftfarbe"
+        ],
+        "correctAnswer": "Satzfunktion und Kontext",
+        "explanation": "Grammatische Formen werden über Funktion und Kontext interpretiert."
+      }
+    ],
+    "cefrLevel": "B2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Partizipien als Adjektive, Zustandsbeschreibungen und nominale Formen verwenden."
+    ],
+    "reviewTags": [
+      "grammar",
+      "b2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "clause_irab",
+    "title": "Iʿrāb in komplexen Sätzen",
+    "description": "Kasus- und Modusrollen in eingebetteten Satzstrukturen systematisch analysieren.",
+    "level": 6,
+    "order": 911,
+    "category": "Iʿrāb",
+    "general": [
+      "Kasus- und Modusrollen in eingebetteten Satzstrukturen systematisch analysieren.",
+      "Die Struktur wird zunächst erkannt und danach produktiv angewendet."
+    ],
+    "rules": [
+      "Regierende Elemente bestimmen die Endung nachfolgender Wörter.",
+      "Satzgrenzen und Einbettung zuerst markieren.",
+      "Iʿrāb wird aus Syntax und Funktion begründet."
+    ],
+    "exceptions": [
+      "Kontext und Verbklasse können die konkrete Form beeinflussen."
+    ],
+    "important": [
+      "Form, Funktion und Satzkontext gemeinsam prüfen."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Form ohne Kontext wählen",
+        "correct": "Form aus Funktion und Kontext ableiten",
+        "explanation": "Die gleiche Oberfläche kann je nach Satzfunktion anders bewertet werden."
+      }
+    ],
+    "examples": [
+      {
+        "id": "clause_irab_example_1",
+        "title": "Modellbeispiel",
+        "translation": "Der Forscher stellt die Ergebnisse dar.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Beispiel",
+            "arabicVocalized": "إِنَّ الْبَاحِثَ يَعْرِضُ النَّتَائِجَ",
+            "arabicUnvocalized": "إن الباحث يعرض النتائج",
+            "german": "Der Forscher stellt die Ergebnisse dar."
+          }
+        ]
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "case_endings",
+      "textual_cohesion"
+    ],
+    "quizPassScore": 75,
+    "quizQuestionCount": 3,
+    "quiz": [
+      {
+        "id": "clause_irab_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Aussage passt zu „Iʿrāb in komplexen Sätzen“?",
+        "options": [
+          "Regierende Elemente bestimmen die Endung nachfolgender Wörter.",
+          "Satzgrenzen und Einbettung zuerst markieren.",
+          "Kasus- und Modusrollen in eingebetteten Satzstrukturen systematisch analysieren.",
+          "Keine der Aussagen"
+        ],
+        "correctAnswer": "Regierende Elemente bestimmen die Endung nachfolgender Wörter.",
+        "explanation": "Regierende Elemente bestimmen die Endung nachfolgender Wörter."
+      },
+      {
+        "id": "clause_irab_q2",
+        "type": "cloze",
+        "prompt": "Wähle die passende Regel für das Modellbeispiel.",
+        "arabicPrompt": "إِنَّ الْبَاحِثَ يَعْرِضُ النَّتَائِجَ",
+        "options": [
+          "Regierende Elemente bestimmen die Endung nachfolgender Wörter.",
+          "Satzgrenzen und Einbettung zuerst markieren.",
+          "Iʿrāb wird aus Syntax und Funktion begründet.",
+          "Kasus- und Modusrollen in eingebetteten Satzstrukturen systematisch analysieren."
+        ],
+        "correctAnswer": "Regierende Elemente bestimmen die Endung nachfolgender Wörter.",
+        "explanation": "Regierende Elemente bestimmen die Endung nachfolgender Wörter."
+      },
+      {
+        "id": "clause_irab_q3",
+        "type": "multiple_choice",
+        "prompt": "Was sollte bei der Anwendung zuerst geprüft werden?",
+        "options": [
+          "Satzfunktion und Kontext",
+          "Nur die Wortlänge",
+          "Nur die Übersetzung",
+          "Nur die Schriftfarbe"
+        ],
+        "correctAnswer": "Satzfunktion und Kontext",
+        "explanation": "Grammatische Formen werden über Funktion und Kontext interpretiert."
+      }
+    ],
+    "cefrLevel": "C1",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Kasus- und Modusrollen in eingebetteten Satzstrukturen systematisch analysieren."
+    ],
+    "reviewTags": [
+      "grammar",
+      "c1",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "rhetorical_parallelism",
+    "title": "Parallelismus und rhetorische Struktur",
+    "description": "Parallel gebaute Strukturen als Stilmittel erkennen und kontrolliert einsetzen.",
+    "level": 7,
+    "order": 922,
+    "category": "Stil",
+    "general": [
+      "Parallel gebaute Strukturen als Stilmittel erkennen und kontrolliert einsetzen.",
+      "Die Struktur wird zunächst erkannt und danach produktiv angewendet."
+    ],
+    "rules": [
+      "Parallelismus verbindet ähnliche syntaktische Muster.",
+      "Kontrast kann durch symmetrische Struktur verstärkt werden.",
+      "Wirkung und Register sind gemeinsam zu beurteilen."
+    ],
+    "exceptions": [
+      "Kontext und Verbklasse können die konkrete Form beeinflussen."
+    ],
+    "important": [
+      "Form, Funktion und Satzkontext gemeinsam prüfen."
+    ],
+    "commonMistakes": [
+      {
+        "wrong": "Form ohne Kontext wählen",
+        "correct": "Form aus Funktion und Kontext ableiten",
+        "explanation": "Die gleiche Oberfläche kann je nach Satzfunktion anders bewertet werden."
+      }
+    ],
+    "examples": [
+      {
+        "id": "rhetorical_parallelism_example_1",
+        "title": "Modellbeispiel",
+        "translation": "Wir lesen, um zu verstehen, und schreiben, um zu denken.",
+        "blocks": [
+          {
+            "type": "noun",
+            "label": "Beispiel",
+            "arabicVocalized": "نَقْرَأُ لِنَفْهَمَ وَنَكْتُبُ لِنُفَكِّرَ",
+            "arabicUnvocalized": "نقرأ لنفهم ونكتب لنفكر",
+            "german": "Wir lesen, um zu verstehen, und schreiben, um zu denken."
+          }
+        ]
+      }
+    ],
+    "prerequisiteLessonIds": [
+      "stylistic_register",
+      "ellipsis_emphasis"
+    ],
+    "quizPassScore": 75,
+    "quizQuestionCount": 3,
+    "quiz": [
+      {
+        "id": "rhetorical_parallelism_q1",
+        "type": "multiple_choice",
+        "prompt": "Welche Aussage passt zu „Parallelismus und rhetorische Struktur“?",
+        "options": [
+          "Parallelismus verbindet ähnliche syntaktische Muster.",
+          "Kontrast kann durch symmetrische Struktur verstärkt werden.",
+          "Parallel gebaute Strukturen als Stilmittel erkennen und kontrolliert einsetzen.",
+          "Keine der Aussagen"
+        ],
+        "correctAnswer": "Parallelismus verbindet ähnliche syntaktische Muster.",
+        "explanation": "Parallelismus verbindet ähnliche syntaktische Muster."
+      },
+      {
+        "id": "rhetorical_parallelism_q2",
+        "type": "cloze",
+        "prompt": "Wähle die passende Regel für das Modellbeispiel.",
+        "arabicPrompt": "نَقْرَأُ لِنَفْهَمَ وَنَكْتُبُ لِنُفَكِّرَ",
+        "options": [
+          "Parallelismus verbindet ähnliche syntaktische Muster.",
+          "Kontrast kann durch symmetrische Struktur verstärkt werden.",
+          "Wirkung und Register sind gemeinsam zu beurteilen.",
+          "Parallel gebaute Strukturen als Stilmittel erkennen und kontrolliert einsetzen."
+        ],
+        "correctAnswer": "Parallelismus verbindet ähnliche syntaktische Muster.",
+        "explanation": "Parallelismus verbindet ähnliche syntaktische Muster."
+      },
+      {
+        "id": "rhetorical_parallelism_q3",
+        "type": "multiple_choice",
+        "prompt": "Was sollte bei der Anwendung zuerst geprüft werden?",
+        "options": [
+          "Satzfunktion und Kontext",
+          "Nur die Wortlänge",
+          "Nur die Übersetzung",
+          "Nur die Schriftfarbe"
+        ],
+        "correctAnswer": "Satzfunktion und Kontext",
+        "explanation": "Grammatische Formen werden über Funktion und Kontext interpretiert."
+      }
+    ],
+    "cefrLevel": "C2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Parallel gebaute Strukturen als Stilmittel erkennen und kontrolliert einsetzen."
+    ],
+    "reviewTags": [
+      "grammar",
+      "c2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  }
+]

@@ -1,0 +1,1491 @@
+[
+  {
+    "id": "harakat_foundations",
+    "title": "Harakat verstehen",
+    "description": "Verstehe, welche Informationen Kurzvokale liefern und warum sie in Alltagstexten oft fehlen.",
+    "level": 1,
+    "order": 1,
+    "phase": "Grundlagen",
+    "strategy": "Lies zuerst die Konsonanten und langen Vokale. Harakat dienen danach als Kontrolle, nicht als erste Orientierung.",
+    "methodSteps": [
+      "Grundbuchstaben von Zusatzzeichen trennen.",
+      "Mögliche Wortklasse bestimmen.",
+      "Vokalisierte Lösung erst zum Schluss vergleichen."
+    ],
+    "recognitionTips": [
+      "Fatḥa, Kasra und Ḍamma markieren kurze Vokale.",
+      "Ohne Kontext kann mehr als eine Lesart möglich sein.",
+      "Die Grundschreibung bleibt auch ohne Harakat stabil."
+    ],
+    "patterns": [
+      {
+        "id": "short_a",
+        "title": "Kurzes a",
+        "template": "فَعَلَ",
+        "explanation": "Fatḥa steht häufig für ein kurzes a.",
+        "vocalized": "كَتَبَ",
+        "unvocalized": "كتب",
+        "german": "er schrieb"
+      },
+      {
+        "id": "short_i",
+        "title": "Kurzes i",
+        "template": "فِعَال",
+        "explanation": "Kasra markiert ein kurzes i.",
+        "vocalized": "كِتَابٌ",
+        "unvocalized": "كتاب",
+        "german": "Buch"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_harakat_book",
+        "vocalized": "كِتَابٌ",
+        "unvocalized": "كتاب",
+        "transliteration": "kitābun",
+        "german": "Buch",
+        "clue": "Die Konsonanten ك-ت-ب und das lange Alif bleiben sichtbar."
+      },
+      {
+        "id": "read_harakat_wrote",
+        "vocalized": "كَتَبَ",
+        "unvocalized": "كتب",
+        "transliteration": "kataba",
+        "german": "er schrieb",
+        "clue": "Ohne Harakat hilft später der Satzkontext bei der Unterscheidung."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Verstehe, welche Informationen Kurzvokale liefern und warum sie in Alltagstexten oft fehlen.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "grundlagen",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "long_vowel_anchors",
+    "title": "Lange Vokale als Anker",
+    "description": "Nutze ا، و und ي als sichtbare Hinweise auf lange Vokale.",
+    "level": 1,
+    "order": 2,
+    "phase": "Grundlagen",
+    "strategy": "Lange Vokale bleiben im normalen Schriftbild meist sichtbar und geben der Wortform ein stabiles Gerüst.",
+    "methodSteps": [
+      "Alif, Wāw und Yāʾ im Wort markieren.",
+      "Prüfen, ob sie als langer Vokal oder Konsonant dienen.",
+      "Bekannte Wortmuster vergleichen."
+    ],
+    "recognitionTips": [
+      "ا weist häufig auf ā hin.",
+      "و kann ū oder w darstellen.",
+      "ي kann ī oder y darstellen."
+    ],
+    "patterns": [
+      {
+        "id": "long_a",
+        "title": "Langes ā",
+        "template": "ـَا",
+        "explanation": "Alif verlängert häufig den vorherigen a-Laut.",
+        "vocalized": "بَابٌ",
+        "unvocalized": "باب",
+        "german": "Tür"
+      },
+      {
+        "id": "long_i",
+        "title": "Langes ī",
+        "template": "ـِي",
+        "explanation": "Yāʾ kann einen langen ī-Laut anzeigen.",
+        "vocalized": "كَبِيرٌ",
+        "unvocalized": "كبير",
+        "german": "groß"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_long_door",
+        "vocalized": "بَابٌ",
+        "unvocalized": "باب",
+        "transliteration": "bābun",
+        "german": "Tür",
+        "clue": "Das Alif in der Mitte ist ein starker Leseanker."
+      },
+      {
+        "id": "read_long_big",
+        "vocalized": "كَبِيرٌ",
+        "unvocalized": "كبير",
+        "transliteration": "kabīrun",
+        "german": "groß",
+        "clue": "Yāʾ zeigt hier den langen ī-Laut."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nutze ا، و und ي als sichtbare Hinweise auf lange Vokale.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "grundlagen",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "recognize_word_shape",
+    "title": "Wortbilder erkennen",
+    "description": "Lerne häufige Wörter an Form, Länge und markanten Buchstaben zu erkennen.",
+    "level": 1,
+    "order": 3,
+    "phase": "Wortbild",
+    "strategy": "Nicht jeden fehlenden Vokal erraten: zuerst Grundbuchstaben und Gesamtform erfassen.",
+    "methodSteps": [
+      "Grundbuchstaben zählen.",
+      "Punkte und nicht verbindende Buchstaben suchen.",
+      "Mit bekannten Wörtern vergleichen."
+    ],
+    "recognitionTips": [
+      "Punktmuster unterscheiden ähnliche Grundformen.",
+      "Nicht verbindende Buchstaben teilen das Wortbild sichtbar.",
+      "Häufige Wörter werden mit Übung als Ganzes erkannt."
+    ],
+    "patterns": [
+      {
+        "id": "shape_kitab",
+        "title": "Markantes Wortbild",
+        "template": "ك-ت-ا-ب",
+        "explanation": "Kāf, Tāʾ, Alif und Bāʾ bilden ein gut wiedererkennbares Muster.",
+        "vocalized": "كِتَابٌ",
+        "unvocalized": "كتاب",
+        "german": "Buch"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_book",
+        "vocalized": "كِتَابٌ",
+        "unvocalized": "كتاب",
+        "transliteration": "kitābun",
+        "german": "Buch",
+        "clue": "Kāf am Anfang, langes Alif, Bāʾ am Ende."
+      },
+      {
+        "id": "read_door",
+        "vocalized": "بَابٌ",
+        "unvocalized": "باب",
+        "transliteration": "bābun",
+        "german": "Tür",
+        "clue": "Symmetrisches Wortbild mit Alif in der Mitte."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Lerne häufige Wörter an Form, Länge und markanten Buchstaben zu erkennen.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "wortbild",
+      "fusha",
+      "a0"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0"
+  },
+  {
+    "id": "sukun_shadda",
+    "title": "Sukūn und Schadda erschließen",
+    "description": "Erkenne Konsonantenhäufungen und Verdopplungen auch dann, wenn die Zeichen fehlen.",
+    "level": 2,
+    "order": 4,
+    "phase": "Wortbild",
+    "strategy": "Prüfe bekannte Wortmuster: Eine Schadda verdoppelt einen Konsonanten, Sukūn schließt eine Silbe.",
+    "methodSteps": [
+      "Wortwurzel bestimmen.",
+      "Mögliche Verdopplung im Muster prüfen.",
+      "Vokalisierte Lösung mit dem Wortbild vergleichen."
+    ],
+    "recognitionTips": [
+      "Schadda wird in unvokalisierten Texten oft nicht geschrieben.",
+      "Sukūn kann durch bekannte Silbenstruktur erschlossen werden.",
+      "Bedeutung und Grammatik begrenzen die Möglichkeiten."
+    ],
+    "patterns": [
+      {
+        "id": "shadda_pattern",
+        "title": "Verdoppelung",
+        "template": "فَعَّلَ",
+        "explanation": "Der mittlere Wurzelkonsonant ist verdoppelt.",
+        "vocalized": "دَرَّسَ",
+        "unvocalized": "درس",
+        "german": "er unterrichtete"
+      },
+      {
+        "id": "sukun_pattern",
+        "title": "Geschlossene Silbe",
+        "template": "فَعْل",
+        "explanation": "Sukūn schließt die Silbe nach dem ersten Vokal.",
+        "vocalized": "دَرْسٌ",
+        "unvocalized": "درس",
+        "german": "Lektion"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_lesson",
+        "vocalized": "دَرْسٌ",
+        "unvocalized": "درس",
+        "transliteration": "darsun",
+        "german": "Lektion",
+        "clue": "Die Nomenlesung passt zum Kontext „eine Lektion“."
+      },
+      {
+        "id": "read_taught",
+        "vocalized": "دَرَّسَ",
+        "unvocalized": "درس",
+        "transliteration": "darrasa",
+        "german": "er unterrichtete",
+        "clue": "Verbkontext und Muster machen die Schadda-Lesung plausibel."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Erkenne Konsonantenhäufungen und Verdopplungen auch dann, wenn die Zeichen fehlen.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "vokalmuster",
+      "fusha",
+      "a1"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "article_clues",
+    "title": "Artikel und Sonnenbuchstaben",
+    "description": "Erkenne bestimmte Nomen und die Assimilation des Artikels.",
+    "level": 2,
+    "order": 5,
+    "phase": "Wortbau",
+    "strategy": "ال bleibt im Schriftbild erhalten, auch wenn das Lām in der Aussprache bei Sonnenbuchstaben angeglichen wird.",
+    "methodSteps": [
+      "ال am Wortanfang markieren.",
+      "Ersten Buchstaben des Wortstamms prüfen.",
+      "Bei Sonnenbuchstaben eine mögliche Verdopplung erwarten."
+    ],
+    "recognitionTips": [
+      "Der Artikel ist ein starker Wortart-Hinweis.",
+      "Schriftbild und Aussprache können abweichen.",
+      "Der Wortstamm beginnt direkt nach ال."
+    ],
+    "patterns": [
+      {
+        "id": "article_moon",
+        "title": "Mondbuchstabe",
+        "template": "اَلْ + ق",
+        "explanation": "Das Lām wird hörbar gesprochen.",
+        "vocalized": "اَلْقَلَمُ",
+        "unvocalized": "القلم",
+        "german": "der Stift"
+      },
+      {
+        "id": "article_sun",
+        "title": "Sonnenbuchstabe",
+        "template": "اَلْ + ش",
+        "explanation": "Das Lām wird an den Sonnenbuchstaben angeglichen.",
+        "vocalized": "اَلشَّمْسُ",
+        "unvocalized": "الشمس",
+        "german": "die Sonne"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_the_book",
+        "vocalized": "اَلْكِتَابُ",
+        "unvocalized": "الكتاب",
+        "transliteration": "al-kitābu",
+        "german": "das Buch",
+        "clue": "ال markiert ein bestimmtes Nomen."
+      },
+      {
+        "id": "read_sun",
+        "vocalized": "اَلشَّمْسُ",
+        "unvocalized": "الشمس",
+        "transliteration": "ash-shamsu",
+        "german": "die Sonne",
+        "clue": "Das Schriftbild behält ال; die Aussprache assimiliert."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Erkenne bestimmte Nomen und die Assimilation des Artikels.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "wortbau",
+      "fusha",
+      "a1"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "common_endings",
+    "title": "Endungen und Wortklassen",
+    "description": "Nutze ة، ات، ون und ähnliche Endungen als Hinweise.",
+    "level": 2,
+    "order": 6,
+    "phase": "Wortbau",
+    "strategy": "Endungen zeigen oft Geschlecht oder Zahl und helfen, die grammatische Rolle einzugrenzen.",
+    "methodSteps": [
+      "Wortende markieren.",
+      "Mögliche Geschlechts- oder Zahlform bestimmen.",
+      "Mit Artikel und Satzposition abgleichen."
+    ],
+    "recognitionTips": [
+      "ة weist häufig auf eine feminine Singularform hin.",
+      "ات ist häufig ein femininer Plural.",
+      "ون kann bei Personen einen maskulinen Plural markieren."
+    ],
+    "patterns": [
+      {
+        "id": "feminine_ta",
+        "title": "Feminine Endung",
+        "template": "ـة",
+        "explanation": "Tāʾ marbūṭa ist ein häufiges feminines Signal.",
+        "vocalized": "مَدْرَسَةٌ",
+        "unvocalized": "مدرسة",
+        "german": "Schule"
+      },
+      {
+        "id": "fem_plural",
+        "title": "Femininer Plural",
+        "template": "ـات",
+        "explanation": "Die Endung ات ist ein häufiges Pluralmuster.",
+        "vocalized": "طَالِبَاتٌ",
+        "unvocalized": "طالبات",
+        "german": "Schülerinnen"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_school",
+        "vocalized": "مَدْرَسَةٌ",
+        "unvocalized": "مدرسة",
+        "transliteration": "madrasatun",
+        "german": "Schule",
+        "clue": "Die Endung ة grenzt die Wortklasse ein."
+      },
+      {
+        "id": "read_students_f",
+        "vocalized": "طَالِبَاتٌ",
+        "unvocalized": "طالبات",
+        "transliteration": "ṭālibātun",
+        "german": "Schülerinnen",
+        "clue": "ات ist ein deutlicher Pluralanker."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nutze ة، ات، ون und ähnliche Endungen als Hinweise.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "wortbau",
+      "fusha",
+      "a1"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "root_patterns",
+    "title": "Wortwurzeln und Muster",
+    "description": "Erkenne verwandte Wörter über gemeinsame Grundkonsonanten.",
+    "level": 2,
+    "order": 7,
+    "phase": "Wortbau",
+    "strategy": "Wurzelkonsonanten tragen den Bedeutungsbereich; das Muster liefert Wortart und grammatische Form.",
+    "methodSteps": [
+      "Mögliche Präfixe und Suffixe abtrennen.",
+      "Drei wiederkehrende Konsonanten suchen.",
+      "Muster und Kontext gemeinsam prüfen."
+    ],
+    "recognitionTips": [
+      "ك-ت-ب verbindet Wörter rund um Schreiben und Bücher.",
+      "Das gleiche Schriftbild kann je nach Muster anders gelesen werden.",
+      "Wortfamilien reduzieren die Zahl möglicher Lesarten."
+    ],
+    "patterns": [
+      {
+        "id": "root_ktb_noun",
+        "title": "Nomenmuster",
+        "template": "فِعَال",
+        "explanation": "Das Muster kann ein Nomen bilden.",
+        "vocalized": "كِتَابٌ",
+        "unvocalized": "كتاب",
+        "german": "Buch"
+      },
+      {
+        "id": "root_ktb_verb",
+        "title": "Verb im Perfekt",
+        "template": "فَعَلَ",
+        "explanation": "Das Muster kann eine abgeschlossene Handlung ausdrücken.",
+        "vocalized": "كَتَبَ",
+        "unvocalized": "كتب",
+        "german": "er schrieb"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_writer",
+        "vocalized": "كَاتِبٌ",
+        "unvocalized": "كاتب",
+        "transliteration": "kātibun",
+        "german": "Schreiber",
+        "clue": "Die Wurzel ك-ت-ب und das Muster فاعل deuten auf eine handelnde Person."
+      },
+      {
+        "id": "read_library",
+        "vocalized": "مَكْتَبَةٌ",
+        "unvocalized": "مكتبة",
+        "transliteration": "maktabatun",
+        "german": "Bibliothek",
+        "clue": "Die gleiche Wurzel erscheint in einem Orts-/Nomenmuster."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Erkenne verwandte Wörter über gemeinsame Grundkonsonanten.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "wortbau",
+      "fusha",
+      "a1"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A1"
+  },
+  {
+    "id": "verb_prefixes",
+    "title": "Verbpräfixe erkennen",
+    "description": "Nutze أ، ت، ي und ن am Wortanfang als Hinweise auf Präsensformen.",
+    "level": 3,
+    "order": 8,
+    "phase": "Muster",
+    "strategy": "Präsenspräfixe grenzen Person und Numerus ein; die genaue Lesung wird mit Subjekt und Kontext geprüft.",
+    "methodSteps": [
+      "Anfangsbuchstaben als mögliches Präfix markieren.",
+      "Subjekt oder Pronomen im Satz suchen.",
+      "Wurzel und Verbmuster vergleichen."
+    ],
+    "recognitionTips": [
+      "أ- steht häufig für „ich“.",
+      "ي- steht häufig für „er“.",
+      "ت- kann „du“ oder „sie“ anzeigen; Kontext ist nötig."
+    ],
+    "patterns": [
+      {
+        "id": "present_i",
+        "title": "1. Person Präsens",
+        "template": "أَفْعَلُ",
+        "explanation": "أ- weist häufig auf die 1. Person Singular hin.",
+        "vocalized": "أَكْتُبُ",
+        "unvocalized": "أكتب",
+        "german": "ich schreibe"
+      },
+      {
+        "id": "present_he",
+        "title": "3. Person Präsens",
+        "template": "يَفْعَلُ",
+        "explanation": "ي- weist häufig auf die 3. Person maskulin hin.",
+        "vocalized": "يَكْتُبُ",
+        "unvocalized": "يكتب",
+        "german": "er schreibt"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_i_write",
+        "vocalized": "أَكْتُبُ",
+        "unvocalized": "أكتب",
+        "transliteration": "aktubu",
+        "german": "ich schreibe",
+        "clue": "Das Präfix أ und der Kontext mit أنا stützen die Lesung."
+      },
+      {
+        "id": "read_he_reads",
+        "vocalized": "يَقْرَأُ",
+        "unvocalized": "يقرأ",
+        "transliteration": "yaqraʾu",
+        "german": "er liest",
+        "clue": "Das Präfix ي ist ein Hinweis auf „er“."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nutze أ، ت، ي und ن am Wortanfang als Hinweise auf Präsensformen.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "vokalmuster",
+      "fusha",
+      "a2"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A2"
+  },
+  {
+    "id": "nominal_patterns",
+    "title": "Nominal- und Adjektivmuster",
+    "description": "Erkenne Nomen, Adjektive und einfache Nominalsätze über Kongruenz und Position.",
+    "level": 3,
+    "order": 9,
+    "phase": "Muster",
+    "strategy": "Artikel, Endungen und Wortfolge helfen, fehlende Kurzvokale zu erschließen.",
+    "methodSteps": [
+      "Bestimmtheit beider Wörter prüfen.",
+      "Geschlecht und Zahl vergleichen.",
+      "Zwischen Nominalgruppe und Nominalsatz unterscheiden."
+    ],
+    "recognitionTips": [
+      "Bestimmtes Nomen + bestimmtes Adjektiv bildet oft eine Wortgruppe.",
+      "Bestimmtes Nomen + unbestimmtes Adjektiv kann einen Nominalsatz bilden.",
+      "Die deutsche Übersetzung hängt von der Struktur ab."
+    ],
+    "patterns": [
+      {
+        "id": "noun_adj_phrase",
+        "title": "Nominalgruppe",
+        "template": "الاسم + الصفة",
+        "explanation": "Beide Teile sind bestimmt.",
+        "vocalized": "اَلْبَيْتُ اَلْكَبِيرُ",
+        "unvocalized": "البيت الكبير",
+        "german": "das große Haus"
+      },
+      {
+        "id": "nominal_sentence_pattern",
+        "title": "Nominalsatz",
+        "template": "الاسم + صفة",
+        "explanation": "Das Prädikat ist hier unbestimmt.",
+        "vocalized": "اَلْبَيْتُ كَبِيرٌ",
+        "unvocalized": "البيت كبير",
+        "german": "Das Haus ist groß."
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_big_house_phrase",
+        "vocalized": "اَلْبَيْتُ اَلْكَبِيرُ",
+        "unvocalized": "البيت الكبير",
+        "transliteration": "al-baitu l-kabīru",
+        "german": "das große Haus",
+        "clue": "Beide Wörter tragen den Artikel im Schriftbild."
+      },
+      {
+        "id": "read_house_is_big",
+        "vocalized": "اَلْبَيْتُ كَبِيرٌ",
+        "unvocalized": "البيت كبير",
+        "transliteration": "al-baitu kabīrun",
+        "german": "Das Haus ist groß.",
+        "clue": "Nur das Subjekt ist bestimmt; das Adjektiv fungiert als Prädikat."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Erkenne Nomen, Adjektive und einfache Nominalsätze über Kongruenz und Position.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "satzbau",
+      "fusha",
+      "a2"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A2"
+  },
+  {
+    "id": "use_context",
+    "title": "Kontext systematisch nutzen",
+    "description": "Nutze Thema, Satzposition und Nachbarwörter, um mögliche Lesarten zu bewerten.",
+    "level": 3,
+    "order": 10,
+    "phase": "Kontext",
+    "strategy": "Eine plausible Lesart muss gleichzeitig zum Wortbild, zur Grammatik und zur Bedeutung des Satzes passen.",
+    "methodSteps": [
+      "Bekannte Funktionswörter zuerst lesen.",
+      "Erwartete Wortklasse bestimmen.",
+      "Mehrere Hypothesen bilden und gegeneinander prüfen."
+    ],
+    "recognitionTips": [
+      "Präpositionen erwarten häufig ein Nomen.",
+      "Pronomen können einen Nominalsatz eröffnen.",
+      "Das Thema des Textes hilft bei mehrdeutigen Wortbildern."
+    ],
+    "patterns": [
+      {
+        "id": "prep_noun",
+        "title": "Präposition + Nomen",
+        "template": "حرف جر + اسم",
+        "explanation": "Die Präposition grenzt die folgende Wortart ein.",
+        "vocalized": "فِي اَلْبَيْتِ",
+        "unvocalized": "في البيت",
+        "german": "im Haus"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_in_house",
+        "vocalized": "فِي اَلْبَيْتِ",
+        "unvocalized": "في البيت",
+        "transliteration": "fī l-baiti",
+        "german": "im Haus",
+        "clue": "في signalisiert eine Ortsangabe."
+      },
+      {
+        "id": "read_at_school",
+        "vocalized": "فِي اَلْمَدْرَسَةِ",
+        "unvocalized": "في المدرسة",
+        "transliteration": "fī l-madrasati",
+        "german": "in der Schule",
+        "clue": "Präposition und Artikel strukturieren die Wortgruppe."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nutze Thema, Satzposition und Nachbarwörter, um mögliche Lesarten zu bewerten.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "kontext",
+      "fusha",
+      "a2"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "A2"
+  },
+  {
+    "id": "sentence_prediction",
+    "title": "Satzmuster vorhersagen",
+    "description": "Nutze Grammatik, um den nächsten wahrscheinlichen Baustein und seine Lesung vorherzusagen.",
+    "level": 4,
+    "order": 11,
+    "phase": "Kontext",
+    "strategy": "Lies in Sinnabschnitten statt Wort für Wort und prüfe, welcher Satztyp vorliegt.",
+    "methodSteps": [
+      "Satzanfang klassifizieren.",
+      "Subjekt, Verb oder Präposition identifizieren.",
+      "Erwartete Ergänzung vorhersagen."
+    ],
+    "recognitionTips": [
+      "Nach einem Fragewort folgt eine passende Satzstruktur.",
+      "Verbpräfixe und Subjekt müssen zusammenpassen.",
+      "Kongruenz hilft bei Adjektiven und Nomen."
+    ],
+    "patterns": [
+      {
+        "id": "question_where",
+        "title": "Ortsfrage",
+        "template": "أين + الاسم",
+        "explanation": "أين eröffnet eine Ortsfrage.",
+        "vocalized": "أَيْنَ اَلْكِتَابُ؟",
+        "unvocalized": "أين الكتاب؟",
+        "german": "Wo ist das Buch?"
+      },
+      {
+        "id": "pronoun_nominal",
+        "title": "Pronomen + Prädikat",
+        "template": "ضمير + خبر",
+        "explanation": "Ein Pronomen kann einen Nominalsatz eröffnen.",
+        "vocalized": "أَنَا طَالِبٌ",
+        "unvocalized": "أنا طالب",
+        "german": "Ich bin Schüler."
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_where_book",
+        "vocalized": "أَيْنَ اَلْكِتَابُ؟",
+        "unvocalized": "أين الكتاب؟",
+        "transliteration": "aina l-kitābu?",
+        "german": "Wo ist das Buch?",
+        "clue": "Das Fragewort أين setzt den Rahmen."
+      },
+      {
+        "id": "read_i_student",
+        "vocalized": "أَنَا طَالِبٌ",
+        "unvocalized": "أنا طالب",
+        "transliteration": "anā ṭālibun",
+        "german": "Ich bin Schüler.",
+        "clue": "أنا macht ein Prädikatsnomen wahrscheinlich."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Nutze Grammatik, um den nächsten wahrscheinlichen Baustein und seine Lesung vorherzusagen.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "kontext",
+      "fusha",
+      "b1"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "B1"
+  },
+  {
+    "id": "ambiguous_readings",
+    "title": "Mehrdeutigkeit sicher behandeln",
+    "description": "Lerne, wann eine Lesart nicht eindeutig ist und wie du mit Alternativen umgehst.",
+    "level": 4,
+    "order": 12,
+    "phase": "Selbstständig",
+    "strategy": "Nicht jede unvokalisierte Form lässt sich isoliert eindeutig lesen. Gute Leser halten Alternativen offen, bis der Kontext entscheidet.",
+    "methodSteps": [
+      "Mögliche Lesarten notieren.",
+      "Jede Lesart grammatisch testen.",
+      "Bei Bedarf Wörterbuch oder vokalisierte Kontrolle nutzen."
+    ],
+    "recognitionTips": [
+      "كتب kann je nach Kontext als Verb oder Teil verschiedener Wortformen gelesen werden.",
+      "Kasusendungen fehlen im Alltagstext meist vollständig.",
+      "Unsicherheit ist ein normaler Teil des Lesens ohne Harakat."
+    ],
+    "patterns": [
+      {
+        "id": "ambiguous_ktb",
+        "title": "Mehrdeutiges Schriftbild",
+        "template": "كتب",
+        "explanation": "Die Grundkonsonanten erlauben mehrere Formen.",
+        "vocalized": "كَتَبَ / كُتُبٌ",
+        "unvocalized": "كتب",
+        "german": "er schrieb / Bücher"
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_ambiguous_books",
+        "vocalized": "كُتُبٌ جَدِيدَةٌ",
+        "unvocalized": "كتب جديدة",
+        "transliteration": "kutubun jadīdatun",
+        "german": "neue Bücher",
+        "clue": "Das Adjektiv im Plural-/Feminin-Kontext macht die Nomenlesung plausibel."
+      },
+      {
+        "id": "read_ambiguous_wrote",
+        "vocalized": "كَتَبَ اَلطَّالِبُ",
+        "unvocalized": "كتب الطالب",
+        "transliteration": "kataba ṭ-ṭālibu",
+        "german": "Der Schüler schrieb.",
+        "clue": "Die Satzposition vor dem Subjekt macht eine Verblesung plausibel."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Lerne, wann eine Lesart nicht eindeutig ist und wie du mit Alternativen umgehst.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "selbstständig",
+      "fusha",
+      "b1"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "B1"
+  },
+  {
+    "id": "independent_reading",
+    "title": "Geführtes freies Lesen",
+    "description": "Verbinde alle Strategien in kurzen, zunehmend selbstständigen Texten.",
+    "level": 4,
+    "order": 13,
+    "phase": "Selbstständig",
+    "strategy": "Lies zuerst ohne Hilfen, begründe deine Hypothese und blende Vokalisierung erst zur Kontrolle ein.",
+    "methodSteps": [
+      "Wortbild und Anker erfassen.",
+      "Wurzel, Muster und Satzbau prüfen.",
+      "Lesung laut oder innerlich formulieren.",
+      "Mit Lösung vergleichen und Fehlerursache notieren."
+    ],
+    "recognitionTips": [
+      "Arbeite in kurzen Sinnabschnitten.",
+      "Nutze Harakat nur zur Rückmeldung.",
+      "Wiederhole schwierige Muster gezielt."
+    ],
+    "patterns": [
+      {
+        "id": "independent_sequence",
+        "title": "Vier-Schritt-Methode",
+        "template": "Wortbild → Muster → Kontext → Kontrolle",
+        "explanation": "Die Methode verbindet alle bisherigen Strategien.",
+        "vocalized": "اَلطَّالِبُ يَقْرَأُ اَلْكِتَابَ",
+        "unvocalized": "الطالب يقرأ الكتاب",
+        "german": "Der Schüler liest das Buch."
+      }
+    ],
+    "examples": [
+      {
+        "id": "read_full_student",
+        "vocalized": "اَلطَّالِبُ يَقْرَأُ اَلْكِتَابَ",
+        "unvocalized": "الطالب يقرأ الكتاب",
+        "transliteration": "aṭ-ṭālibu yaqraʾu l-kitāba",
+        "german": "Der Schüler liest das Buch.",
+        "clue": "Artikel markieren Nomen; يـ weist auf ein Präsensverb hin."
+      },
+      {
+        "id": "read_full_school",
+        "vocalized": "اَلْمُعَلِّمَةُ فِي اَلْمَدْرَسَةِ",
+        "unvocalized": "المعلمة في المدرسة",
+        "transliteration": "al-muʿallimatu fī l-madrasati",
+        "german": "Die Lehrerin ist in der Schule.",
+        "clue": "ة, في und ال liefern mehrere stabile Anker."
+      }
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Verbinde alle Strategien in kurzen, zunehmend selbstständigen Texten.",
+      "Eine begründete Lesart ohne sichtbare Kurzvokale entwickeln."
+    ],
+    "reviewTags": [
+      "reading",
+      "without-harakat",
+      "selbstständig",
+      "fusha",
+      "b1"
+    ],
+    "arabicVariety": "fusha",
+    "cefrLevel": "B1"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "news_article",
+    "title": "Nachrichtenmeldung",
+    "description": "Kernaussage, Quelle und zeitliche Abfolge einer Fusha-Nachricht erkennen.",
+    "level": 4,
+    "order": 14,
+    "phase": "Sachtexte",
+    "strategy": "Lies Überschrift und ersten Satz zuerst; extrahiere dann wer, was, wann und wo.",
+    "methodSteps": [
+      "Textart und kommunikatives Ziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Satzstruktur markieren.",
+      "Hypothese mit dem Gesamtzusammenhang und der vokalisierten Lösung prüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss sofort nachgeschlagen werden.",
+      "Konnektoren zeigen die argumentative Struktur.",
+      "Kasusendungen und Wortmuster liefern bei Bedarf zusätzliche Hinweise."
+    ],
+    "patterns": [
+      {
+        "id": "news_pattern_announce",
+        "title": "Offizielle Mitteilung",
+        "template": "أَفْعَلَ",
+        "explanation": "Die Form IV أَعْلَنَ wird in Nachrichten häufig für „bekannt geben“ verwendet. Das Wortbild mit anlautendem أ und internem ā ist ein wichtiger Hinweis.",
+        "vocalized": "أَعْلَنَتِ الْوِزَارَةُ",
+        "unvocalized": "أعلنت الوزارة",
+        "german": "Das Ministerium gab bekannt."
+      },
+      {
+        "id": "news_pattern_future",
+        "title": "Zukunft mit سـ",
+        "template": "سَـ + Imperfekt",
+        "explanation": "Das Präfix سـ vor dem Imperfekt markiert eine erwartete oder geplante zukünftige Handlung.",
+        "vocalized": "سَيَبْدَأُ التَّنْفِيذُ",
+        "unvocalized": "سيبدأ التنفيذ",
+        "german": "Die Umsetzung wird beginnen."
+      }
+    ],
+    "examples": [
+      {
+        "id": "news_article_ex_1",
+        "vocalized": "أَعْلَنَتِ الْوِزَارَةُ الْيَوْمَ عَنْ مَشْرُوعٍ جَدِيدٍ.",
+        "unvocalized": "أعلنت الوزارة اليوم عن مشروع جديد.",
+        "transliteration": "aʿlanati l-wizāratu l-yawma ʿan mašrūʿin jadīdin",
+        "german": "Das Ministerium gab heute ein neues Projekt bekannt.",
+        "clue": "أَعْلَنَ leitet häufig eine Nachricht über eine offizielle Mitteilung ein."
+      },
+      {
+        "id": "news_article_ex_2",
+        "vocalized": "وَسَيَبْدَأُ تَنْفِيذُ الْمَشْرُوعِ الشَّهْرَ الْمُقْبِلَ.",
+        "unvocalized": "وسيبدأ تنفيذ المشروع الشهر المقبل.",
+        "transliteration": "wa-sayabdaʾu tanfīḏu l-mašrūʿi š-šahra l-muqbila",
+        "german": "Die Umsetzung des Projekts beginnt nächsten Monat.",
+        "clue": "سـ markiert die Zukunft."
+      }
+    ],
+    "learningObjectives": [
+      "Kernaussage, Quelle und zeitliche Abfolge einer Fusha-Nachricht erkennen.",
+      "Einen authentisch wirkenden Fusha-Text strategisch erschließen."
+    ],
+    "reviewTags": [
+      "reading",
+      "fusha",
+      "b1",
+      "sachtexte"
+    ],
+    "cefrLevel": "B1"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "argumentative_text",
+    "title": "Argumentativen Text lesen",
+    "description": "These, Belege, Gegenargument und Schlussfolgerung unterscheiden.",
+    "level": 5,
+    "order": 15,
+    "phase": "Argumentation",
+    "strategy": "Markiere These, Begründungen und Konnektoren in verschiedenen Rollen.",
+    "methodSteps": [
+      "Textart und kommunikatives Ziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Satzstruktur markieren.",
+      "Hypothese mit dem Gesamtzusammenhang und der vokalisierten Lösung prüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss sofort nachgeschlagen werden.",
+      "Konnektoren zeigen die argumentative Struktur.",
+      "Kasusendungen und Wortmuster liefern bei Bedarf zusätzliche Hinweise."
+    ],
+    "patterns": [
+      {
+        "id": "argument_pattern_view",
+        "title": "Eine Position wiedergeben",
+        "template": "يَرَى ... أَنَّ",
+        "explanation": "يَرَى leitet eine Auffassung ein; أَنَّ verbindet sie mit dem folgenden Inhaltssatz.",
+        "vocalized": "يَرَى الْبَاحِثُونَ أَنَّ",
+        "unvocalized": "يرى الباحثون أن",
+        "german": "Die Forschenden sind der Ansicht, dass …"
+      },
+      {
+        "id": "argument_pattern_concession",
+        "title": "Einschränkung markieren",
+        "template": "مَعَ ذٰلِكَ",
+        "explanation": "مَعَ ذٰلِكَ signalisiert einen Gegensatz oder eine Einschränkung zur vorherigen Aussage.",
+        "vocalized": "مَعَ ذٰلِكَ",
+        "unvocalized": "مع ذلك",
+        "german": "Dennoch / trotz allem"
+      }
+    ],
+    "examples": [
+      {
+        "id": "argumentative_text_ex_1",
+        "vocalized": "يَرَى بَعْضُ الْبَاحِثِينَ أَنَّ التِّقْنِيَّةَ تُحَسِّنُ التَّعْلِيمَ.",
+        "unvocalized": "يرى بعض الباحثين أن التقنية تحسن التعليم.",
+        "transliteration": "yarā baʿḍu l-bāḥiṯīna anna t-tiqniyyata tuḥassinu t-taʿlīma",
+        "german": "Einige Forschende sind der Ansicht, dass Technologie die Bildung verbessert.",
+        "clue": "يَرَى ... أَنَّ führt eine vertretene Position ein."
+      },
+      {
+        "id": "argumentative_text_ex_2",
+        "vocalized": "مَعَ ذٰلِكَ، تَعْتَمِدُ النَّتَائِجُ عَلَى طَرِيقَةِ الاِسْتِخْدَامِ.",
+        "unvocalized": "مع ذلك، تعتمد النتائج على طريقة الاستخدام.",
+        "transliteration": "maʿa ḏālika taʿtamidu n-natāʾiju ʿalā ṭarīqati l-istikhdāmi",
+        "german": "Dennoch hängen die Ergebnisse von der Art der Nutzung ab.",
+        "clue": "مَعَ ذٰلِكَ markiert eine Einschränkung."
+      }
+    ],
+    "learningObjectives": [
+      "These, Belege, Gegenargument und Schlussfolgerung unterscheiden.",
+      "Einen authentisch wirkenden Fusha-Text strategisch erschließen."
+    ],
+    "reviewTags": [
+      "reading",
+      "fusha",
+      "b2",
+      "argumentation"
+    ],
+    "cefrLevel": "B2"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "academic_abstract",
+    "title": "Wissenschaftliche Kurzfassung",
+    "description": "Fragestellung, Methode, Ergebnis und Einschränkung in einer Kurzfassung erfassen.",
+    "level": 6,
+    "order": 16,
+    "phase": "Wissenschaft",
+    "strategy": "Ordne jeden Satz einer Funktion im Forschungsbericht zu.",
+    "methodSteps": [
+      "Textart und kommunikatives Ziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Satzstruktur markieren.",
+      "Hypothese mit dem Gesamtzusammenhang und der vokalisierten Lösung prüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss sofort nachgeschlagen werden.",
+      "Konnektoren zeigen die argumentative Struktur.",
+      "Kasusendungen und Wortmuster liefern bei Bedarf zusätzliche Hinweise."
+    ],
+    "patterns": [
+      {
+        "id": "academic_pattern_aim",
+        "title": "Forschungsziel",
+        "template": "يَهْدِفُ ... إِلَى + مَصْدَر",
+        "explanation": "Diese feste Struktur benennt Ziel und Gegenstand einer Untersuchung; nach إِلَى folgt häufig ein Maṣdar.",
+        "vocalized": "يَهْدِفُ الْبَحْثُ إِلَى تَحْلِيلِ",
+        "unvocalized": "يهدف البحث إلى تحليل",
+        "german": "Die Forschung zielt darauf, … zu analysieren."
+      },
+      {
+        "id": "academic_pattern_result",
+        "title": "Ergebnisformel",
+        "template": "تُشِيرُ النَّتَائِجُ إِلَى",
+        "explanation": "Eine typische wissenschaftliche Formel, mit der Ergebnisse vorsichtig zusammengefasst werden.",
+        "vocalized": "تُشِيرُ النَّتَائِجُ إِلَى",
+        "unvocalized": "تشير النتائج إلى",
+        "german": "Die Ergebnisse deuten auf … hin."
+      }
+    ],
+    "examples": [
+      {
+        "id": "academic_abstract_ex_1",
+        "vocalized": "يَهْدِفُ هٰذَا الْبَحْثُ إِلَى تَحْلِيلِ أَثَرِ التَّعَلُّمِ الرَّقْمِيِّ.",
+        "unvocalized": "يهدف هذا البحث إلى تحليل أثر التعلم الرقمي.",
+        "transliteration": "yahdifu hāḏā l-baḥṯu ilā taḥlīli aṯari t-taʿallumi r-raqamiyyi",
+        "german": "Diese Forschung zielt darauf, die Wirkung digitalen Lernens zu analysieren.",
+        "clue": "يَهْدِفُ ... إِلَى nennt das Forschungsziel."
+      },
+      {
+        "id": "academic_abstract_ex_2",
+        "vocalized": "وَتُشِيرُ النَّتَائِجُ إِلَى تَحَسُّنٍ مَحْدُودٍ.",
+        "unvocalized": "وتشير النتائج إلى تحسن محدود.",
+        "transliteration": "wa-tušīru n-natāʾiju ilā taḥassunin maḥdūdin",
+        "german": "Die Ergebnisse deuten auf eine begrenzte Verbesserung hin.",
+        "clue": "تُشِيرُ النَّتَائِجُ إِلَى leitet Befunde ein."
+      }
+    ],
+    "learningObjectives": [
+      "Fragestellung, Methode, Ergebnis und Einschränkung in einer Kurzfassung erfassen.",
+      "Einen authentisch wirkenden Fusha-Text strategisch erschließen."
+    ],
+    "reviewTags": [
+      "reading",
+      "fusha",
+      "c1",
+      "wissenschaft"
+    ],
+    "cefrLevel": "C1"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "literary_excerpt",
+    "title": "Literarischen Auszug deuten",
+    "description": "Bildsprache, Rhythmus, Ellipse und Mehrdeutigkeit in literarischem Fusha erschließen.",
+    "level": 7,
+    "order": 17,
+    "phase": "Literatur",
+    "strategy": "Lies zunächst wörtlich, identifiziere dann Bildfelder und mögliche implizite Bedeutungen.",
+    "methodSteps": [
+      "Textart und kommunikatives Ziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Satzstruktur markieren.",
+      "Hypothese mit dem Gesamtzusammenhang und der vokalisierten Lösung prüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss sofort nachgeschlagen werden.",
+      "Konnektoren zeigen die argumentative Struktur.",
+      "Kasusendungen und Wortmuster liefern bei Bedarf zusätzliche Hinweise."
+    ],
+    "patterns": [
+      {
+        "id": "literary_pattern_narrative",
+        "title": "Erzählrahmen mit كَانَ",
+        "template": "كَانَ + Imperfekt",
+        "explanation": "كَانَ mit einem Verb im Imperfekt kann eine andauernde oder wiederholte Handlung im vergangenen Erzählrahmen ausdrücken.",
+        "vocalized": "كَانَ اللَّيْلُ يَفْتَحُ",
+        "unvocalized": "كان الليل يفتح",
+        "german": "Die Nacht öffnete / pflegte zu öffnen."
+      },
+      {
+        "id": "literary_pattern_fronting",
+        "title": "Vorangestellte Szene",
+        "template": "فِي ... كَانَ",
+        "explanation": "Eine vorangestellte Präpositionalgruppe setzt zuerst Raum, Stimmung oder Kontrast und lenkt so die literarische Perspektive.",
+        "vocalized": "فِي الصَّمْتِ كَانَ لِلْكَلِمَاتِ صَوْتٌ",
+        "unvocalized": "في الصمت كان للكلمات صوت",
+        "german": "Im Schweigen hatten die Wörter eine Stimme."
+      }
+    ],
+    "examples": [
+      {
+        "id": "literary_excerpt_ex_1",
+        "vocalized": "كَانَ اللَّيْلُ يَفْتَحُ نَوَافِذَهُ لِلذِّكْرَيَاتِ.",
+        "unvocalized": "كان الليل يفتح نوافذه للذكريات.",
+        "transliteration": "kāna l-laylu yaftaḥu nawāfiḏahu li-ḏ-ḏikrayāti",
+        "german": "Die Nacht öffnete ihre Fenster für die Erinnerungen.",
+        "clue": "Die Personifikation macht „Nacht“ zum handelnden Bildträger."
+      },
+      {
+        "id": "literary_excerpt_ex_2",
+        "vocalized": "وَفِي الصَّمْتِ كَانَ لِلْكَلِمَاتِ صَوْتٌ آخَرُ.",
+        "unvocalized": "وفي الصمت كان للكلمات صوت آخر.",
+        "transliteration": "wa-fī ṣ-ṣamti kāna li-l-kalimāti ṣawtun ākharu",
+        "german": "Und im Schweigen hatten die Wörter eine andere Stimme.",
+        "clue": "Der Gegensatz von Schweigen und Stimme erzeugt eine metaphorische Spannung."
+      }
+    ],
+    "learningObjectives": [
+      "Bildsprache, Rhythmus, Ellipse und Mehrdeutigkeit in literarischem Fusha erschließen.",
+      "Einen authentisch wirkenden Fusha-Text strategisch erschließen."
+    ],
+    "reviewTags": [
+      "reading",
+      "fusha",
+      "c2",
+      "literatur"
+    ],
+    "cefrLevel": "C2"
+  },
+  {
+    "id": "instructions_notices",
+    "title": "Anweisungen und Hinweise lesen",
+    "description": "Alltägliche Anweisungen, Hinweise und kurze Informationsblöcke sicher verstehen.",
+    "level": 3,
+    "order": 920,
+    "phase": "Transfer",
+    "strategy": "Zuerst Textfunktion und bekannte Anker identifizieren, danach Details und implizite Beziehungen prüfen.",
+    "methodSteps": [
+      "Texttyp und Kommunikationsziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Referenzen markieren.",
+      "Kernaussage formulieren und anschließend Details überprüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss vor dem Gesamtverständnis geklärt werden.",
+      "Konnektoren zeigen Beziehungen zwischen Aussagen.",
+      "Bei höherem Niveau auch implizite Positionen und Register beachten."
+    ],
+    "patterns": [
+      {
+        "id": "instructions_notices_pattern_1",
+        "title": "Textanker",
+        "template": "سياق → علاقة → معنى",
+        "explanation": "Kontext und Beziehungen steuern die Interpretation.",
+        "vocalized": "يُرْجَى إِغْلَاقُ الْبَابِ بَعْدَ الدُّخُولِ.",
+        "unvocalized": "يرجى إغلاق الباب بعد الدخول.",
+        "german": "Bitte schließen Sie die Tür nach dem Eintreten."
+      }
+    ],
+    "examples": [
+      {
+        "id": "instructions_notices_example_1",
+        "vocalized": "يُرْجَى إِغْلَاقُ الْبَابِ بَعْدَ الدُّخُولِ.",
+        "unvocalized": "يرجى إغلاق الباب بعد الدخول.",
+        "transliteration": "—",
+        "german": "Bitte schließen Sie die Tür nach dem Eintreten.",
+        "clue": "Bestimme zuerst Textfunktion, Kernaussage und verbindende Ausdrücke."
+      }
+    ],
+    "cefrLevel": "A2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Alltägliche Anweisungen, Hinweise und kurze Informationsblöcke sicher verstehen."
+    ],
+    "reviewTags": [
+      "reading",
+      "a2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "workplace_message",
+    "title": "Arbeitsbezogene Nachricht",
+    "description": "Kurze formelle Arbeitsnachrichten nach Aufgabe, Termin und Verantwortlichkeit auswerten.",
+    "level": 4,
+    "order": 917,
+    "phase": "Transfer",
+    "strategy": "Zuerst Textfunktion und bekannte Anker identifizieren, danach Details und implizite Beziehungen prüfen.",
+    "methodSteps": [
+      "Texttyp und Kommunikationsziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Referenzen markieren.",
+      "Kernaussage formulieren und anschließend Details überprüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss vor dem Gesamtverständnis geklärt werden.",
+      "Konnektoren zeigen Beziehungen zwischen Aussagen.",
+      "Bei höherem Niveau auch implizite Positionen und Register beachten."
+    ],
+    "patterns": [
+      {
+        "id": "workplace_message_pattern_1",
+        "title": "Textanker",
+        "template": "سياق → علاقة → معنى",
+        "explanation": "Kontext und Beziehungen steuern die Interpretation.",
+        "vocalized": "سَيَبْدَأُ الِاجْتِمَاعُ فِي السَّاعَةِ التَّاسِعَةِ، وَيُرْجَى إِرْسَالُ التَّقْرِيرِ قَبْلَهُ.",
+        "unvocalized": "سيبدأ الاجتماع في الساعة التاسعة، ويرجى إرسال التقرير قبله.",
+        "german": "Die Besprechung beginnt um neun Uhr; der Bericht soll vorher geschickt werden."
+      }
+    ],
+    "examples": [
+      {
+        "id": "workplace_message_example_1",
+        "vocalized": "سَيَبْدَأُ الِاجْتِمَاعُ فِي السَّاعَةِ التَّاسِعَةِ، وَيُرْجَى إِرْسَالُ التَّقْرِيرِ قَبْلَهُ.",
+        "unvocalized": "سيبدأ الاجتماع في الساعة التاسعة، ويرجى إرسال التقرير قبله.",
+        "transliteration": "—",
+        "german": "Die Besprechung beginnt um neun Uhr; der Bericht soll vorher geschickt werden.",
+        "clue": "Bestimme zuerst Textfunktion, Kernaussage und verbindende Ausdrücke."
+      }
+    ],
+    "cefrLevel": "B1",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Kurze formelle Arbeitsnachrichten nach Aufgabe, Termin und Verantwortlichkeit auswerten."
+    ],
+    "reviewTags": [
+      "reading",
+      "b1",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "comparative_media_text",
+    "title": "Vergleichender Medientext",
+    "description": "Zwei Positionen in einem Medientext unterscheiden und ihre Begründungen vergleichen.",
+    "level": 5,
+    "order": 922,
+    "phase": "Transfer",
+    "strategy": "Zuerst Textfunktion und bekannte Anker identifizieren, danach Details und implizite Beziehungen prüfen.",
+    "methodSteps": [
+      "Texttyp und Kommunikationsziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Referenzen markieren.",
+      "Kernaussage formulieren und anschließend Details überprüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss vor dem Gesamtverständnis geklärt werden.",
+      "Konnektoren zeigen Beziehungen zwischen Aussagen.",
+      "Bei höherem Niveau auch implizite Positionen und Register beachten."
+    ],
+    "patterns": [
+      {
+        "id": "comparative_media_text_pattern_1",
+        "title": "Textanker",
+        "template": "سياق → علاقة → معنى",
+        "explanation": "Kontext und Beziehungen steuern die Interpretation.",
+        "vocalized": "يَعْرِضُ النَّصُ رَأْيَيْنِ مُخْتَلِفَيْنِ وَيُقَارِنُ بَيْنَ أَدِلَّتِهِمَا.",
+        "unvocalized": "يعرض النص رأيين مختلفين ويقارن بين أدلتهما.",
+        "german": "Der Text stellt zwei unterschiedliche Positionen dar und vergleicht ihre Belege."
+      }
+    ],
+    "examples": [
+      {
+        "id": "comparative_media_text_example_1",
+        "vocalized": "يَعْرِضُ النَّصُ رَأْيَيْنِ مُخْتَلِفَيْنِ وَيُقَارِنُ بَيْنَ أَدِلَّتِهِمَا.",
+        "unvocalized": "يعرض النص رأيين مختلفين ويقارن بين أدلتهما.",
+        "transliteration": "—",
+        "german": "Der Text stellt zwei unterschiedliche Positionen dar und vergleicht ihre Belege.",
+        "clue": "Bestimme zuerst Textfunktion, Kernaussage und verbindende Ausdrücke."
+      }
+    ],
+    "cefrLevel": "B2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Zwei Positionen in einem Medientext unterscheiden und ihre Begründungen vergleichen."
+    ],
+    "reviewTags": [
+      "reading",
+      "b2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "research_method_excerpt",
+    "title": "Methodischer Forschungsabschnitt",
+    "description": "Methodik, Variablen und Einschränkungen eines wissenschaftlichen Abschnitts identifizieren.",
+    "level": 6,
+    "order": 923,
+    "phase": "Transfer",
+    "strategy": "Zuerst Textfunktion und bekannte Anker identifizieren, danach Details und implizite Beziehungen prüfen.",
+    "methodSteps": [
+      "Texttyp und Kommunikationsziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Referenzen markieren.",
+      "Kernaussage formulieren und anschließend Details überprüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss vor dem Gesamtverständnis geklärt werden.",
+      "Konnektoren zeigen Beziehungen zwischen Aussagen.",
+      "Bei höherem Niveau auch implizite Positionen und Register beachten."
+    ],
+    "patterns": [
+      {
+        "id": "research_method_excerpt_pattern_1",
+        "title": "Textanker",
+        "template": "سياق → علاقة → معنى",
+        "explanation": "Kontext und Beziehungen steuern die Interpretation.",
+        "vocalized": "تَعْتَمِدُ الدِّرَاسَةُ عَلَى عَيِّنَةٍ مُحَدَّدَةٍ وَتُنَاقِشُ حُدُودَ الْمَنْهَجِيَّةِ.",
+        "unvocalized": "تعتمد الدراسة على عينةٍ محددةٍ وتناقش حدود المنهجية.",
+        "german": "Die Studie basiert auf einer bestimmten Stichprobe und diskutiert die Grenzen der Methodik."
+      }
+    ],
+    "examples": [
+      {
+        "id": "research_method_excerpt_example_1",
+        "vocalized": "تَعْتَمِدُ الدِّرَاسَةُ عَلَى عَيِّنَةٍ مُحَدَّدَةٍ وَتُنَاقِشُ حُدُودَ الْمَنْهَجِيَّةِ.",
+        "unvocalized": "تعتمد الدراسة على عينةٍ محددةٍ وتناقش حدود المنهجية.",
+        "transliteration": "—",
+        "german": "Die Studie basiert auf einer bestimmten Stichprobe und diskutiert die Grenzen der Methodik.",
+        "clue": "Bestimme zuerst Textfunktion, Kernaussage und verbindende Ausdrücke."
+      }
+    ],
+    "cefrLevel": "C1",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Methodik, Variablen und Einschränkungen eines wissenschaftlichen Abschnitts identifizieren."
+    ],
+    "reviewTags": [
+      "reading",
+      "c1",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "rhetorical_structure_text",
+    "title": "Rhetorische Textarchitektur",
+    "description": "Stilistische Dichte, Parallelismus, Kontrast und implizite Bedeutung in anspruchsvollen Texten analysieren.",
+    "level": 7,
+    "order": 925,
+    "phase": "Transfer",
+    "strategy": "Zuerst Textfunktion und bekannte Anker identifizieren, danach Details und implizite Beziehungen prüfen.",
+    "methodSteps": [
+      "Texttyp und Kommunikationsziel bestimmen.",
+      "Schlüsselwörter, Konnektoren und Referenzen markieren.",
+      "Kernaussage formulieren und anschließend Details überprüfen."
+    ],
+    "recognitionTips": [
+      "Nicht jedes unbekannte Wort muss vor dem Gesamtverständnis geklärt werden.",
+      "Konnektoren zeigen Beziehungen zwischen Aussagen.",
+      "Bei höherem Niveau auch implizite Positionen und Register beachten."
+    ],
+    "patterns": [
+      {
+        "id": "rhetorical_structure_text_pattern_1",
+        "title": "Textanker",
+        "template": "سياق → علاقة → معنى",
+        "explanation": "Kontext und Beziehungen steuern die Interpretation.",
+        "vocalized": "يَبْنِي الْكَاتِبُ حُجَّتَهُ عَلَى التَّوَازِي وَالْمُقَابَلَةِ وَالْمَعْنَى الضِّمْنِيِّ.",
+        "unvocalized": "يبني الكاتب حجته على التوازي والمقابلة والمعنى الضمني.",
+        "german": "Der Autor baut sein Argument auf Parallelismus, Kontrast und impliziter Bedeutung auf."
+      }
+    ],
+    "examples": [
+      {
+        "id": "rhetorical_structure_text_example_1",
+        "vocalized": "يَبْنِي الْكَاتِبُ حُجَّتَهُ عَلَى التَّوَازِي وَالْمُقَابَلَةِ وَالْمَعْنَى الضِّمْنِيِّ.",
+        "unvocalized": "يبني الكاتب حجته على التوازي والمقابلة والمعنى الضمني.",
+        "transliteration": "—",
+        "german": "Der Autor baut sein Argument auf Parallelismus, Kontrast und impliziter Bedeutung auf.",
+        "clue": "Bestimme zuerst Textfunktion, Kernaussage und verbindende Ausdrücke."
+      }
+    ],
+    "cefrLevel": "C2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Stilistische Dichte, Parallelismus, Kontrast und implizite Bedeutung in anspruchsvollen Texten analysieren."
+    ],
+    "reviewTags": [
+      "reading",
+      "c2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  }
+]

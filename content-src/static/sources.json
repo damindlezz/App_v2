@@ -1,0 +1,390 @@
+[
+  {
+    "id": "src_curriculum_fusha",
+    "type": "curriculum",
+    "title": "Fusha-Kursredaktion",
+    "author": "Interne Redaktion",
+    "language": "de",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "internal",
+    "notes": "Redaktionelle Arbeitsquelle für Sprachmodule; fachliche Endprüfung ausstehend."
+  },
+  {
+    "id": "src_curriculum_quran",
+    "type": "editorial",
+    "title": "Quran-/Tajwīd-Redaktion",
+    "author": "Interne Redaktion",
+    "language": "de",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "internal",
+    "notes": "Redaktionelle Arbeitsquelle; Quran-, Tajwīd- und Lizenzprüfung vor Veröffentlichung erforderlich."
+  },
+  {
+    "id": "src_fiqh_hanafi_quduri",
+    "type": "fiqh_work",
+    "title": "Muḫtaṣar al-Qudūrī",
+    "author": "al-Qudūrī",
+    "madhhab": "hanafi",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Orientierungswerk; konkrete Edition und modulbezogene Fundstellen müssen im Madhhab-/Quellenreview verifiziert werden."
+  },
+  {
+    "id": "src_fiqh_maliki_risala",
+    "type": "fiqh_work",
+    "title": "ar-Risāla",
+    "author": "Ibn Abī Zayd al-Qayrawānī",
+    "madhhab": "maliki",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Orientierungswerk; konkrete Edition und modulbezogene Fundstellen müssen im Madhhab-/Quellenreview verifiziert werden."
+  },
+  {
+    "id": "src_fiqh_shafii_minhaj",
+    "type": "fiqh_work",
+    "title": "Minhāǧ aṭ-Ṭālibīn",
+    "author": "an-Nawawī",
+    "madhhab": "shafii",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Orientierungswerk; konkrete Edition und modulbezogene Fundstellen müssen im Madhhab-/Quellenreview verifiziert werden."
+  },
+  {
+    "id": "src_fiqh_hanbali_umda",
+    "type": "fiqh_work",
+    "title": "ʿUmdat al-Fiqh",
+    "author": "Ibn Qudāma",
+    "madhhab": "hanbali",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Orientierungswerk; konkrete Edition und modulbezogene Fundstellen müssen im Madhhab-/Quellenreview verifiziert werden."
+  },
+  {
+    "id": "src_usul_waraqat",
+    "type": "usul_work",
+    "title": "al-Waraqāt",
+    "author": "al-Ǧuwaynī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Orientierungswerk; für schulbezogene Detailfragen sind zusätzliche Uṣūl-Werke erforderlich."
+  },
+  {
+    "id": "src_hadith_bukhari",
+    "type": "hadith",
+    "title": "Ṣaḥīḥ al-Buḫārī",
+    "author": "al-Buḫārī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Sammlungsreferenz. Hadithnummer, Buch/Kapitel, Wortlaut und Edition müssen pro Verwendung verifiziert werden."
+  },
+  {
+    "id": "src_hadith_muslim",
+    "type": "hadith",
+    "title": "Ṣaḥīḥ Muslim",
+    "author": "Muslim b. al-Ḥaǧǧāǧ",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Sammlungsreferenz. Hadithnummer, Buch/Kapitel, Wortlaut und Edition müssen pro Verwendung verifiziert werden."
+  },
+  {
+    "id": "src_hadith_nawawi40",
+    "type": "hadith",
+    "title": "al-Arbaʿūn an-Nawawiyya",
+    "author": "an-Nawawī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Thematische Orientierungsquelle; konkrete Hadithreferenzen werden pro Claim separat verifiziert."
+  },
+  {
+    "id": "src_hadith_riyad",
+    "type": "hadith",
+    "title": "Riyāḍ aṣ-Ṣāliḥīn",
+    "author": "an-Nawawī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Thematische Orientierungsquelle; konkrete Hadithreferenzen werden pro Claim separat verifiziert."
+  },
+  {
+    "id": "src_usul_hadith_ibn_salah",
+    "type": "usul_work",
+    "title": "Muqaddimat Ibn aṣ-Ṣalāḥ",
+    "author": "Ibn aṣ-Ṣalāḥ",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Orientierungswerk zur Hadithterminologie; konkrete Fundstellen und Definitionsvarianten müssen fachlich geprüft werden."
+  },
+  {
+    "id": "src_usul_hadith_nuzha",
+    "type": "usul_work",
+    "title": "Nuzhat an-Naẓar",
+    "author": "Ibn Ḥaǧar al-ʿAsqalānī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Orientierungswerk zur Hadithterminologie; konkrete Fundstellen und Definitionsvarianten müssen fachlich geprüft werden."
+  },
+  {
+    "id": "src_quran_uthmani_texlive",
+    "type": "quran",
+    "title": "Qurantext – ʿUṯmānī (TeX Live quran package)",
+    "author": "Seiied-Mohammad-Javad Razavian (Paketpflege)",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "verified",
+    "notes": "Arbeitsdatensatz aus qurantext-uthmani.def (TeX Live quran package, Copyright 2015–2024, LPPL 1.3c+). 6.236 Ayat. Fachliche Textgegenprüfung vor Freigabe erforderlich."
+  },
+  {
+    "id": "src_quran_abu_reda_de_texlive",
+    "type": "quran_translation",
+    "title": "Deutsche Quran-Uebersetzung - Abu Reda / Ibn Rassoul (TeX Live quran package)",
+    "author": "Abu Reda Muhammad ibn Ahmad ibn Rassoul",
+    "language": "de",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "verified",
+    "notes": "Verwendete lokale Quelldatei qurantext-de.translation.def traegt explizit LPPL 1.3c+ im Dateikopf. 6.236 Ayat wurden referenzstabil nach JSON konvertiert; TeX-Basmala-Makro und TeX-Anfuehrungszeichen wurden nur fuer die Darstellung normalisiert."
+  },
+  {
+    "id": "src_quran_word_review_derived",
+    "type": "derived_dataset",
+    "title": "Quran-Worttokenisierung - interne Reviewableitung",
+    "author": "Interne technische Ableitung",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "internal",
+    "notes": "Deterministische 1-basierte Wortpositionen aus quran_text_uthmani_texlive. Standalone Waqf-/Pausezeichen werden dem vorherigen Wort angehaengt, damit der sichtbare Versfluss erhalten bleibt. Keine Lemma-, Wurzel- oder Morphologiebehauptungen erzeugt."
+  },
+  {
+    "id": "src_quran_wbw_de_derived_abureda",
+    "type": "derived_dataset",
+    "title": "Deutsche Quran-Wortglossen – Offline-Reviewableitung",
+    "author": "Interne technische Ableitung",
+    "language": "de",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "internal",
+    "notes": "Deterministische corpusweite Wortausrichtung aus der eingebetteten Abu-Reda/Ibn-Rassoul-Versübersetzung (LPPL 1.3c+) und der Uthmani-Tokenisierung. Vollständiger Offline-Fallback; nicht als redaktionell geprüfte Wort-für-Wort-Übersetzung ausgeben."
+  },
+  {
+    "id": "src_quran_tajweed_review_derived",
+    "type": "derived_dataset",
+    "title": "Tajwid-Orthographiehinweise - interne Reviewableitung",
+    "author": "Interne technische Ableitung",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "internal",
+    "notes": "Konservative regelbasierte Hinweise aus Unicode-Orthographie und Wortkontext. Dienen ausschliesslich der redaktionellen Pruefung; keine fachliche Freigabe und keine Kopie eines externen Tajwid-Korpus."
+  },
+  {
+    "id": "src_mushaf_13line_waqar_mit",
+    "type": "mushaf_layout",
+    "title": "Quran Revision Companion - 13 Line Mushaf (IndoPak)",
+    "author": "Waqar Ahmed / Waqar144",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "verified",
+    "notes": "MIT-lizenziertes Repository. Die Datei lib/quran_data/thirteen_line_indopak_layout.dart definiert Page/Line-Anker; Line speichert ayahIdx und wordStartInAyahIdx. Vollimport ist vorbereitet, aber der Remote-Payload war in der isolierten Build-Laufzeit nicht abrufbar."
+  },
+  {
+    "id": "src_quranic_arabic_corpus_morphology",
+    "type": "linguistic_corpus",
+    "title": "Quranic Arabic Corpus - Morphology v0.4",
+    "author": "Kais Dukes / Quranic Arabic Corpus",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "verified",
+    "notes": "Vollstaendige Morphologiequelle fuer Lemma/Wurzel/POS als naechster Import. Offizielle Nutzungsbedingungen erlauben App-Nutzung mit klarer Quellenangabe; die Originaldaten duerfen nicht veraendert werden. Der Download erfordert Kontaktangaben und wurde daher nicht automatisiert gebuendelt."
+  },
+  {
+    "id": "src_fiqh_hanafi_hidaya",
+    "type": "fiqh_work",
+    "title": "al-Hidāya fī Šarḥ Bidāyat al-Mubtadī",
+    "author": "Burhān ad-Dīn al-Marġīnānī",
+    "madhhab": "hanafi",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Originalwerk (Autor gest. 593 AH/1197); als gemeinfreie Primärtradition referenziert. Kein Text einer modernen Edition oder Übersetzung übernommen."
+  },
+  {
+    "id": "src_fiqh_maliki_mudawwana",
+    "type": "fiqh_work",
+    "title": "al-Mudawwana al-Kubrā",
+    "author": "Saḥnūn b. Saʿīd",
+    "madhhab": "maliki",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Originalwerk (Autor gest. 240 AH/854); als gemeinfreie Primärtradition referenziert. Kein Text einer modernen Edition oder Übersetzung übernommen."
+  },
+  {
+    "id": "src_fiqh_shafii_umm",
+    "type": "fiqh_work",
+    "title": "al-Umm",
+    "author": "Muḥammad b. Idrīs aš-Šāfiʿī",
+    "madhhab": "shafii",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Originalwerk (Autor gest. 204 AH/820); als gemeinfreie Primärtradition referenziert. Kein Text einer modernen Edition oder Übersetzung übernommen."
+  },
+  {
+    "id": "src_fiqh_hanbali_mughni",
+    "type": "fiqh_work",
+    "title": "al-Muġnī",
+    "author": "Ibn Qudāma al-Maqdisī",
+    "madhhab": "hanbali",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Originalwerk (Autor gest. 620 AH/1223); als gemeinfreie Primärtradition referenziert. Kein Text einer modernen Edition oder Übersetzung übernommen."
+  },
+  {
+    "id": "src_usul_risala_shafii",
+    "type": "usul_work",
+    "title": "ar-Risāla",
+    "author": "Muḥammad b. Idrīs aš-Šāfiʿī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Uṣūl-Originalwerk; keine moderne Übersetzung oder Edition kopiert."
+  },
+  {
+    "id": "src_usul_burhan_juwayni",
+    "type": "usul_work",
+    "title": "al-Burhān fī Uṣūl al-Fiqh",
+    "author": "Imām al-Ḥaramayn al-Ǧuwaynī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Uṣūl-Originalwerk; keine moderne Übersetzung oder Edition kopiert."
+  },
+  {
+    "id": "src_usul_mustasfa_ghazali",
+    "type": "usul_work",
+    "title": "al-Mustaṣfā min ʿIlm al-Uṣūl",
+    "author": "Abū Ḥāmid al-Ġazālī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Uṣūl-Originalwerk; keine moderne Übersetzung oder Edition kopiert."
+  },
+  {
+    "id": "src_usul_rawda_ibn_qudama",
+    "type": "usul_work",
+    "title": "Rawḍat an-Nāẓir wa-Ǧunnat al-Munāẓir",
+    "author": "Ibn Qudāma al-Maqdisī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Uṣūl-Originalwerk; keine moderne Übersetzung oder Edition kopiert."
+  },
+  {
+    "id": "src_hadith_muwatta",
+    "type": "hadith",
+    "title": "al-Muwaṭṭaʾ",
+    "author": "Mālik b. Anas",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassische Hadithsammlung; Originalwerk gemeinfrei. Kein Text einer modernen Ausgabe/Übersetzung übernommen; Nummerierung editionsabhängig."
+  },
+  {
+    "id": "src_hadith_abu_dawud",
+    "type": "hadith",
+    "title": "Sunan Abī Dāwūd",
+    "author": "Abū Dāwūd as-Siǧistānī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassische Hadithsammlung; Originalwerk gemeinfrei. Konkrete Hadithnummern und Wortlaute müssen editionsbezogen geprüft werden."
+  },
+  {
+    "id": "src_hadith_tirmidhi",
+    "type": "hadith",
+    "title": "Ǧāmiʿ at-Tirmiḏī",
+    "author": "at-Tirmiḏī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassische Hadithsammlung; Originalwerk gemeinfrei. Konkrete Hadithnummern und Wortlaute müssen editionsbezogen geprüft werden."
+  },
+  {
+    "id": "src_hadith_nasai",
+    "type": "hadith",
+    "title": "Sunan an-Nasāʾī",
+    "author": "an-Nasāʾī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassische Hadithsammlung; Originalwerk gemeinfrei. Konkrete Hadithnummern und Wortlaute müssen editionsbezogen geprüft werden."
+  },
+  {
+    "id": "src_hadith_ibn_majah",
+    "type": "hadith",
+    "title": "Sunan Ibn Māǧa",
+    "author": "Ibn Māǧa",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassische Hadithsammlung; Originalwerk gemeinfrei. Konkrete Hadithnummern und Wortlaute müssen editionsbezogen geprüft werden."
+  },
+  {
+    "id": "src_usul_hadith_kifaya",
+    "type": "usul_work",
+    "title": "al-Kifāya fī ʿIlm ar-Riwāya",
+    "author": "al-Ḫaṭīb al-Baġdādī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Originalwerk zur Hadithmethodik; keine moderne Übersetzung/Edition kopiert."
+  },
+  {
+    "id": "src_usul_hadith_tadrib",
+    "type": "usul_work",
+    "title": "Tadrīb ar-Rāwī",
+    "author": "Ǧalāl ad-Dīn as-Suyūṭī",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "edition_pending",
+    "notes": "Klassisches Originalwerk zur Hadithterminologie; keine moderne Übersetzung/Edition kopiert."
+  },
+  {
+    "id": "src_tafsir_rassoul_de",
+    "type": "commentary",
+    "title": "Tafsir Al-Qurʾan Al-Karim - deutsche Erlaeuterung",
+    "author": "Abu-r-Rida Muhammad Ibn Ahmad Ibn Rassoul",
+    "language": "de",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "verified",
+    "notes": "41. verbesserte und erweiterte Auflage. Das Werk gestattet Vervielfaeltigung, Nachdruck und Uebersetzung bei Quellenangabe. Fuer die App wird die strukturierte JSON-Konvertierung aus Mylinde/Tafsir bezogen; Attribution bleibt erhalten."
+  },
+  {
+    "id": "src_quran_foundation_wbw_de",
+    "type": "linguistic_corpus",
+    "title": "Quran Foundation Content API - deutsche Wortuebersetzungen",
+    "author": "Quran Foundation",
+    "language": "de",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "verified",
+    "notes": "Lokaler, credential-basierter Wort-fuer-Wort-Sync. Das Source-Paket redistribuiert keine API-Rohdaten; die App fuehrt lokal synchronisierte Wortglossen nur als Overlay ueber den stabilen Quran-Token-IDs zusammen."
+  },
+  {
+    "id": "src_quran_audio_quranlab_reference",
+    "type": "audio_reference",
+    "title": "QuranLab Quran Audio - Referenzmanifest",
+    "author": "QuranLab; Audio: jeweilige Rezitatoren und Produzenten",
+    "language": "ar",
+    "reviewStatus": "referenced",
+    "bibliographicStatus": "verified",
+    "notes": "QuranLab hostet keine Audio-Bytes. Verwendet werden externe audio_url-Referenzen; die Aufnahmen verbleiben im Rechtebereich der jeweiligen Rezitatoren/Produzenten. Die App streamt nur von der Originalquelle."
+  }
+]

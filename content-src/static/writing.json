@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "single_ba",
+    "title": "Bā nachschreiben",
+    "description": "Schreibe den Einzelbuchstaben exakt nach.",
+    "targetVocalized": "ب",
+    "targetUnvocalized": "ب",
+    "order": 1,
+    "level": 1,
+    "type": "copy",
+    "hints": [
+      "Beginne rechts.",
+      "Achte auf den Punkt unter der Grundform."
+    ],
+    "forms": [
+      "ب",
+      "بـ",
+      "ـبـ",
+      "ـب"
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Schreibe den Einzelbuchstaben exakt nach.",
+      "Eine Vorlage nachfahren und anschließend frei schreiben."
+    ],
+    "reviewTags": [
+      "writing",
+      "copy",
+      "tracing",
+      "fusha",
+      "a0"
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Beobachten",
+        "instruction": "Startpunkt rechts an der Grundlinie finden."
+      },
+      {
+        "step": 2,
+        "title": "Grundform schreiben",
+        "instruction": "Die Schalenform ruhig nach links führen."
+      },
+      {
+        "step": 3,
+        "title": "Kontrollieren",
+        "instruction": "Den Punkt erst nach der Grundform setzen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "بَابٌ",
+        "arabicUnvocalized": "باب",
+        "german": "Tür"
+      },
+      {
+        "arabicVocalized": "بَيْتٌ",
+        "arabicUnvocalized": "بيت",
+        "german": "Haus"
+      },
+      {
+        "arabicVocalized": "كِتَابٌ",
+        "arabicUnvocalized": "كتاب",
+        "german": "Buch"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "هٰذَا بَابٌ",
+      "arabicUnvocalized": "هذا باب",
+      "german": "Das ist eine Tür."
+    },
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0",
+    "prompt": "Schreibe den Einzelbuchstaben exakt nach.",
+    "expectedAnswer": "ب",
+    "taskType": "letter"
+  },
+  {
+    "id": "single_mim",
+    "title": "Mīm nachschreiben",
+    "description": "Übe die runde Form des Mīm.",
+    "targetVocalized": "م",
+    "targetUnvocalized": "م",
+    "order": 2,
+    "level": 1,
+    "type": "forms",
+    "hints": [
+      "Vergleiche isolierte und verbundene Form."
+    ],
+    "forms": [
+      "م",
+      "مـ",
+      "ـمـ",
+      "ـم"
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Übe die runde Form des Mīm.",
+      "Eine Vorlage nachfahren und anschließend frei schreiben."
+    ],
+    "reviewTags": [
+      "writing",
+      "forms",
+      "tracing",
+      "fusha",
+      "a0"
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Beobachten",
+        "instruction": "Die kleine runde Kopfform zuerst beobachten."
+      },
+      {
+        "step": 2,
+        "title": "Grundform schreiben",
+        "instruction": "Die Verbindung auf der Grundlinie nach links weiterführen."
+      },
+      {
+        "step": 3,
+        "title": "Kontrollieren",
+        "instruction": "Bei der isolierten Form den Abstrich ruhig beenden."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "مَاءٌ",
+        "arabicUnvocalized": "ماء",
+        "german": "Wasser"
+      },
+      {
+        "arabicVocalized": "مَدْرَسَةٌ",
+        "arabicUnvocalized": "مدرسة",
+        "german": "Schule"
+      },
+      {
+        "arabicVocalized": "مُعَلِّمٌ",
+        "arabicUnvocalized": "معلم",
+        "german": "Lehrer"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "هٰذَا مُعَلِّمٌ",
+      "arabicUnvocalized": "هذا معلم",
+      "german": "Das ist ein Lehrer."
+    },
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0",
+    "prompt": "Übe die runde Form des Mīm.",
+    "expectedAnswer": "م",
+    "taskType": "letter"
+  },
+  {
+    "id": "forms_ayn",
+    "title": "ʿAin in vier Positionen",
+    "description": "Erkenne und schreibe die Formen des ʿAin.",
+    "targetVocalized": "ع",
+    "targetUnvocalized": "ع",
+    "order": 3,
+    "level": 1,
+    "type": "forms",
+    "hints": [
+      "Die Mittel- und Endform hängen an der Grundlinie."
+    ],
+    "forms": [
+      "ع",
+      "عـ",
+      "ـعـ",
+      "ـع"
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Erkenne und schreibe die Formen des ʿAin.",
+      "Eine Vorlage nachfahren und anschließend frei schreiben."
+    ],
+    "reviewTags": [
+      "writing",
+      "forms",
+      "tracing",
+      "fusha",
+      "a0"
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Beobachten",
+        "instruction": "Die offene Kopfform des ʿAin erkennen."
+      },
+      {
+        "step": 2,
+        "title": "Grundform schreiben",
+        "instruction": "Je nach Position die Verbindung rechts und/oder links ergänzen."
+      },
+      {
+        "step": 3,
+        "title": "Kontrollieren",
+        "instruction": "Den unteren Bogen nicht mit ح verwechseln."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "عَيْنٌ",
+        "arabicUnvocalized": "عين",
+        "german": "Auge"
+      },
+      {
+        "arabicVocalized": "عَرَبِيٌّ",
+        "arabicUnvocalized": "عربي",
+        "german": "arabisch"
+      },
+      {
+        "arabicVocalized": "مَعَ",
+        "arabicUnvocalized": "مع",
+        "german": "mit"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "هٰذِهِ عَيْنٌ",
+      "arabicUnvocalized": "هذه عين",
+      "german": "Das ist ein Auge."
+    },
+    "arabicVariety": "fusha",
+    "cefrLevel": "A0",
+    "prompt": "Erkenne und schreibe die Formen des ʿAin.",
+    "expectedAnswer": "ع",
+    "taskType": "letter"
+  },
+  {
+    "id": "word_bab",
+    "title": "Wort: Tür",
+    "description": "Schreibe بَابٌ mit oder ohne Vokalisierung.",
+    "targetVocalized": "بَابٌ",
+    "targetUnvocalized": "باب",
+    "order": 4,
+    "level": 2,
+    "type": "copy",
+    "hints": [
+      "Bā – Alif – Bā."
+    ],
+    "pieces": [
+      "ب",
+      "ا",
+      "ب"
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Schreibe بَابٌ mit oder ohne Vokalisierung.",
+      "Eine Vorlage nachfahren und anschließend frei schreiben."
+    ],
+    "reviewTags": [
+      "writing",
+      "copy",
+      "tracing",
+      "fusha",
+      "a1"
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Beobachten",
+        "instruction": "Mit ب rechts beginnen."
+      },
+      {
+        "step": 2,
+        "title": "Grundform schreiben",
+        "instruction": "Alif als langen Aufstrich anschließen."
+      },
+      {
+        "step": 3,
+        "title": "Kontrollieren",
+        "instruction": "Das letzte ب beenden und beide Punkte zuletzt setzen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "بَابٌ",
+        "arabicUnvocalized": "باب",
+        "german": "Tür"
+      },
+      {
+        "arabicVocalized": "بَيْتٌ",
+        "arabicUnvocalized": "بيت",
+        "german": "Haus"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "هٰذَا بَابٌ.",
+      "arabicUnvocalized": "هذا باب.",
+      "german": "Das ist eine Tür."
+    },
+    "arabicVariety": "fusha",
+    "cefrLevel": "A1",
+    "prompt": "Schreibe بَابٌ mit oder ohne Vokalisierung.",
+    "expectedAnswer": "باب",
+    "taskType": "word"
+  },
+  {
+    "id": "word_kitab",
+    "title": "Wort: Buch",
+    "description": "Setze die Buchstaben von كِتَابٌ zusammen.",
+    "targetVocalized": "كِتَابٌ",
+    "targetUnvocalized": "كتاب",
+    "order": 5,
+    "level": 2,
+    "type": "assemble",
+    "hints": [
+      "Kāf – Tā – Alif – Bā."
+    ],
+    "pieces": [
+      "ك",
+      "ت",
+      "ا",
+      "ب"
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Setze die Buchstaben von كِتَابٌ zusammen.",
+      "Eine Vorlage nachfahren und anschließend frei schreiben."
+    ],
+    "reviewTags": [
+      "writing",
+      "assemble",
+      "tracing",
+      "fusha",
+      "a1"
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Beobachten",
+        "instruction": "ك rechts beginnen und die Verbindung offenhalten."
+      },
+      {
+        "step": 2,
+        "title": "Grundform schreiben",
+        "instruction": "ت anschließen und danach Alif setzen."
+      },
+      {
+        "step": 3,
+        "title": "Kontrollieren",
+        "instruction": "Mit ب abschließen; Punkte nach der Grundform ergänzen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "كِتَابٌ",
+        "arabicUnvocalized": "كتاب",
+        "german": "Buch"
+      },
+      {
+        "arabicVocalized": "كَاتِبٌ",
+        "arabicUnvocalized": "كاتب",
+        "german": "Schreiber"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "هٰذَا كِتَابٌ.",
+      "arabicUnvocalized": "هذا كتاب.",
+      "german": "Das ist ein Buch."
+    },
+    "arabicVariety": "fusha",
+    "cefrLevel": "A1",
+    "prompt": "Setze die Buchstaben von كِتَابٌ zusammen.",
+    "expectedAnswer": "كتاب",
+    "taskType": "word"
+  },
+  {
+    "id": "word_madrasah",
+    "title": "Wort: Schule",
+    "description": "Schreibe مَدْرَسَةٌ und achte auf Tāʾ marbūṭa.",
+    "targetVocalized": "مَدْرَسَةٌ",
+    "targetUnvocalized": "مدرسة",
+    "order": 6,
+    "level": 2,
+    "type": "copy",
+    "hints": [
+      "Das Wort endet mit ة."
+    ],
+    "pieces": [
+      "م",
+      "د",
+      "ر",
+      "س",
+      "ة"
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Schreibe مَدْرَسَةٌ und achte auf Tāʾ marbūṭa.",
+      "Eine Vorlage nachfahren und anschließend frei schreiben."
+    ],
+    "reviewTags": [
+      "writing",
+      "copy",
+      "tracing",
+      "fusha",
+      "a1"
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Beobachten",
+        "instruction": "م rechts beginnen und die Buchstaben auf einer Grundlinie verbinden."
+      },
+      {
+        "step": 2,
+        "title": "Grundform schreiben",
+        "instruction": "Bei د die Verbindung unterbrechen und mit ر neu ansetzen."
+      },
+      {
+        "step": 3,
+        "title": "Kontrollieren",
+        "instruction": "Mit ة abschließen; Punkte und Harakat zuletzt ergänzen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "مَدْرَسَةٌ",
+        "arabicUnvocalized": "مدرسة",
+        "german": "Schule"
+      },
+      {
+        "arabicVocalized": "مُدَرِّسٌ",
+        "arabicUnvocalized": "مدرس",
+        "german": "Lehrer"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "هٰذِهِ مَدْرَسَةٌ.",
+      "arabicUnvocalized": "هذه مدرسة.",
+      "german": "Das ist eine Schule."
+    },
+    "arabicVariety": "fusha",
+    "cefrLevel": "A1",
+    "prompt": "Schreibe مَدْرَسَةٌ und achte auf Tāʾ marbūṭa.",
+    "expectedAnswer": "مدرسة",
+    "taskType": "word"
+  },
+  {
+    "id": "sentence_ana_talib",
+    "title": "Kurzer Satz",
+    "description": "Schreibe: Ich bin Schüler.",
+    "targetVocalized": "أَنَا طَالِبٌ",
+    "targetUnvocalized": "أنا طالب",
+    "order": 7,
+    "level": 3,
+    "type": "free",
+    "hints": [
+      "Pronomen zuerst, dann Nomen."
+    ],
+    "pieces": [
+      "أنا",
+      "طالب"
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Schreibe: Ich bin Schüler.",
+      "Eine Vorlage nachfahren und anschließend frei schreiben."
+    ],
+    "reviewTags": [
+      "writing",
+      "free",
+      "tracing",
+      "fusha",
+      "a2"
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Beobachten",
+        "instruction": "أَنَا rechts als erstes Wort schreiben."
+      },
+      {
+        "step": 2,
+        "title": "Grundform schreiben",
+        "instruction": "Einen klaren Wortabstand lassen."
+      },
+      {
+        "step": 3,
+        "title": "Kontrollieren",
+        "instruction": "طَالِبٌ schreiben und die Punkte zuletzt kontrollieren."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "أَنَا",
+        "arabicUnvocalized": "أنا",
+        "german": "ich"
+      },
+      {
+        "arabicVocalized": "طَالِبٌ",
+        "arabicUnvocalized": "طالب",
+        "german": "Schüler"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "أَنَا طَالِبٌ.",
+      "arabicUnvocalized": "أنا طالب.",
+      "german": "Ich bin Schüler."
+    },
+    "arabicVariety": "fusha",
+    "cefrLevel": "A2",
+    "prompt": "Schreibe: Ich bin Schüler.",
+    "expectedAnswer": "أنا طالب",
+    "taskType": "free_text"
+  },
+  {
+    "id": "sentence_house_big",
+    "title": "Nominalsatz schreiben",
+    "description": "Schreibe: Das Haus ist groß.",
+    "targetVocalized": "اَلْبَيْتُ كَبِيرٌ",
+    "targetUnvocalized": "البيت كبير",
+    "order": 8,
+    "level": 3,
+    "type": "free",
+    "hints": [
+      "Bestimmtes Subjekt, unbestimmtes Prädikat."
+    ],
+    "pieces": [
+      "البيت",
+      "كبير"
+    ],
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Schreibe: Das Haus ist groß.",
+      "Eine Vorlage nachfahren und anschließend frei schreiben."
+    ],
+    "reviewTags": [
+      "writing",
+      "free",
+      "tracing",
+      "fusha",
+      "a2"
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Beobachten",
+        "instruction": "اَلْبَيْتُ als bestimmtes Nomen rechts schreiben."
+      },
+      {
+        "step": 2,
+        "title": "Grundform schreiben",
+        "instruction": "Einen Wortabstand lassen."
+      },
+      {
+        "step": 3,
+        "title": "Kontrollieren",
+        "instruction": "كَبِيرٌ als Prädikat links ergänzen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "اَلْبَيْتُ",
+        "arabicUnvocalized": "البيت",
+        "german": "das Haus"
+      },
+      {
+        "arabicVocalized": "كَبِيرٌ",
+        "arabicUnvocalized": "كبير",
+        "german": "groß"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "اَلْبَيْتُ كَبِيرٌ.",
+      "arabicUnvocalized": "البيت كبير.",
+      "german": "Das Haus ist groß."
+    },
+    "arabicVariety": "fusha",
+    "cefrLevel": "A2",
+    "prompt": "Schreibe: Das Haus ist groß.",
+    "expectedAnswer": "البيت كبير",
+    "taskType": "free_text"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "paragraph_self_intro",
+    "title": "Absatz: Sich vorstellen",
+    "description": "Einen zusammenhängenden Absatz über die eigene Person schreiben.",
+    "targetVocalized": "أَنَا طَالِبٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ.",
+    "targetUnvocalized": "أَنَا طَالِبٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ.",
+    "order": 9,
+    "level": 2,
+    "type": "free",
+    "hints": [
+      "Nutze Personalpronomen und Nominalsätze.",
+      "Verbinde Sätze mit وَ."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Textziel und passende Fusha-Strukturen festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Text von rechts nach links formulieren und Satzverknüpfungen prüfen."
+      },
+      {
+        "step": 3,
+        "title": "Überarbeiten",
+        "instruction": "Kongruenz, Verbformen, Kasus und Zeichensetzung kontrollieren."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "اِسْمٌ",
+        "arabicUnvocalized": "اِسْمٌ",
+        "german": "Name"
+      },
+      {
+        "arabicVocalized": "بَلَدٌ",
+        "arabicUnvocalized": "بَلَدٌ",
+        "german": "Land"
+      },
+      {
+        "arabicVocalized": "لُغَةٌ",
+        "arabicUnvocalized": "لُغَةٌ",
+        "german": "Sprache"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "اِسْمِي أَحْمَدُ وَأَنَا طَالِبٌ.",
+      "arabicUnvocalized": "اِسْمِي أَحْمَدُ وَأَنَا طَالِبٌ.",
+      "german": "Ich heiße Ahmad und bin Student."
+    },
+    "learningObjectives": [
+      "Einen zusammenhängenden Absatz über die eigene Person schreiben.",
+      "Einen eigenen standardsprachlichen Fusha-Text verfassen und überarbeiten."
+    ],
+    "reviewTags": [
+      "writing",
+      "fusha",
+      "a1",
+      "free"
+    ],
+    "cefrLevel": "A1",
+    "prompt": "Einen zusammenhängenden Absatz über die eigene Person schreiben.",
+    "expectedAnswer": "أَنَا طَالِبٌ وَأَتَعَلَّمُ الْعَرَبِيَّةَ.",
+    "taskType": "free_text"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "email_formal",
+    "title": "Formelle E-Mail",
+    "description": "Eine kurze formelle Nachricht in Fusha verfassen.",
+    "targetVocalized": "السَّيِّدُ الْمُحْتَرَمُ،",
+    "targetUnvocalized": "السَّيِّدُ الْمُحْتَرَمُ،",
+    "order": 10,
+    "level": 3,
+    "type": "free",
+    "hints": [
+      "Beginne mit einer respektvollen Anrede.",
+      "Formuliere Bitte und Abschluss klar."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Textziel und passende Fusha-Strukturen festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Text von rechts nach links formulieren und Satzverknüpfungen prüfen."
+      },
+      {
+        "step": 3,
+        "title": "Überarbeiten",
+        "instruction": "Kongruenz, Verbformen, Kasus und Zeichensetzung kontrollieren."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "مَوْضُوعٌ",
+        "arabicUnvocalized": "مَوْضُوعٌ",
+        "german": "Betreff"
+      },
+      {
+        "arabicVocalized": "طَلَبٌ",
+        "arabicUnvocalized": "طَلَبٌ",
+        "german": "Anfrage"
+      },
+      {
+        "arabicVocalized": "تَحِيَّةٌ",
+        "arabicUnvocalized": "تَحِيَّةٌ",
+        "german": "Gruß"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "أَرْجُو إِرْسَالَ الْمَعْلُومَاتِ.",
+      "arabicUnvocalized": "أَرْجُو إِرْسَالَ الْمَعْلُومَاتِ.",
+      "german": "Ich bitte um Zusendung der Informationen."
+    },
+    "learningObjectives": [
+      "Eine kurze formelle Nachricht in Fusha verfassen.",
+      "Einen eigenen standardsprachlichen Fusha-Text verfassen und überarbeiten."
+    ],
+    "reviewTags": [
+      "writing",
+      "fusha",
+      "a2",
+      "free"
+    ],
+    "cefrLevel": "A2",
+    "prompt": "Eine kurze formelle Nachricht in Fusha verfassen.",
+    "expectedAnswer": "السَّيِّدُ الْمُحْتَرَمُ،",
+    "taskType": "free_text"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "narrative_past",
+    "title": "Erzählung in der Vergangenheit",
+    "description": "Ein kurzes Erlebnis im Perfekt chronologisch erzählen.",
+    "targetVocalized": "ذَهَبْتُ إِلَى الْمَدِينَةِ ثُمَّ رَجَعْتُ.",
+    "targetUnvocalized": "ذَهَبْتُ إِلَى الْمَدِينَةِ ثُمَّ رَجَعْتُ.",
+    "order": 11,
+    "level": 4,
+    "type": "free",
+    "hints": [
+      "Nutze Perfektformen konsequent.",
+      "Verwende ثُمَّ und بَعْدَ ذٰلِكَ."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Textziel und passende Fusha-Strukturen festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Text von rechts nach links formulieren und Satzverknüpfungen prüfen."
+      },
+      {
+        "step": 3,
+        "title": "Überarbeiten",
+        "instruction": "Kongruenz, Verbformen, Kasus und Zeichensetzung kontrollieren."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "بَدَأَ",
+        "arabicUnvocalized": "بَدَأَ",
+        "german": "beginnen"
+      },
+      {
+        "arabicVocalized": "حَدَثَ",
+        "arabicUnvocalized": "حَدَثَ",
+        "german": "geschehen"
+      },
+      {
+        "arabicVocalized": "اِنْتَهَى",
+        "arabicUnvocalized": "اِنْتَهَى",
+        "german": "enden"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "فِي الصَّبَاحِ ذَهَبْتُ إِلَى الْعَمَلِ.",
+      "arabicUnvocalized": "فِي الصَّبَاحِ ذَهَبْتُ إِلَى الْعَمَلِ.",
+      "german": "Am Morgen ging ich zur Arbeit."
+    },
+    "learningObjectives": [
+      "Ein kurzes Erlebnis im Perfekt chronologisch erzählen.",
+      "Einen eigenen standardsprachlichen Fusha-Text verfassen und überarbeiten."
+    ],
+    "reviewTags": [
+      "writing",
+      "fusha",
+      "b1",
+      "free"
+    ],
+    "cefrLevel": "B1",
+    "prompt": "Ein kurzes Erlebnis im Perfekt chronologisch erzählen.",
+    "expectedAnswer": "ذَهَبْتُ إِلَى الْمَدِينَةِ ثُمَّ رَجَعْتُ.",
+    "taskType": "free_text"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "argument_paragraph",
+    "title": "Argumentativer Absatz",
+    "description": "Eine Position mit Begründung, Beispiel und Schluss formulieren.",
+    "targetVocalized": "فِي رَأْيِي، التَّعَلُّمُ الْمُسْتَمِرُ ضَرُورِيٌّ.",
+    "targetUnvocalized": "فِي رَأْيِي، التَّعَلُّمُ الْمُسْتَمِرُ ضَرُورِيٌّ.",
+    "order": 12,
+    "level": 5,
+    "type": "free",
+    "hints": [
+      "Beginne mit einer klaren These.",
+      "Nutze لِأَنَّ، مَثَلًا und لِذٰلِكَ."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Textziel und passende Fusha-Strukturen festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Text von rechts nach links formulieren und Satzverknüpfungen prüfen."
+      },
+      {
+        "step": 3,
+        "title": "Überarbeiten",
+        "instruction": "Kongruenz, Verbformen, Kasus und Zeichensetzung kontrollieren."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "رَأْيٌ",
+        "arabicUnvocalized": "رَأْيٌ",
+        "german": "Meinung"
+      },
+      {
+        "arabicVocalized": "حُجَّةٌ",
+        "arabicUnvocalized": "حُجَّةٌ",
+        "german": "Argument"
+      },
+      {
+        "arabicVocalized": "نَتِيجَةٌ",
+        "arabicUnvocalized": "نَتِيجَةٌ",
+        "german": "Ergebnis"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "لِأَنَّ الْمَعْرِفَةَ تَتَغَيَّرُ، فَالتَّعَلُّمُ ضَرُورِيٌّ.",
+      "arabicUnvocalized": "لِأَنَّ الْمَعْرِفَةَ تَتَغَيَّرُ، فَالتَّعَلُّمُ ضَرُورِيٌّ.",
+      "german": "Weil Wissen sich verändert, ist Lernen notwendig."
+    },
+    "learningObjectives": [
+      "Eine Position mit Begründung, Beispiel und Schluss formulieren.",
+      "Einen eigenen standardsprachlichen Fusha-Text verfassen und überarbeiten."
+    ],
+    "reviewTags": [
+      "writing",
+      "fusha",
+      "b2",
+      "free"
+    ],
+    "cefrLevel": "B2",
+    "prompt": "Eine Position mit Begründung, Beispiel und Schluss formulieren.",
+    "expectedAnswer": "فِي رَأْيِي، التَّعَلُّمُ الْمُسْتَمِرُ ضَرُورِيٌّ.",
+    "taskType": "free_text"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "academic_summary",
+    "title": "Akademische Zusammenfassung",
+    "description": "Kernaussagen eines Sachtexts präzise und neutral zusammenfassen.",
+    "targetVocalized": "يَتَنَاوَلُ النَّصُ مَوْضُوعَ التَّعْلِيمِ.",
+    "targetUnvocalized": "يَتَنَاوَلُ النَّصُ مَوْضُوعَ التَّعْلِيمِ.",
+    "order": 13,
+    "level": 6,
+    "type": "free",
+    "hints": [
+      "Vermeide persönliche Wertungen.",
+      "Verdichte Informationen mit Maṣdar- und Iḍāfa-Strukturen."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Textziel und passende Fusha-Strukturen festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Text von rechts nach links formulieren und Satzverknüpfungen prüfen."
+      },
+      {
+        "step": 3,
+        "title": "Überarbeiten",
+        "instruction": "Kongruenz, Verbformen, Kasus und Zeichensetzung kontrollieren."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "مَفْهُومٌ",
+        "arabicUnvocalized": "مَفْهُومٌ",
+        "german": "Konzept"
+      },
+      {
+        "arabicVocalized": "مَنْهَجٌ",
+        "arabicUnvocalized": "مَنْهَجٌ",
+        "german": "Methode"
+      },
+      {
+        "arabicVocalized": "نَتِيجَةٌ",
+        "arabicUnvocalized": "نَتِيجَةٌ",
+        "german": "Ergebnis"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "يَخْلُصُ الْبَحْثُ إِلَى أَنَّ الطَّرِيقَةَ فَعَّالَةٌ.",
+      "arabicUnvocalized": "يَخْلُصُ الْبَحْثُ إِلَى أَنَّ الطَّرِيقَةَ فَعَّالَةٌ.",
+      "german": "Die Forschung kommt zu dem Schluss, dass die Methode wirksam ist."
+    },
+    "learningObjectives": [
+      "Kernaussagen eines Sachtexts präzise und neutral zusammenfassen.",
+      "Einen eigenen standardsprachlichen Fusha-Text verfassen und überarbeiten."
+    ],
+    "reviewTags": [
+      "writing",
+      "fusha",
+      "c1",
+      "free"
+    ],
+    "cefrLevel": "C1",
+    "prompt": "Kernaussagen eines Sachtexts präzise und neutral zusammenfassen.",
+    "expectedAnswer": "يَتَنَاوَلُ النَّصُ مَوْضُوعَ التَّعْلِيمِ.",
+    "taskType": "free_text"
+  },
+  {
+    "contentVersion": "0.8.0",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "arabicVariety": "fusha",
+    "id": "stylistic_rewrite",
+    "title": "Stilistische Umformung",
+    "description": "Einen neutralen Text in formelles oder literarisches Fusha übertragen.",
+    "targetVocalized": "يُمْكِنُ الْقَوْلُ إِنَّ النَّتَائِجَ مُهِمَّةٌ.",
+    "targetUnvocalized": "يُمْكِنُ الْقَوْلُ إِنَّ النَّتَائِجَ مُهِمَّةٌ.",
+    "order": 14,
+    "level": 7,
+    "type": "free",
+    "hints": [
+      "Achte auf Register, Rhythmus und Informationsstruktur.",
+      "Begründe jede stilistische Änderung."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Textziel und passende Fusha-Strukturen festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Text von rechts nach links formulieren und Satzverknüpfungen prüfen."
+      },
+      {
+        "step": 3,
+        "title": "Überarbeiten",
+        "instruction": "Kongruenz, Verbformen, Kasus und Zeichensetzung kontrollieren."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "بَلَاغَةٌ",
+        "arabicUnvocalized": "بَلَاغَةٌ",
+        "german": "Rhetorik"
+      },
+      {
+        "arabicVocalized": "تَمَاسُكٌ",
+        "arabicUnvocalized": "تَمَاسُكٌ",
+        "german": "Kohärenz"
+      },
+      {
+        "arabicVocalized": "إِيحَاءٌ",
+        "arabicUnvocalized": "إِيحَاءٌ",
+        "german": "Konnotation"
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "لَيْسَتِ الْكَلِمَاتُ أَلْفَاظًا فَحَسْبُ، بَلْ جُسُورًا إِلَى الْمَعْنَى.",
+      "arabicUnvocalized": "لَيْسَتِ الْكَلِمَاتُ أَلْفَاظًا فَحَسْبُ، بَلْ جُسُورًا إِلَى الْمَعْنَى.",
+      "german": "Wörter sind nicht bloß Laute, sondern Brücken zur Bedeutung."
+    },
+    "learningObjectives": [
+      "Einen neutralen Text in formelles oder literarisches Fusha übertragen.",
+      "Einen eigenen standardsprachlichen Fusha-Text verfassen und überarbeiten."
+    ],
+    "reviewTags": [
+      "writing",
+      "fusha",
+      "c2",
+      "free"
+    ],
+    "cefrLevel": "C2",
+    "prompt": "Einen neutralen Text in formelles oder literarisches Fusha übertragen.",
+    "expectedAnswer": "يُمْكِنُ الْقَوْلُ إِنَّ النَّتَائِجَ مُهِمَّةٌ.",
+    "taskType": "free_text"
+  },
+  {
+    "id": "request_message",
+    "title": "Kurze Bitte formulieren",
+    "description": "Formuliere eine kurze höfliche Bitte mit klarem Anliegen.",
+    "targetVocalized": "مِنْ فَضْلِكَ، أَرْسِلِ الْمَعْلُومَاتِ غَدًا.",
+    "targetUnvocalized": "من فضلك، أرسل المعلومات غدًا.",
+    "prompt": "Formuliere eine kurze höfliche Bitte mit klarem Anliegen.",
+    "expectedAnswer": "من فضلك، أرسل المعلومات غدًا.",
+    "taskType": "sentence",
+    "order": 915,
+    "level": 3,
+    "type": "copy",
+    "hints": [
+      "Plane zuerst die Aussage, dann die sprachliche Form.",
+      "Kontrolliere Wortstellung, Kongruenz und Orthografie."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Ziel und Schlüsselwörter festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Ausdruck oder Satz vollständig formulieren."
+      },
+      {
+        "step": 3,
+        "title": "Prüfen",
+        "instruction": "Orthografie und Grammatik mit dem Ziel vergleichen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "مِنْ فَضْلِكَ، أَرْسِلِ الْمَعْلُومَاتِ غَدًا.",
+        "arabicUnvocalized": "من فضلك، أرسل المعلومات غدًا.",
+        "german": "Bitte senden Sie die Informationen morgen."
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "مِنْ فَضْلِكَ، أَرْسِلِ الْمَعْلُومَاتِ غَدًا.",
+      "arabicUnvocalized": "من فضلك، أرسل المعلومات غدًا.",
+      "german": "Bitte senden Sie die Informationen morgen."
+    },
+    "cefrLevel": "A2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Formuliere eine kurze höfliche Bitte mit klarem Anliegen."
+    ],
+    "reviewTags": [
+      "writing",
+      "a2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "work_update",
+    "title": "Arbeitsstand berichten",
+    "description": "Formuliere einen kurzen sachlichen Arbeitsstand mit nächstem Schritt.",
+    "targetVocalized": "أَنْهَيْنَا الْجُزْءَ الْأَوَّلَ وَسَنَبْدَأُ الْمَرْحَلَةَ التَّالِيَةَ غَدًا.",
+    "targetUnvocalized": "أنهينا الجزء الأول وسنبدأ المرحلة التالية غدًا.",
+    "prompt": "Formuliere einen kurzen sachlichen Arbeitsstand mit nächstem Schritt.",
+    "expectedAnswer": "أنهينا الجزء الأول وسنبدأ المرحلة التالية غدًا.",
+    "taskType": "sentence",
+    "order": 911,
+    "level": 4,
+    "type": "copy",
+    "hints": [
+      "Plane zuerst die Aussage, dann die sprachliche Form.",
+      "Kontrolliere Wortstellung, Kongruenz und Orthografie."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Ziel und Schlüsselwörter festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Ausdruck oder Satz vollständig formulieren."
+      },
+      {
+        "step": 3,
+        "title": "Prüfen",
+        "instruction": "Orthografie und Grammatik mit dem Ziel vergleichen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "أَنْهَيْنَا الْجُزْءَ الْأَوَّلَ وَسَنَبْدَأُ الْمَرْحَلَةَ التَّالِيَةَ غَدًا.",
+        "arabicUnvocalized": "أنهينا الجزء الأول وسنبدأ المرحلة التالية غدًا.",
+        "german": "Wir haben den ersten Teil abgeschlossen und beginnen morgen die nächste Phase."
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "أَنْهَيْنَا الْجُزْءَ الْأَوَّلَ وَسَنَبْدَأُ الْمَرْحَلَةَ التَّالِيَةَ غَدًا.",
+      "arabicUnvocalized": "أنهينا الجزء الأول وسنبدأ المرحلة التالية غدًا.",
+      "german": "Wir haben den ersten Teil abgeschlossen und beginnen morgen die nächste Phase."
+    },
+    "cefrLevel": "B1",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Formuliere einen kurzen sachlichen Arbeitsstand mit nächstem Schritt."
+    ],
+    "reviewTags": [
+      "writing",
+      "b1",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "formal_report",
+    "title": "Formellen Kurzbericht schreiben",
+    "description": "Formuliere Ergebnis, Begründung und Konsequenz in einem formellen Kurzbericht.",
+    "targetVocalized": "تُشِيرُ النَّتَائِجُ إِلَى تَحَسُّنٍ وَاضِحٍ، وَلِذٰلِكَ نُوصِي بِاسْتِمْرَارِ الْخُطَّةِ.",
+    "targetUnvocalized": "تشير النتائج إلى تحسنٍ واضحٍ، ولذٰلك نوصي باستمرار الخطة.",
+    "prompt": "Formuliere Ergebnis, Begründung und Konsequenz in einem formellen Kurzbericht.",
+    "expectedAnswer": "تشير النتائج إلى تحسنٍ واضحٍ، ولذٰلك نوصي باستمرار الخطة.",
+    "taskType": "free_text",
+    "order": 913,
+    "level": 5,
+    "type": "free",
+    "hints": [
+      "Plane zuerst die Aussage, dann die sprachliche Form.",
+      "Kontrolliere Wortstellung, Kongruenz und Orthografie."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Ziel und Schlüsselwörter festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Ausdruck oder Satz vollständig formulieren."
+      },
+      {
+        "step": 3,
+        "title": "Prüfen",
+        "instruction": "Orthografie und Grammatik mit dem Ziel vergleichen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "تُشِيرُ النَّتَائِجُ إِلَى تَحَسُّنٍ وَاضِحٍ، وَلِذٰلِكَ نُوصِي بِاسْتِمْرَارِ الْخُطَّةِ.",
+        "arabicUnvocalized": "تشير النتائج إلى تحسنٍ واضحٍ، ولذٰلك نوصي باستمرار الخطة.",
+        "german": "Die Ergebnisse weisen auf eine deutliche Verbesserung hin; daher empfehlen wir die Fortsetzung des Plans."
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "تُشِيرُ النَّتَائِجُ إِلَى تَحَسُّنٍ وَاضِحٍ، وَلِذٰلِكَ نُوصِي بِاسْتِمْرَارِ الْخُطَّةِ.",
+      "arabicUnvocalized": "تشير النتائج إلى تحسنٍ واضحٍ، ولذٰلك نوصي باستمرار الخطة.",
+      "german": "Die Ergebnisse weisen auf eine deutliche Verbesserung hin; daher empfehlen wir die Fortsetzung des Plans."
+    },
+    "cefrLevel": "B2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Formuliere Ergebnis, Begründung und Konsequenz in einem formellen Kurzbericht."
+    ],
+    "reviewTags": [
+      "writing",
+      "b2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "research_argument",
+    "title": "Akademisches Argument formulieren",
+    "description": "Formuliere eine vorsichtige akademische Behauptung mit Beleg und Einschränkung.",
+    "targetVocalized": "تَدْعَمُ الْبَيَانَاتُ هٰذَا التَّفْسِيرَ، مَعَ ضَرُورَةِ مُرَاعَاةِ حُدُودِ الْعَيِّنَةِ.",
+    "targetUnvocalized": "تدعم البيانات هٰذا التفسير، مع ضرورة مراعاة حدود العينة.",
+    "prompt": "Formuliere eine vorsichtige akademische Behauptung mit Beleg und Einschränkung.",
+    "expectedAnswer": "تدعم البيانات هٰذا التفسير، مع ضرورة مراعاة حدود العينة.",
+    "taskType": "free_text",
+    "order": 917,
+    "level": 6,
+    "type": "free",
+    "hints": [
+      "Plane zuerst die Aussage, dann die sprachliche Form.",
+      "Kontrolliere Wortstellung, Kongruenz und Orthografie."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Ziel und Schlüsselwörter festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Ausdruck oder Satz vollständig formulieren."
+      },
+      {
+        "step": 3,
+        "title": "Prüfen",
+        "instruction": "Orthografie und Grammatik mit dem Ziel vergleichen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "تَدْعَمُ الْبَيَانَاتُ هٰذَا التَّفْسِيرَ، مَعَ ضَرُورَةِ مُرَاعَاةِ حُدُودِ الْعَيِّنَةِ.",
+        "arabicUnvocalized": "تدعم البيانات هٰذا التفسير، مع ضرورة مراعاة حدود العينة.",
+        "german": "Die Daten stützen diese Interpretation, wobei die Grenzen der Stichprobe berücksichtigt werden müssen."
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "تَدْعَمُ الْبَيَانَاتُ هٰذَا التَّفْسِيرَ، مَعَ ضَرُورَةِ مُرَاعَاةِ حُدُودِ الْعَيِّنَةِ.",
+      "arabicUnvocalized": "تدعم البيانات هٰذا التفسير، مع ضرورة مراعاة حدود العينة.",
+      "german": "Die Daten stützen diese Interpretation, wobei die Grenzen der Stichprobe berücksichtigt werden müssen."
+    },
+    "cefrLevel": "C1",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Formuliere eine vorsichtige akademische Behauptung mit Beleg und Einschränkung."
+    ],
+    "reviewTags": [
+      "writing",
+      "c1",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  },
+  {
+    "id": "register_shift",
+    "title": "Register gezielt wechseln",
+    "description": "Formuliere dieselbe Aussage in einem präzisen formellen Register.",
+    "targetVocalized": "تَقْتَضِي دِقَّةُ الْخِطَابِ تَمْيِيزَ الْمَعْنَى الصَّرِيحِ مِنَ الْمَعْنَى الضِّمْنِيِّ.",
+    "targetUnvocalized": "تقتضي دقة الخطاب تمييز المعنى الصريح من المعنى الضمني.",
+    "prompt": "Formuliere dieselbe Aussage in einem präzisen formellen Register.",
+    "expectedAnswer": "تقتضي دقة الخطاب تمييز المعنى الصريح من المعنى الضمني.",
+    "taskType": "free_text",
+    "order": 914,
+    "level": 7,
+    "type": "free",
+    "hints": [
+      "Plane zuerst die Aussage, dann die sprachliche Form.",
+      "Kontrolliere Wortstellung, Kongruenz und Orthografie."
+    ],
+    "strokeSteps": [
+      {
+        "step": 1,
+        "title": "Planen",
+        "instruction": "Ziel und Schlüsselwörter festlegen."
+      },
+      {
+        "step": 2,
+        "title": "Schreiben",
+        "instruction": "Den Ausdruck oder Satz vollständig formulieren."
+      },
+      {
+        "step": 3,
+        "title": "Prüfen",
+        "instruction": "Orthografie und Grammatik mit dem Ziel vergleichen."
+      }
+    ],
+    "practiceWords": [
+      {
+        "arabicVocalized": "تَقْتَضِي دِقَّةُ الْخِطَابِ تَمْيِيزَ الْمَعْنَى الصَّرِيحِ مِنَ الْمَعْنَى الضِّمْنِيِّ.",
+        "arabicUnvocalized": "تقتضي دقة الخطاب تمييز المعنى الصريح من المعنى الضمني.",
+        "german": "Präziser Diskurs erfordert die Unterscheidung expliziter und impliziter Bedeutung."
+      }
+    ],
+    "practiceSentence": {
+      "arabicVocalized": "تَقْتَضِي دِقَّةُ الْخِطَابِ تَمْيِيزَ الْمَعْنَى الصَّرِيحِ مِنَ الْمَعْنَى الضِّمْنِيِّ.",
+      "arabicUnvocalized": "تقتضي دقة الخطاب تمييز المعنى الصريح من المعنى الضمني.",
+      "german": "Präziser Diskurs erfordert die Unterscheidung expliziter und impliziter Bedeutung."
+    },
+    "cefrLevel": "C2",
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Fusha-Redaktion – fachliche Endprüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Formuliere dieselbe Aussage in einem präzisen formellen Register."
+    ],
+    "reviewTags": [
+      "writing",
+      "c2",
+      "curriculum-expansion"
+    ],
+    "arabicVariety": "fusha"
+  }
+]

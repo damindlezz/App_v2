@@ -1,0 +1,1040 @@
+[
+  {
+    "id": "q0_mushaf_bridge",
+    "quranLevel": "Q0",
+    "title": "Vom Fusha-Text zur Muṣḥaf-Schrift",
+    "description": "Unterschiede der Standardschrift und der ʿUṯmānī-Schreibweise erkennen.",
+    "order": 1,
+    "category": "script",
+    "objective": "Unterschiede der Standardschrift und der ʿUṯmānī-Schreibweise erkennen",
+    "rules": [
+      "Hochgestellte Zeichen und kleine Zusatzbuchstaben erkennen.",
+      "Hamzat al-waṣl und besondere Alif-Schreibungen unterscheiden."
+    ],
+    "signs": [
+      {
+        "symbol": "ٱ",
+        "name": "Hamzat al-waṣl",
+        "explanation": "Verbindungs-Hamza am Wortanfang."
+      },
+      {
+        "symbol": "ٰ",
+        "name": "Kleines Alif",
+        "explanation": "Zeigt einen langen ā-Laut an."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q0_mushaf_bridge_example",
+        "arabic": "ٱ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Unterschiede der Standardschrift und der ʿUṯmānī-Schreibweise erkennen"
+    ],
+    "reviewTags": [
+      "quran",
+      "q0",
+      "script"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q0_signs",
+    "quranLevel": "Q0",
+    "title": "Zusatzzeichen sicher erkennen",
+    "description": "Häufige Muṣḥaf-Zeichen und ihre Lesefunktion unterscheiden.",
+    "order": 2,
+    "category": "script",
+    "objective": "Häufige Muṣḥaf-Zeichen und ihre Lesefunktion unterscheiden",
+    "rules": [
+      "Kleine Zeichen werden als Lesehilfe und nicht als eigenständige Buchstaben interpretiert.",
+      "Die genaue Muṣḥaf-Ausgabe muss redaktionell festgelegt werden."
+    ],
+    "signs": [
+      {
+        "symbol": "۟",
+        "name": "Kleines Sukūnzeichen",
+        "explanation": "Kennzeichnet in bestimmten Ausgaben eine Lesefunktion."
+      },
+      {
+        "symbol": "ـٔ",
+        "name": "Hamza-Zeichen",
+        "explanation": "Hamza kann auf unterschiedlichen Trägern erscheinen."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q0_signs_example",
+        "arabic": "۟",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q0_mushaf_bridge"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Häufige Muṣḥaf-Zeichen und ihre Lesefunktion unterscheiden"
+    ],
+    "reviewTags": [
+      "quran",
+      "q0",
+      "script"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q0_full_vocalization",
+    "quranLevel": "Q0",
+    "title": "Vollständige Vokalisierung",
+    "description": "Quranische Wörter mit Harakat, Tanwīn, Sukūn und Schadda langsam lesen.",
+    "order": 3,
+    "category": "reading",
+    "objective": "Quranische Wörter mit Harakat, Tanwīn, Sukūn und Schadda langsam lesen",
+    "rules": [
+      "Kurze und lange Vokale sauber unterscheiden.",
+      "Schadda als Konsonantenverdoppelung lesen."
+    ],
+    "signs": [
+      {
+        "symbol": "ً ٍ ٌ",
+        "name": "Tanwīn",
+        "explanation": "Doppelte Vokalzeichen mit n-Ausklang."
+      },
+      {
+        "symbol": "ّ",
+        "name": "Schadda",
+        "explanation": "Verdoppelt den Konsonanten."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q0_full_vocalization_example",
+        "arabic": "ً ٍ ٌ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q0_signs"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Quranische Wörter mit Harakat, Tanwīn, Sukūn und Schadda langsam lesen"
+    ],
+    "reviewTags": [
+      "quran",
+      "q0",
+      "reading"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q1_word_flow",
+    "quranLevel": "Q1",
+    "title": "Wortverbindungen und Lesefluss",
+    "description": "Wortgrenzen und verbundene Aussprache kontrolliert lesen.",
+    "order": 4,
+    "category": "reading",
+    "objective": "Wortgrenzen und verbundene Aussprache kontrolliert lesen",
+    "rules": [
+      "Wortbilder zuerst segmentieren, dann verbunden lesen.",
+      "Langsames korrektes Lesen hat Vorrang vor Geschwindigkeit."
+    ],
+    "signs": [],
+    "examples": [
+      {
+        "id": "q1_word_flow_example",
+        "arabic": "مِنْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q0_full_vocalization"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Wortgrenzen und verbundene Aussprache kontrolliert lesen"
+    ],
+    "reviewTags": [
+      "quran",
+      "q1",
+      "reading"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q1_hamzat_wasl",
+    "quranLevel": "Q1",
+    "title": "Hamzat al-waṣl im Lesefluss",
+    "description": "Erkennen, wann Hamzat al-waṣl gesprochen oder verbunden wird.",
+    "order": 5,
+    "category": "reading",
+    "objective": "Erkennen, wann Hamzat al-waṣl gesprochen oder verbunden wird",
+    "rules": [
+      "Beim Beginn wird die Anfangssilbe gesprochen.",
+      "Beim Verbinden kann der Hamza-Laut entfallen."
+    ],
+    "signs": [
+      {
+        "symbol": "ٱ",
+        "name": "Hamzat al-waṣl",
+        "explanation": "Markiert den Verbindungsbeginn."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q1_hamzat_wasl_example",
+        "arabic": "ٱ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q1_word_flow"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Erkennen, wann Hamzat al-waṣl gesprochen oder verbunden wird"
+    ],
+    "reviewTags": [
+      "quran",
+      "q1",
+      "reading"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q1_waqf_signs",
+    "quranLevel": "Q1",
+    "title": "Pausen- und Fortsetzungszeichen",
+    "description": "Grundlegende Waqf-Zeichen beim Anhalten und Weiterlesen beachten.",
+    "order": 6,
+    "category": "reading",
+    "objective": "Grundlegende Waqf-Zeichen beim Anhalten und Weiterlesen beachten",
+    "rules": [
+      "Pausenzeichen steuern Sinn und Atemführung.",
+      "Nicht jedes Zeichen bedeutet dieselbe Stärke der Pause."
+    ],
+    "signs": [
+      {
+        "symbol": "م",
+        "name": "Verbindliche Pause",
+        "explanation": "In der gewählten Ausgabe als starke Pause markiert."
+      },
+      {
+        "symbol": "لا",
+        "name": "Nicht anhalten",
+        "explanation": "Weiterlesen wird empfohlen."
+      },
+      {
+        "symbol": "ج",
+        "name": "Beides möglich",
+        "explanation": "Anhalten oder Weiterlesen ist möglich."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q1_waqf_signs_example",
+        "arabic": "م",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q1_hamzat_wasl"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Grundlegende Waqf-Zeichen beim Anhalten und Weiterlesen beachten"
+    ],
+    "reviewTags": [
+      "quran",
+      "q1",
+      "reading"
+    ],
+    "cefrLevel": "A0",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q2_makharij",
+    "quranLevel": "Q2",
+    "title": "Artikulationsorte",
+    "description": "Laute nach Lippen, Zunge, Rachen und Nasenraum unterscheiden.",
+    "order": 7,
+    "category": "tajweed",
+    "objective": "Laute nach Lippen, Zunge, Rachen und Nasenraum unterscheiden",
+    "rules": [
+      "Artikulationsorte müssen mit qualifiziertem Audio und Lehrkraft geprüft werden.",
+      "Ähnliche Laute werden kontrastiv geübt."
+    ],
+    "signs": [],
+    "examples": [
+      {
+        "id": "q2_makharij_example",
+        "arabic": "مِنْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q1_waqf_signs"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Laute nach Lippen, Zunge, Rachen und Nasenraum unterscheiden"
+    ],
+    "reviewTags": [
+      "quran",
+      "q2",
+      "tajweed"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q2_nun_tanwin",
+    "quranLevel": "Q2",
+    "title": "Nūn sākinah und Tanwīn",
+    "description": "Iẓhār, Idġām, Iqlāb und Iḫfāʾ grundlegend erkennen.",
+    "order": 8,
+    "category": "tajweed",
+    "objective": "Iẓhār, Idġām, Iqlāb und Iḫfāʾ grundlegend erkennen",
+    "rules": [
+      "Die Folgebuchstaben bestimmen die Regel.",
+      "Hören und Nachsprechen ergänzen die visuelle Regel."
+    ],
+    "signs": [
+      {
+        "symbol": "نْ",
+        "name": "Nūn sākinah",
+        "explanation": "Nūn ohne Vokal."
+      },
+      {
+        "symbol": "ً ٍ ٌ",
+        "name": "Tanwīn",
+        "explanation": "n-Ausklang der Doppelvokale."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q2_nun_tanwin_example",
+        "arabic": "نْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q2_makharij"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Iẓhār, Idġām, Iqlāb und Iḫfāʾ grundlegend erkennen"
+    ],
+    "reviewTags": [
+      "quran",
+      "q2",
+      "tajweed"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q2_mim_sakinah",
+    "quranLevel": "Q2",
+    "title": "Mīm sākinah",
+    "description": "Iẓhār šafawī, Idġām šafawī und Iḫfāʾ šafawī unterscheiden.",
+    "order": 9,
+    "category": "tajweed",
+    "objective": "Iẓhār šafawī, Idġām šafawī und Iḫfāʾ šafawī unterscheiden",
+    "rules": [
+      "Die Lippenartikulation ist zentral.",
+      "Die Folgebuchstaben م und ب lösen besondere Regeln aus."
+    ],
+    "signs": [
+      {
+        "symbol": "مْ",
+        "name": "Mīm sākinah",
+        "explanation": "Mīm ohne Vokal."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q2_mim_sakinah_example",
+        "arabic": "مْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q2_nun_tanwin"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Iẓhār šafawī, Idġām šafawī und Iḫfāʾ šafawī unterscheiden"
+    ],
+    "reviewTags": [
+      "quran",
+      "q2",
+      "tajweed"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q2_qalqala",
+    "quranLevel": "Q2",
+    "title": "Qalqala",
+    "description": "Qalqala-Buchstaben und ihre hörbare Entlastung erkennen.",
+    "order": 10,
+    "category": "tajweed",
+    "objective": "Qalqala-Buchstaben und ihre hörbare Entlastung erkennen",
+    "rules": [
+      "Die Buchstaben ق ط ب ج د bilden die bekannte Merkhilfe.",
+      "Bei Pause und Wortmitte kann die Stärke unterschiedlich sein."
+    ],
+    "signs": [
+      {
+        "symbol": "ق ط ب ج د",
+        "name": "Qalqala-Buchstaben",
+        "explanation": "Konsonanten mit hörbarer Entlastung bei Sukūn."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q2_qalqala_example",
+        "arabic": "ق ط ب ج د",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q2_mim_sakinah"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Qalqala-Buchstaben und ihre hörbare Entlastung erkennen"
+    ],
+    "reviewTags": [
+      "quran",
+      "q2",
+      "tajweed"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q2_madd",
+    "quranLevel": "Q2",
+    "title": "Madd und Lautlänge",
+    "description": "Natürliche Verlängerung und erste weitere Madd-Arten unterscheiden.",
+    "order": 11,
+    "category": "tajweed",
+    "objective": "Natürliche Verlängerung und erste weitere Madd-Arten unterscheiden",
+    "rules": [
+      "Längen werden in Zähleinheiten gelernt.",
+      "Audio muss die gewählte Lesart zuverlässig abbilden."
+    ],
+    "signs": [
+      {
+        "symbol": "ا و ي",
+        "name": "Madd-Buchstaben",
+        "explanation": "Träger langer Vokale."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q2_madd_example",
+        "arabic": "ا و ي",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q2_qalqala"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Natürliche Verlängerung und erste weitere Madd-Arten unterscheiden"
+    ],
+    "reviewTags": [
+      "quran",
+      "q2",
+      "tajweed"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q3_emphasis",
+    "quranLevel": "Q3",
+    "title": "Tafḫīm und Tarqīq",
+    "description": "Dunkle und helle Artikulation in bekannten Kontexten unterscheiden.",
+    "order": 12,
+    "category": "recitation",
+    "objective": "Dunkle und helle Artikulation in bekannten Kontexten unterscheiden",
+    "rules": [
+      "Emphatische Laute verändern den Klangraum.",
+      "Kontextregeln werden schrittweise eingeführt."
+    ],
+    "signs": [],
+    "examples": [
+      {
+        "id": "q3_emphasis_example",
+        "arabic": "مِنْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q2_madd"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Dunkle und helle Artikulation in bekannten Kontexten unterscheiden"
+    ],
+    "reviewTags": [
+      "quran",
+      "q3",
+      "recitation"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q3_ra_lam",
+    "quranLevel": "Q3",
+    "title": "Regeln für Rāʾ und Lām",
+    "description": "Grundregeln für helle und dunkle Aussprache von Rāʾ und Lām anwenden.",
+    "order": 13,
+    "category": "recitation",
+    "objective": "Grundregeln für helle und dunkle Aussprache von Rāʾ und Lām anwenden",
+    "rules": [
+      "Rāʾ hängt von Vokalisierung und Nachbarschaft ab.",
+      "Lām im Gottesnamen besitzt besondere Kontextregeln."
+    ],
+    "signs": [
+      {
+        "symbol": "ر",
+        "name": "Rāʾ",
+        "explanation": "Kann je nach Kontext hell oder dunkel sein."
+      },
+      {
+        "symbol": "ل",
+        "name": "Lām",
+        "explanation": "Besondere Regel im Gottesnamen."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q3_ra_lam_example",
+        "arabic": "ر",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q3_emphasis"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Grundregeln für helle und dunkle Aussprache von Rāʾ und Lām anwenden"
+    ],
+    "reviewTags": [
+      "quran",
+      "q3",
+      "recitation"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q3_connected_recitation",
+    "quranLevel": "Q3",
+    "title": "Verbundene Rezitation",
+    "description": "Mehrere Verse langsam, mit Waqf und korrekten Übergängen verbinden.",
+    "order": 14,
+    "category": "recitation",
+    "objective": "Mehrere Verse langsam, mit Waqf und korrekten Übergängen verbinden",
+    "rules": [
+      "Atemführung und Sinnabschnitte werden gemeinsam geplant.",
+      "Korrektheit bleibt wichtiger als Tempo."
+    ],
+    "signs": [],
+    "examples": [
+      {
+        "id": "q3_connected_recitation_example",
+        "arabic": "مِنْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q3_ra_lam"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Mehrere Verse langsam, mit Waqf und korrekten Übergängen verbinden"
+    ],
+    "reviewTags": [
+      "quran",
+      "q3",
+      "recitation"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q4_advanced_signs",
+    "quranLevel": "Q4",
+    "title": "Fortgeschrittene Zeichen und Besonderheiten",
+    "description": "Seltenere Zeichen und orthografische Besonderheiten kontrolliert deuten.",
+    "order": 15,
+    "category": "recitation",
+    "objective": "Seltenere Zeichen und orthografische Besonderheiten kontrolliert deuten",
+    "rules": [
+      "Die konkrete Muṣḥaf-Ausgabe ist verbindliche Referenz.",
+      "Sonderfälle werden nur mit fachlich geprüften Beispielen veröffentlicht."
+    ],
+    "signs": [],
+    "examples": [
+      {
+        "id": "q4_advanced_signs_example",
+        "arabic": "مِنْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q3_connected_recitation"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Seltenere Zeichen und orthografische Besonderheiten kontrolliert deuten"
+    ],
+    "reviewTags": [
+      "quran",
+      "q4",
+      "recitation"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q4_frequent_words",
+    "quranLevel": "Q4",
+    "title": "Häufige Quranwörter",
+    "description": "Häufige Wortwurzeln und Grundbedeutungen als Verständnisbrücke nutzen.",
+    "order": 16,
+    "category": "language",
+    "objective": "Häufige Wortwurzeln und Grundbedeutungen als Verständnisbrücke nutzen",
+    "rules": [
+      "Die Bedeutung im Vers kann vom allgemeinen Wörterbuchwert abweichen.",
+      "Fusha-Verwendung und Quran-Kontext werden getrennt erklärt."
+    ],
+    "signs": [],
+    "examples": [
+      {
+        "id": "q4_frequent_words_example",
+        "arabic": "مِنْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q4_advanced_signs"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Häufige Wortwurzeln und Grundbedeutungen als Verständnisbrücke nutzen"
+    ],
+    "reviewTags": [
+      "quran",
+      "q4",
+      "language"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q4_grammar_bridge",
+    "quranLevel": "Q4",
+    "title": "Brücke zur Quran-Grammatik",
+    "description": "Bekannte Fusha-Grammatik beim Lesen ausgewählter Strukturen nutzen.",
+    "order": 17,
+    "category": "language",
+    "objective": "Bekannte Fusha-Grammatik beim Lesen ausgewählter Strukturen nutzen",
+    "rules": [
+      "Kasus, Verbformen und Ellipsen werden nur einführend markiert.",
+      "Der Lesepfad ersetzt keine Tafsīr- oder Fachausbildung."
+    ],
+    "signs": [],
+    "examples": [
+      {
+        "id": "q4_grammar_bridge_example",
+        "arabic": "مِنْ",
+        "german": "Technisches Lese- oder Regelbeispiel",
+        "note": "Redaktioneller Entwurf; kein vollständiger Quranvers."
+      }
+    ],
+    "prerequisites": [
+      "q4_frequent_words"
+    ],
+    "contentVersion": "0.10.0",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-05",
+    "learningObjectives": [
+      "Bekannte Fusha-Grammatik beim Lesen ausgewählter Strukturen nutzen"
+    ],
+    "reviewTags": [
+      "quran",
+      "q4",
+      "language"
+    ],
+    "cefrLevel": "A1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q5_function_words",
+    "quranLevel": "Q5",
+    "title": "Funktionswörter im Quran",
+    "description": "Häufige Partikeln, Präpositionen und Pronomen im Qurantext funktional erkennen.",
+    "order": 917,
+    "category": "language",
+    "objective": "Häufige Partikeln, Präpositionen und Pronomen im Qurantext funktional erkennen.",
+    "rules": [
+      "Funktionswörter verbinden Satzteile und steuern Beziehungen.",
+      "Pronomen werden über Referenz und Kontext aufgelöst.",
+      "Partikeln werden nicht isoliert, sondern in typischen Strukturen gelernt."
+    ],
+    "signs": [
+      {
+        "symbol": "مِنْ",
+        "name": "Technischer Marker",
+        "explanation": "Redaktionelles Analysezeichen; kein vollständiger Quranvers."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q5_function_words_example",
+        "arabic": "مِنْ",
+        "german": "Technisches Wort-/Strukturbeispiel",
+        "note": "Redaktioneller Entwurf; keine eigenständige Übersetzung eines vollständigen Quranverses."
+      }
+    ],
+    "prerequisites": [
+      "q4_grammar_bridge"
+    ],
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Häufige Partikeln, Präpositionen und Pronomen im Qurantext funktional erkennen."
+    ],
+    "reviewTags": [
+      "quran",
+      "q5",
+      "language",
+      "curriculum-expansion"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q5_frequent_roots",
+    "quranLevel": "Q5",
+    "title": "Häufige Wurzeln",
+    "description": "Wiederkehrende Wurzeln und ihre Bedeutungsfelder beim Lesen als Orientierung nutzen.",
+    "order": 917,
+    "category": "language",
+    "objective": "Wiederkehrende Wurzeln und ihre Bedeutungsfelder beim Lesen als Orientierung nutzen.",
+    "rules": [
+      "Wurzeln liefern semantische Hinweise, aber keine vollständige Übersetzung.",
+      "Formmuster verändern Wortart und Bedeutung.",
+      "Kontext entscheidet zwischen möglichen Bedeutungsnuancen."
+    ],
+    "signs": [
+      {
+        "symbol": "ك ت ب",
+        "name": "Technischer Marker",
+        "explanation": "Redaktionelles Analysezeichen; kein vollständiger Quranvers."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q5_frequent_roots_example",
+        "arabic": "ك ت ب",
+        "german": "Technisches Wort-/Strukturbeispiel",
+        "note": "Redaktioneller Entwurf; keine eigenständige Übersetzung eines vollständigen Quranverses."
+      }
+    ],
+    "prerequisites": [
+      "q5_function_words"
+    ],
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Wiederkehrende Wurzeln und ihre Bedeutungsfelder beim Lesen als Orientierung nutzen."
+    ],
+    "reviewTags": [
+      "quran",
+      "q5",
+      "language",
+      "curriculum-expansion"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q5_word_families",
+    "quranLevel": "Q5",
+    "title": "Quranische Wortfamilien",
+    "description": "Verwandte Formen einer Wurzel vergleichen und im Satz funktional unterscheiden.",
+    "order": 916,
+    "category": "language",
+    "objective": "Verwandte Formen einer Wurzel vergleichen und im Satz funktional unterscheiden.",
+    "rules": [
+      "Wortfamilien werden nach Form und Satzfunktion unterschieden.",
+      "Ähnliche Wurzel bedeutet nicht identische Bedeutung.",
+      "Vokalisierung und Syntax helfen bei der Einordnung."
+    ],
+    "signs": [
+      {
+        "symbol": "ع ل م",
+        "name": "Technischer Marker",
+        "explanation": "Redaktionelles Analysezeichen; kein vollständiger Quranvers."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q5_word_families_example",
+        "arabic": "ع ل م",
+        "german": "Technisches Wort-/Strukturbeispiel",
+        "note": "Redaktioneller Entwurf; keine eigenständige Übersetzung eines vollständigen Quranverses."
+      }
+    ],
+    "prerequisites": [
+      "q5_frequent_roots"
+    ],
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Verwandte Formen einer Wurzel vergleichen und im Satz funktional unterscheiden."
+    ],
+    "reviewTags": [
+      "quran",
+      "q5",
+      "language",
+      "curriculum-expansion"
+    ],
+    "cefrLevel": "A2",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q6_nominal_patterns",
+    "quranLevel": "Q6",
+    "title": "Nominale Strukturen",
+    "description": "Nominalsätze, Iḍāfa und attributive Strukturen im Qurantext analysieren.",
+    "order": 919,
+    "category": "language",
+    "objective": "Nominalsätze, Iḍāfa und attributive Strukturen im Qurantext analysieren.",
+    "rules": [
+      "Nominale Kerne zuerst identifizieren.",
+      "Iḍāfa verbindet zwei oder mehr Nominalelemente.",
+      "Attribute folgen ihrem Bezugswort in zentralen Kongruenzmerkmalen."
+    ],
+    "signs": [
+      {
+        "symbol": "الـ",
+        "name": "Technischer Marker",
+        "explanation": "Redaktionelles Analysezeichen; kein vollständiger Quranvers."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q6_nominal_patterns_example",
+        "arabic": "الـ",
+        "german": "Technisches Wort-/Strukturbeispiel",
+        "note": "Redaktioneller Entwurf; keine eigenständige Übersetzung eines vollständigen Quranverses."
+      }
+    ],
+    "prerequisites": [
+      "q5_word_families"
+    ],
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Nominalsätze, Iḍāfa und attributive Strukturen im Qurantext analysieren."
+    ],
+    "reviewTags": [
+      "quran",
+      "q6",
+      "language",
+      "curriculum-expansion"
+    ],
+    "cefrLevel": "B1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q6_verbal_patterns",
+    "quranLevel": "Q6",
+    "title": "Verbale Strukturen",
+    "description": "Verbformen, Subjektbezug und Ergänzungen in Qurantexten systematisch analysieren.",
+    "order": 918,
+    "category": "language",
+    "objective": "Verbformen, Subjektbezug und Ergänzungen in Qurantexten systematisch analysieren.",
+    "rules": [
+      "Verbform und Wurzel gemeinsam bestimmen.",
+      "Explizites und implizites Subjekt unterscheiden.",
+      "Partikeln vor dem Verb können Modus und Bedeutung beeinflussen."
+    ],
+    "signs": [
+      {
+        "symbol": "يـ",
+        "name": "Technischer Marker",
+        "explanation": "Redaktionelles Analysezeichen; kein vollständiger Quranvers."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q6_verbal_patterns_example",
+        "arabic": "يـ",
+        "german": "Technisches Wort-/Strukturbeispiel",
+        "note": "Redaktioneller Entwurf; keine eigenständige Übersetzung eines vollständigen Quranverses."
+      }
+    ],
+    "prerequisites": [
+      "q6_nominal_patterns"
+    ],
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Verbformen, Subjektbezug und Ergänzungen in Qurantexten systematisch analysieren."
+    ],
+    "reviewTags": [
+      "quran",
+      "q6",
+      "language",
+      "curriculum-expansion"
+    ],
+    "cefrLevel": "B1",
+    "arabicVariety": "quranic"
+  },
+  {
+    "id": "q6_reference_cohesion",
+    "quranLevel": "Q6",
+    "title": "Referenz und Kohäsion",
+    "description": "Pronomen, Verweise und Satzverknüpfungen über mehrere Textsegmente hinweg verfolgen.",
+    "order": 921,
+    "category": "language",
+    "objective": "Pronomen, Verweise und Satzverknüpfungen über mehrere Textsegmente hinweg verfolgen.",
+    "rules": [
+      "Pronomenreferenz über Genus, Numerus und Kontext prüfen.",
+      "Konnektoren markieren argumentative oder narrative Beziehungen.",
+      "Mehrdeutige Referenzen werden nicht ohne Kontext festgelegt."
+    ],
+    "signs": [
+      {
+        "symbol": "هُ",
+        "name": "Technischer Marker",
+        "explanation": "Redaktionelles Analysezeichen; kein vollständiger Quranvers."
+      }
+    ],
+    "examples": [
+      {
+        "id": "q6_reference_cohesion_example",
+        "arabic": "هُ",
+        "german": "Technisches Wort-/Strukturbeispiel",
+        "note": "Redaktioneller Entwurf; keine eigenständige Übersetzung eines vollständigen Quranverses."
+      }
+    ],
+    "prerequisites": [
+      "q6_verbal_patterns"
+    ],
+    "contentVersion": "0.12.1",
+    "status": "draft",
+    "source": "Quran-/Tajwīd-Redaktion – fachliche und lizenzrechtliche Prüfung ausstehend",
+    "lastUpdated": "2026-08-15",
+    "learningObjectives": [
+      "Pronomen, Verweise und Satzverknüpfungen über mehrere Textsegmente hinweg verfolgen."
+    ],
+    "reviewTags": [
+      "quran",
+      "q6",
+      "language",
+      "curriculum-expansion"
+    ],
+    "cefrLevel": "B1",
+    "arabicVariety": "quranic"
+  }
+]

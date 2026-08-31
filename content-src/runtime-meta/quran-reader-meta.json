@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "layers": [
+    {
+      "id": "quran_text",
+      "label": "ʿUṯmānī-Qurantext",
+      "description": "Verifizierter arabischer Primärtext mit stabilen Sure:Vers-IDs.",
+      "multiple": false,
+      "entries": [
+        {
+          "id": "quran_text_uthmani_texlive",
+          "label": "ʿUṯmānī-Qurantext · Reviewbasis",
+          "sourceId": "src_quran_uthmani_texlive",
+          "locatorText": "qurantext-uthmani.def · 6.236 fortlaufende Ayat · TeX Live quran package (2024)",
+          "dataPath": "quran-reader/quran_text/uthmani-texlive-quran.json",
+          "license": "LPPL 1.3c+ (quran package); Attribution siehe QURAN_CONTENT_PROVENANCE.md",
+          "licenseVerified": true,
+          "reviewStatus": "referenced",
+          "language": "ar",
+          "notes": "Vollständig migriert und in App/Editor sichtbar. Redaktionelle Textgegenprüfung gegen die gewünschte verbindliche Mushaf-/Quranquelle bleibt offen."
+        }
+      ]
+    },
+    {
+      "id": "translation",
+      "label": "Übersetzung",
+      "description": "Versgenaue Übersetzung; mehrere geprüfte Übersetzungen sind möglich.",
+      "multiple": true,
+      "entries": [
+        {
+          "id": "translation_abu_reda_de_texlive",
+          "label": "Abu Reda / Ibn Rassoul - Deutsch - LPPL-Quelldatei",
+          "sourceId": "src_quran_abu_reda_de_texlive",
+          "locatorText": "qurantext-de.translation.def - 6.236 Ayat - TeX Live quran package v2.3 (2024)",
+          "dataPath": "quran-reader/translation/abu-reda-de-texlive.json",
+          "license": "LPPL 1.3c+ laut Header der verwendeten Quelldatei; Konvertierung/Attribution dokumentiert.",
+          "licenseVerified": true,
+          "reviewStatus": "referenced",
+          "language": "de",
+          "notes": "Vollstaendig migriert. Text wurde aus der lokal vorhandenen, explizit LPPL-lizenzierten quran-Paketdatei konvertiert. Redaktionelle Textpruefung bleibt offen."
+        }
+      ]
+    },
+    {
+      "id": "tafsir",
+      "label": "Tafsir",
+      "description": "Versgenaue Tafsir-Daten mit Werk-, Edition- und Fundstellenbezug.",
+      "multiple": true,
+      "entries": [
+        {
+          "id": "tafsir_rassoul_de",
+          "label": "Tafsir Al-Qurʾan Al-Karim - M. Ibn Rassoul - Deutsch",
+          "sourceId": "src_tafsir_rassoul_de",
+          "locatorText": "Mylinde/Tafsir - tafsir-json/de_tafsir_complete.json - 41. Auflage - versgenaue JSON-Konvertierung",
+          "dataPath": "quran-reader/tafsir/rassoul-de.json",
+          "license": "Vervielfaeltigung, Nachdruck und Uebersetzung erlaubt, wenn die Quelle genannt wird; Attribution erforderlich.",
+          "licenseVerified": true,
+          "reviewStatus": "referenced",
+          "language": "de",
+          "notes": "Deutscher Tafsir. DESKTOP_ENTWICKLUNG_STARTEN.bat laedt die komplette JSON-Quelle, expandiert Versbereiche auf 6.236 Referenzen und migriert HTML zu lesbarem Text."
+        }
+      ]
+    },
+    {
+      "id": "word_analysis",
+      "label": "Wortanalyse",
+      "description": "Token, Lemma, Wurzel, Morphologie und Wortbedeutung.",
+      "multiple": true,
+      "entries": [
+        {
+          "id": "word_analysis_uthmani_token_review",
+          "label": "Wortanalyse - 77.433 Token - Reviewbasis",
+          "sourceId": "src_quran_word_review_derived",
+          "locatorText": "Ableitung aus quran_text_uthmani_texlive - 6.236 Ayat - stabile 1-basierte Wortpositionen",
+          "dataPath": "quran-reader/word_analysis/uthmani-token-review.json",
+          "license": "Eigenstaendige technische Ableitung aus dem eingebetteten LPPL-Qurantext; keine externe Morphologiedatenbank kopiert.",
+          "licenseVerified": true,
+          "reviewStatus": "draft",
+          "language": "ar",
+          "notes": "Vollstaendige Wortsegmentierung fuer Review. Lemma, Wurzel, Wortbedeutung und Morphologie bleiben absichtlich leer, bis ein passend lizenzierter Fachkorpus importiert wird."
+        },
+        {
+          "id": "word_analysis_qac_v04",
+          "label": "Quranic Arabic Corpus v0.4 · Morphologie",
+          "sourceId": "src_quranic_arabic_corpus_morphology",
+          "locatorText": "Quranic Arabic Corpus - morphology v0.4 - word-level morphology/syntax",
+          "dataPath": "quran-reader/word_analysis/qac-v04.json",
+          "license": "GNU GPL / offizielle Corpus-Nutzungsbedingungen: App-Nutzung mit Attribution; Originaldaten unveraendert halten.",
+          "licenseVerified": true,
+          "reviewStatus": "referenced",
+          "language": "ar",
+          "notes": "P3-Importer aktiv: scripts/import-qac-morphology.py. Offizielle Rohdatei wird aus Lizenz-/Bezugsgruenden nicht automatisch heruntergeladen; fehlende Morphologiefelder werden im UI ausgeblendet."
+        },
+        {
+          "id": "word_analysis_abureda_derived_wbw_de",
+          "label": "Deutsche Wortglossen · Offline-Fallback",
+          "sourceId": "src_quran_wbw_de_derived_abureda",
+          "locatorText": "Deterministische Wortausrichtung aus Abu Reda / Ibn Rassoul Versübersetzung + Uthmani-Tokenlayer",
+          "dataPath": "quran-reader/word_analysis/abureda-derived-wbw-de.json",
+          "license": "Abgeleitete Reviewdaten aus den im Projekt eingebetteten LPPL-1.3c+-Datensätzen; keine externe WBW-Datenbank kopiert.",
+          "licenseVerified": true,
+          "reviewStatus": "draft",
+          "language": "de",
+          "notes": "77.433 Offline-Fallback-Glosses. Automatisch ausgerichtet und redaktionell prüfpflichtig. Quran-Foundation-Wortdaten überschreiben diese Werte, sobald ein vollständiger QF-Cache vorhanden ist."
+        },
+        {
+          "id": "word_analysis_quran_foundation_wbw_de",
+          "label": "Deutsche Wortübersetzungen · Quran Foundation API",
+          "sourceId": "src_quran_foundation_wbw_de",
+          "locatorText": "Quran Foundation Content API v4 · language=de · words=true · lokaler Credential-Sync",
+          "dataPath": "quran-reader/word_analysis/quran-foundation-wbw-de.json",
+          "license": "Quran Foundation Developer Terms; Anzeige innerhalb der App, Attribution erforderlich; Rohdaten nicht separat redistribuieren.",
+          "licenseVerified": true,
+          "reviewStatus": "referenced",
+          "language": "de",
+          "notes": "Der zentrale Quran-Sync cached die API-Antworten pro Sure lokal und migriert sie anschließend in Offline-Content, wenn QF_CLIENT_ID und QF_CLIENT_SECRET gesetzt sind. Das Source-ZIP enthält keine geschützten Rohdaten."
+        }
+      ]
+    },
+    {
+      "id": "tajweed",
+      "label": "Tajwīd-Annotationen",
+      "description": "Span-genaue Tajwīd-Regeln mit Erklärung und Review.",
+      "multiple": true,
+      "entries": [
+        {
+          "id": "tajweed_orthographic_review",
+          "label": "Tajwid - orthographische Review-Hinweise",
+          "sourceId": "src_quran_tajweed_review_derived",
+          "locatorText": "Regelbasierte Ableitung aus quran_text_uthmani_texlive; Wortspannen 1-basiert",
+          "dataPath": "quran-reader/tajweed/orthographic-review.json",
+          "license": "Eigenstaendige algorithmische Ableitung aus dem eingebetteten LPPL-Qurantext; keine fremden Tajwid-Annotationen kopiert.",
+          "licenseVerified": true,
+          "reviewStatus": "draft",
+          "language": "ar",
+          "notes": "Reviewbasis, nicht fachlich freigegeben. Erkannt werden u.a. Ghunnah, Qalqalah, Madd-Hinweise, Hamzat al-Wasl, Lam Shamsiyyah sowie konservative wortuebergreifende Nun/Tanwin-Regeln."
+        }
+      ]
+    },
+    {
+      "id": "mushaf_13_line",
+      "label": "13-Zeilen-Muṣḥaf",
+      "description": "Verifiziertes page → line → word-Mapping für stabile Hifz-Positionen.",
+      "multiple": false,
+      "entries": [
+        {
+          "id": "mushaf_13line_indopak_waqar_mit",
+          "label": "13-Zeilen-Mushaf - IndoPak - Quran Revision Companion (MIT)",
+          "sourceId": "src_mushaf_13line_waqar_mit",
+          "locatorText": "Waqar144/quran_memorization_helper - lib/quran_data/thirteen_line_indopak_layout.dart - Page/Line-Anker aus ayahIdx + wordStartInAyahIdx",
+          "dataPath": "quran-reader/mushaf_13_line/indopak-waqar-mit.json",
+          "license": "MIT - Repository-Lizenz; Attribution in THIRD_PARTY_NOTICES.md.",
+          "licenseVerified": true,
+          "reviewStatus": "referenced",
+          "language": "ar",
+          "notes": "Rechtlich geeignete 13-Zeilen-Layoutquelle identifiziert. DESKTOP_ENTWICKLUNG_STARTEN.bat lädt die MIT-Quelldatei automatisch, validiert 847 Seiten und migriert sie mit scripts/import-mushaf-13-line-dart.py. Bei Offlinebetrieb wird kein Mapping erfunden."
+        }
+      ]
+    },
+    {
+      "id": "recitation_audio",
+      "label": "Rezitationsaudio",
+      "description": "Ayah-/Wort-Audio mit Qāriʾ-, Lizenz- und Versionsangabe.",
+      "multiple": true,
+      "entries": [
+        {
+          "id": "recitation_audio_quranlab_reference",
+          "label": "QuranLab - Abdul Basit - externe Vers-Audio-Referenzen",
+          "sourceId": "src_quran_audio_quranlab_reference",
+          "locatorText": "quranlab/quran-audio - metadata/recitations.csv - recitation_id abdul-basit - 6.236 externe audio_url-Referenzen",
+          "dataPath": "quran-reader/recitation_audio/quranlab-reference.json",
+          "license": "Referenzmetadaten; Audioaufnahmen bleiben bei Rezitator/Produzent und werden nicht gebuendelt. Externes Streaming unter den Bedingungen der Originalquelle.",
+          "licenseVerified": true,
+          "reviewStatus": "referenced",
+          "language": "ar",
+          "notes": "Die BAT laedt nur QuranLab-Referenzmetadaten. Keine Audio-Bytes werden in der App redistribuiert. Klick auf einen Vers streamt die Originalquelle."
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-08-24T22:27:50.785440Z"
+}
