@@ -1,0 +1,13 @@
+{
+  "name": "Fusha · Arabisch & Quran Lernen",
+  "short_name": "Fusha",
+  "description": "Offline-Lernapp für Arabisch, Quran, Hifz und islamische Wissenschaften",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090c14",
+  "theme_color": "#090c14",
+  "orientation": "any",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

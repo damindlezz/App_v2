@@ -1,0 +1,16 @@
+@import '../src/styles/tokens.css';
+@import '../src/styles/base.css';
+@import '../src/styles/shell.css';
+@import '../src/styles/reader.css';
+@import '../src/styles/features.css';
+@import '../src/styles/practice.css';
+@import '../src/styles/nur4.css';
+@import '../src/styles/polish.css';
+@import '../src/styles/performance.css';
+@import '../src/styles/reference-redesign.css';
+
+/* responsive.css must stay the LAST import: it holds the @media breakpoint
+   overrides for the study workspaces (module/quran/hifz) and must always win
+   the cascade against later-added non-media rules, regardless of source
+   order elsewhere. */
+@import '../src/styles/responsive.css';
