@@ -1,0 +1,24 @@
+[package]
+name = "arabisch-lernen"
+version = "0.25.4"
+description = "Offline-Fusha-Kurs mit Quran-Lesebrücke"
+authors = ["Arabisch Lernen"]
+edition = "2021"
+rust-version = "1.80"
+
+[lib]
+name = "arabisch_lernen_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "=2.6.2", features = [] }
+
+[dependencies]
+tauri = { version = "=2.11.2", features = [] }
+tauri-plugin-sql = { version = "=2.4.0", features = ["sqlite"] }
+sqlx = { version = "=0.8.5", default-features = false, features = ["runtime-tokio", "sqlite"] }
+# tauri-plugin-sql 2.4.0 aktiviert rust_decimal transitiv ueber SQLx.
+# Exakt pinnen, damit ein frischer Build ohne Cargo.lock nicht jeweils die neueste 1.x-Version zieht.
+rust_decimal = { version = "=1.40.0", default-features = false, features = ["std", "serde"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"

@@ -1,0 +1,50 @@
+{
+  "name": "nur-quran-akademie",
+  "private": true,
+  "version": "0.25.4",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0 -p 1420",
+    "build": "npm run build:content && npm run verify && next build && npm run verify:export",
+    "start": "npm run verify:export && python -m http.server 1421 -d out",
+    "check": "npm run content:ensure && npm run check:storage && tsc --noEmit && npm run validate:content",
+    "test": "node --test tests/*.test.mjs",
+    "verify": "npm run check && npm run test && npm run test:migrations",
+    "build:content": "python scripts/build-content.py",
+    "validate:content": "node scripts/validate-content.mjs",
+    "check:storage": "node scripts/check-storage-conformance.mjs",
+    "test:migrations": "python scripts/test-sqlite-migrations.py",
+    "tauri": "tauri",
+    "desktop:dev": "tauri dev",
+    "desktop:build": "tauri build",
+    "android:init": "tauri android init",
+    "android:dev": "tauri android dev",
+    "android:build": "tauri android build --apk",
+    "release:manifest": "node scripts/create-release-manifest.mjs",
+    "clean": "node scripts/clean-project.mjs",
+    "verify:export": "node scripts/verify-next-export.mjs",
+    "verify:platforms": "node scripts/verify-platform-config.mjs",
+    "verify:source": "node scripts/verify-source-package.mjs",
+    "qa:release": "npm run build && npm run verify:platforms",
+    "audit:p3": "node scripts/p3-content-audit.mjs",
+    "content:ensure": "node scripts/ensure-dev-content.mjs --build",
+    "content:rebuild": "node scripts/ensure-dev-content.mjs --force"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "2.11.1",
+    "@tauri-apps/plugin-sql": "2.4.0",
+    "next": "^16.0.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "2.11.2",
+    "@types/node": "^22.0.0",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.5",
+    "playwright-core": "1.62.1",
+    "typescript": "5.8.3"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}
